@@ -1,0 +1,741 @@
+id,subreddit,author,created_date,created_utc,title,selftext,text,cleaned_text,score,num_comments,original_text_len,cleaned_text_len,year,month,day_of_week,hour,permalink,url,is_burnout_related,burnout_probability,confidence_score,classifier_used
+18wuhvk,cybersecurity,faraday192,2024-01-02 17:13:30,1704215610,How do you peeps handle burnout and frustration?,"I work for a MSSP, recently due to various things like Performance Reviews (happy with the ratings but not the compensation) and workload, i have been feeling down.. 
+
+I used to love being busy, used to love being swamped, these days - i am not confident, feeling really uncomfortable and unprepared. End of the day - i feel guilty for being unproductive…
+
+How do you handle this?? Is this just me? 
+
+Sorry if this is the wrong forum!!!! Feel free to delete of not in compliance","How do you peeps handle burnout and frustration?
+I work for a MSSP, recently due to various things like Performance Reviews (happy with the ratings but not the compensation) and workload, i have been feeling down.. 
+
+I used to love being busy, used to love being swamped, these days - i am not confident, feeling really uncomfortable and unprepared. End of the day - i feel guilty for being unproductive…
+
+How do you handle this?? Is this just me? 
+
+Sorry if this is the wrong forum!!!! Feel free to delete of not in compliance",how do you peeps handle burnout and frustration i work for a mssp recently due to various things like performance reviews and workload i have been feeling down.. i used to love being busy used to love being swamped these days   i am not confident feeling really uncomfortable and unprepared. end of the day   i feel guilty for being unproductive how do you handle this is this just me sorry if this is the wrong forum feel free to delete of not in compliance,1,6,527,458,2024,1,Tuesday,17,/r/cybersecurity/comments/18wuhvk/how_do_you_peeps_handle_burnout_and_frustration/,https://www.reddit.com/r/cybersecurity/comments/18wuhvk/how_do_you_peeps_handle_burnout_and_frustration/,1,0.8624790347256492,0.8624790347256492,SVM (Linear)
+18zkb5o,cybersecurity,RedOblivion01,2024-01-05 22:59:54,1704495594,How do you handle burnout as a senior security engineer?,"Context: my manager is pushing me hard to take on staff responsibilities, which I have been pushing back on for the last 12 months. I am not interested in handling political aspects that come with the staff role. This has caused severe burnout and is making me hate the work and my manager. I have started looking for roles outside, but wondering if this community has any tips.","How do you handle burnout as a senior security engineer?
+Context: my manager is pushing me hard to take on staff responsibilities, which I have been pushing back on for the last 12 months. I am not interested in handling political aspects that come with the staff role. This has caused severe burnout and is making me hate the work and my manager. I have started looking for roles outside, but wondering if this community has any tips.",how do you handle burnout as a senior security engineer context: my manager is pushing me hard to take on staff responsibilities which i have been pushing back on for the last    months. i am not interested in handling political aspects that come with the staff role. this has caused severe burnout and is making me hate the work and my manager. i have started looking for roles outside but wondering if this community has any tips.,1,67,435,432,2024,1,Friday,22,/r/cybersecurity/comments/18zkb5o/how_do_you_handle_burnout_as_a_senior_security/,https://www.reddit.com/r/cybersecurity/comments/18zkb5o/how_do_you_handle_burnout_as_a_senior_security/,1,0.9235913145922212,0.9235913145922212,SVM (Linear)
+190upfp,cybersecurity,Ambrai2020,2024-01-07 15:34:27,1704641667,Taking an extended leave,"If burnout was a destination I’d have to turn around and drive back to it because I’m whatever comes after that and before death. 
+
+I’ve been in the field for over 24 years (but still in my early 40s) so it’s the only job I’ve ever had. Lots of personal stuff to unpack but whatever. Left pretty much the worst company during the layoffs, and got conned into a new job that had “great wlb” (it’s a global 24 hour IR role, lol)
+
+Anyway long winded way of saying, I need to take a year off, and just let my brain fix itself. This economy is one of the worst I’ve seen and I’m low key terrified I won’t be able to be hired when I return.  
+
+Anyone done something similar? Advice? Solidarity?","Taking an extended leave
+If burnout was a destination I’d have to turn around and drive back to it because I’m whatever comes after that and before death. 
+
+I’ve been in the field for over 24 years (but still in my early 40s) so it’s the only job I’ve ever had. Lots of personal stuff to unpack but whatever. Left pretty much the worst company during the layoffs, and got conned into a new job that had “great wlb” (it’s a global 24 hour IR role, lol)
+
+Anyway long winded way of saying, I need to take a year off, and just let my brain fix itself. This economy is one of the worst I’ve seen and I’m low key terrified I won’t be able to be hired when I return.  
+
+Anyone done something similar? Advice? Solidarity?",taking an extended leave if burnout was a destination i d have to turn around and drive back to it because i m whatever comes after that and before death. i ve been in the field for over    years so it s the only job i ve ever had. lots of personal stuff to unpack but whatever. left pretty much the worst company during the layoffs and got conned into a new job that had great wlb anyway long winded way of saying i need to take a year off and just let my brain fix itself. this economy is one of the worst i ve seen and i m low key terrified i won t be able to be hired when i return. anyone done something similar advice solidarity,51,45,713,634,2024,1,Sunday,15,/r/cybersecurity/comments/190upfp/taking_an_extended_leave/,https://www.reddit.com/r/cybersecurity/comments/190upfp/taking_an_extended_leave/,1,0.948889456325602,0.948889456325602,SVM (Linear)
+1985qib,cybersecurity,Inevitable_Angle_566,2024-01-16 15:38:21,1705419501,Burnout,"I have been feeling burnt out for a while now. Was really hoping that the feelings would go away over the holiday break, but they haven't fully.
+
+I should be more grateful to have the role that I do. The people are nice, they let me work hybrid (mostly from home, few days in office here and there), and I feel more or less appreciated for the things I do.
+
+On the other hand, it's hard to think of the last time I had a low-key day where I wasn't working on an active project and could catch up on learning. I guess there were one or two days here and there over the past 2-3 months. As I finish my ongoing project, I can see the next one(s) coming in the pipeline, and I feel dread.
+
+I am fairly certain that other people are not working on anything, or at least are getting much more downtime, and this makes me feel bitter. Some projects are vastly different than others and require learning so many new things in short periods of time that I feel like I am lost and drowning. Some projects have many stalls caused by client issues, then they flip out and try to rush us through the actual work.
+
+I can't easily leave because postings for similar roles ask for several years experience and certifications that I don't have. I don't even confident in my abilities anymore to actually apply and interview elsewhere.
+
+Rant over.. guess I was wondering if anybody is feeling the same way.","Burnout
+I have been feeling burnt out for a while now. Was really hoping that the feelings would go away over the holiday break, but they haven't fully.
+
+I should be more grateful to have the role that I do. The people are nice, they let me work hybrid (mostly from home, few days in office here and there), and I feel more or less appreciated for the things I do.
+
+On the other hand, it's hard to think of the last time I had a low-key day where I wasn't working on an active project and could catch up on learning. I guess there were one or two days here and there over the past 2-3 months. As I finish my ongoing project, I can see the next one(s) coming in the pipeline, and I feel dread.
+
+I am fairly certain that other people are not working on anything, or at least are getting much more downtime, and this makes me feel bitter. Some projects are vastly different than others and require learning so many new things in short periods of time that I feel like I am lost and drowning. Some projects have many stalls caused by client issues, then they flip out and try to rush us through the actual work.
+
+I can't easily leave because postings for similar roles ask for several years experience and certifications that I don't have. I don't even confident in my abilities anymore to actually apply and interview elsewhere.
+
+Rant over.. guess I was wondering if anybody is feeling the same way.",burnout i have been feeling burnt out for a while now. was really hoping that the feelings would go away over the holiday break but they haven t fully. i should be more grateful to have the role that i do. the people are nice they let me work hybrid and i feel more or less appreciated for the things i do. on the other hand it s hard to think of the last time i had a low key day where i wasn t working on an active project and could catch up on learning. i guess there were one or two days here and there over the past     months. as i finish my ongoing project i can see the next one coming in the pipeline and i feel dread. i am fairly certain that other people are not working on anything or at least are getting much more downtime and this makes me feel bitter. some projects are vastly different than others and require learning so many new things in short periods of time that i feel like i am lost and drowning. some projects have many stalls caused by client issues then they flip out and try to rush us through the actual work. i can t easily leave because postings for similar roles ask for several years experience and certifications that i don t have. i don t even confident in my abilities anymore to actually apply and interview elsewhere. rant over.. guess i was wondering if anybody is feeling the same way.,1,0,1396,1325,2024,1,Tuesday,15,/r/cybersecurity/comments/1985qib/burnout/,https://www.reddit.com/r/cybersecurity/comments/1985qib/burnout/,1,0.9430356788866228,0.9430356788866228,SVM (Linear)
+1aqdz5e,cybersecurity,AdMajestic6357,2024-02-14 04:14:20,1707884060,"More than 80% cybersecurity professionals in India suffering from burnout, claims report; and why it is d",Is it?,"More than 80% cybersecurity professionals in India suffering from burnout, claims report; and why it is d
+Is it?",more than    cybersecurity professionals in india suffering from burnout claims report and why it is d is it,6,10,112,108,2024,2,Wednesday,4,/r/cybersecurity/comments/1aqdz5e/more_than_80_cybersecurity_professionals_in_india/,https://timesofindia.indiatimes.com/gadgets-news/more-than-80-cybersecurity-professionals-in-india-suffering-from-burnout-claims-report-and-why-it-is-dangerous-for-companies/articleshow/107630643.cms,1,0.9037702513610872,0.9037702513610872,SVM (Linear)
+1axdzp0,cybersecurity,merseytech,2024-02-22 18:39:24,1708627164,I’m beyond burnt out,"I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today. 
+","I’m beyond burnt out
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.",i m beyond burnt out i m not really sure what i hope to achieve by posting this perhaps some confirmation it s not just me and i m not alone. i work as a senior information security manager for a large corporation and i m so close to total burnout it s unreal. i just don t know how much more of this i can take. the role itself is really interesting and i enjoy what i do but everyday every conversation with engineering feels like a battle. i ve tried everything but nothing works. no matter how collaborative i try to be they just want to do their own thing and slow roll anything we need or ask for. this is pervasive across the whole department from the management team down. i ve had multiple instances where i ve secured funding for projects based on their costs only to have them jack up the costs once budgets are approved. they complain they have no resources to work on projects we ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do. they cut us out of every conversation but i don t understand what. we re really collaborative we never just say no .. i m constantly second guessing myself now and my approach. i soften everything for fear this is somehow my fault and i m approaching things in the wrong way but in my heart of hearts i know it s not me. i honestly wanted to quit today.,1,0,1386,1367,2024,2,Thursday,18,/r/cybersecurity/comments/1axdzp0/im_beyond_burnt_out/,https://www.reddit.com/r/cybersecurity/comments/1axdzp0/im_beyond_burnt_out/,1,0.9024180816036896,0.9024180816036896,SVM (Linear)
+1axe1ig,cybersecurity,Upbeat_Row_8674,2024-02-22 18:41:18,1708627278,I’m beyond burnt out ,"I’m beyond burnt out
+
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today. 
+","I’m beyond burnt out
+I’m beyond burnt out
+
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.",i m beyond burnt out i m beyond burnt out i m not really sure what i hope to achieve by posting this perhaps some confirmation it s not just me and i m not alone. i work as a senior information security manager for a large corporation and i m so close to total burnout it s unreal. i just don t know how much more of this i can take. the role itself is really interesting and i enjoy what i do but everyday every conversation with engineering feels like a battle. i ve tried everything but nothing works. no matter how collaborative i try to be they just want to do their own thing and slow roll anything we need or ask for. this is pervasive across the whole department from the management team down. i ve had multiple instances where i ve secured funding for projects based on their costs only to have them jack up the costs once budgets are approved. they complain they have no resources to work on projects we ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do. they cut us out of every conversation but i don t understand what. we re really collaborative we never just say no .. i m constantly second guessing myself now and my approach. i soften everything for fear this is somehow my fault and i m approaching things in the wrong way but in my heart of hearts i know it s not me. i honestly wanted to quit today.,406,144,1408,1388,2024,2,Thursday,18,/r/cybersecurity/comments/1axe1ig/im_beyond_burnt_out/,https://www.reddit.com/r/cybersecurity/comments/1axe1ig/im_beyond_burnt_out/,1,0.9488092763112916,0.9488092763112916,SVM (Linear)
+1b3arw3,cybersecurity,tigeronshrooms,2024-02-29 20:43:15,1709239395,Is a Degree important for my care er? ,"Hey guys, i am a Junior Pentester and work since 7 Months at my company and i love this Job. I also study Computer science (first Semester) but i Kinda hate it. I learned some Things but nothing helped me at my Job. Everything helpful i learned Was during work or on HackTheBox and i feel i am wasting my time getting the Degree, because i could learn more by working more hours and getting Certificates etc. Would it be dumb to stop studying at the University? I dont own any other Degree. 
+
+Would my future career prospects be diminished? Or can i make as much money without a Degree when i just work With love and dedication? Feel free to share your experiences. Thanks! 
+","Is a Degree important for my care er?
+Hey guys, i am a Junior Pentester and work since 7 Months at my company and i love this Job. I also study Computer science (first Semester) but i Kinda hate it. I learned some Things but nothing helped me at my Job. Everything helpful i learned Was during work or on HackTheBox and i feel i am wasting my time getting the Degree, because i could learn more by working more hours and getting Certificates etc. Would it be dumb to stop studying at the University? I dont own any other Degree. 
+
+Would my future career prospects be diminished? Or can i make as much money without a Degree when i just work With love and dedication? Feel free to share your experiences. Thanks!",is a degree important for my care er hey guys i am a junior pentester and work since   months at my company and i love this job. i also study computer science but i kinda hate it. i learned some things but nothing helped me at my job. everything helpful i learned was during work or on hackthebox and i feel i am wasting my time getting the degree because i could learn more by working more hours and getting certificates etc. would it be dumb to stop studying at the university i dont own any other degree. would my future career prospects be diminished or can i make as much money without a degree when i just work with love and dedication feel free to share your experiences. thanks,1,19,711,685,2024,2,Thursday,20,/r/cybersecurity/comments/1b3arw3/is_a_degree_important_for_my_care_er/,https://www.reddit.com/r/cybersecurity/comments/1b3arw3/is_a_degree_important_for_my_care_er/,1,0.7252138058601761,0.7252138058601761,SVM (Linear)
+1b8zbax,cybersecurity,Due_Employment_5068,2024-03-07 16:50:01,1709830201,"[serious] Veterans of IT security, how do you cope? I spent an entire therapy hour bitching about my job and management.","Edit - TY all for your responses. Obviously nothing “net new” in terms of have hobbies, hit the gym etc. Of course it all makes sense, and I 100% agree.
+
+What gets me at my current job is that everybody, coworkers, mgmt, leadership, all of them talk up a storm about how important security is, and at the same time really don’t give a shit, as soon as they actually have to do something about it.
+
+Idk- I think I need to switch to consulting or something. Then I could literally not give a shit about the outcome and get paid nicely.
+
+Here, it’s like - I’m better off shutting my mouth and don’t rock the boat. But lord have mercy if something would happen that I would have known about and wouldn’t have pushed it.
+
+Constant CYA mode and feeling like I have to pretend to care while nobody else does- I think that is what grinds me down the most.
+
+Twofaced hypocritical BS.
+
+Ty all.
+
+——-
+
+
+Personal support in a different sense lol.
+
+Decades ago, when I started out, I’ve heard that professionals in IT security burn out after about 10 years.  I’ve been in the field for 25 years. I think there needs to be different severity levels of burnout. 
+
+If I could quit working altogether,  I would walk away, and never look back.
+
+Sages, gurus and veterans of the field, how do you deal with the fact that nobody, including management, CISOs,  friends, coworkers, literally anybody in your life do not care about the job you do, as long as you don’t cause them any more work, as long as you don’t make them feel bad in any way, shape or form (unintentionally, just by nature of your profession), that you’re just a risk documenter, resource unit, warm body, a cog in the wheel of compliance, etc?
+
+And don’t tell me that you like the pay (same), “it is what it is”, “nothing I can do”, etc. how do you actually manage to compartmentalize?
+
+How do you keep away your frustration and disappointment from your significant others, families, etc.?
+
+What hobbies do you have to help you cope?
+
+I’ve picked up a number of them in the past few years, but I sometimes have a hard time even focusing on them, because sometimes my doubts in my purpose in this field are really strong, and distract me from being able to focus on other things. 
+
+The fact that literally nobody cares whatsoever, I am mostly used to it, but sometimes it really gets to me.
+
+Thanks.
+
+
+","[serious] Veterans of IT security, how do you cope? I spent an entire therapy hour bitching about my job and management.
+Edit - TY all for your responses. Obviously nothing “net new” in terms of have hobbies, hit the gym etc. Of course it all makes sense, and I 100% agree.
+
+What gets me at my current job is that everybody, coworkers, mgmt, leadership, all of them talk up a storm about how important security is, and at the same time really don’t give a shit, as soon as they actually have to do something about it.
+
+Idk- I think I need to switch to consulting or something. Then I could literally not give a shit about the outcome and get paid nicely.
+
+Here, it’s like - I’m better off shutting my mouth and don’t rock the boat. But lord have mercy if something would happen that I would have known about and wouldn’t have pushed it.
+
+Constant CYA mode and feeling like I have to pretend to care while nobody else does- I think that is what grinds me down the most.
+
+Twofaced hypocritical BS.
+
+Ty all.
+
+——-
+
+
+Personal support in a different sense lol.
+
+Decades ago, when I started out, I’ve heard that professionals in IT security burn out after about 10 years.  I’ve been in the field for 25 years. I think there needs to be different severity levels of burnout. 
+
+If I could quit working altogether,  I would walk away, and never look back.
+
+Sages, gurus and veterans of the field, how do you deal with the fact that nobody, including management, CISOs,  friends, coworkers, literally anybody in your life do not care about the job you do, as long as you don’t cause them any more work, as long as you don’t make them feel bad in any way, shape or form (unintentionally, just by nature of your profession), that you’re just a risk documenter, resource unit, warm body, a cog in the wheel of compliance, etc?
+
+And don’t tell me that you like the pay (same), “it is what it is”, “nothing I can do”, etc. how do you actually manage to compartmentalize?
+
+How do you keep away your frustration and disappointment from your significant others, families, etc.?
+
+What hobbies do you have to help you cope?
+
+I’ve picked up a number of them in the past few years, but I sometimes have a hard time even focusing on them, because sometimes my doubts in my purpose in this field are really strong, and distract me from being able to focus on other things. 
+
+The fact that literally nobody cares whatsoever, I am mostly used to it, but sometimes it really gets to me.
+
+Thanks.",veterans of it security how do you cope i spent an entire therapy hour bitching about my job and management. edit   ty all for your responses. obviously nothing net new in terms of have hobbies hit the gym etc. of course it all makes sense and i     agree. what gets me at my current job is that everybody coworkers mgmt leadership all of them talk up a storm about how important security is and at the same time really don t give a shit as soon as they actually have to do something about it. idk  i think i need to switch to consulting or something. then i could literally not give a shit about the outcome and get paid nicely. here it s like   i m better off shutting my mouth and don t rock the boat. but lord have mercy if something would happen that i would have known about and wouldn t have pushed it. constant cya mode and feeling like i have to pretend to care while nobody else does  i think that is what grinds me down the most. twofaced hypocritical bs. ty all.   personal support in a different sense lol. decades ago when i started out i ve heard that professionals in it security burn out after about    years. i ve been in the field for    years. i think there needs to be different severity levels of burnout. if i could quit working altogether i would walk away and never look back. sages gurus and veterans of the field how do you deal with the fact that nobody including management cisos friends coworkers literally anybody in your life do not care about the job you do as long as you don t cause them any more work as long as you don t make them feel bad in any way shape or form that you re just a risk documenter resource unit warm body a cog in the wheel of compliance etc and don t tell me that you like the pay it is what it is nothing i can do etc. how do you actually manage to compartmentalize how do you keep away your frustration and disappointment from your significant others families etc. what hobbies do you have to help you cope i ve picked up a number of them in the past few years but i sometimes have a hard time even focusing on them because sometimes my doubts in my purpose in this field are really strong and distract me from being able to focus on other things. the fact that literally nobody cares whatsoever i am mostly used to it but sometimes it really gets to me. thanks.,37,50,2467,2321,2024,3,Thursday,16,/r/cybersecurity/comments/1b8zbax/serious_veterans_of_it_security_how_do_you_cope_i/,https://www.reddit.com/r/cybersecurity/comments/1b8zbax/serious_veterans_of_it_security_how_do_you_cope_i/,1,0.7185126948159919,0.7185126948159919,SVM (Linear)
+1b9mg72,cybersecurity,sloppyredditor,2024-03-08 12:12:27,1709899947,Discussion thread: Actionable advice to mitigate burnout,"In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.  
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:  
+·       Perceived lack of control  
+·       Lack of clear expectations of you or the role  
+·       Heavy workloads/Unreasonable deadlines  
+·       Poor relationships/Lack of support/Unfair treatment  
+·       Problems with work-life balance  
+  
+I will add ""A persistent stream of negativity"" to the pile.  
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.","Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.  
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:  
+·       Perceived lack of control  
+·       Lack of clear expectations of you or the role  
+·       Heavy workloads/Unreasonable deadlines  
+·       Poor relationships/Lack of support/Unfair treatment  
+·       Problems with work-life balance  
+  
+I will add ""A persistent stream of negativity"" to the pile.  
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",discussion thread: actionable advice to mitigate burnout in      a study by yerbo found over    of tech workers have felt burnout and were ready to quit. my issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. honestly the key is in the serenity prayer : accept the things you cannot change be brave enough to change what you can and be wise enough to know the difference. start with root cause: mayo clinic kaiser permanente and greater good say the top causes of burnout are: perceived lack of control lack of clear expectations of you or the role heavy workloads unreasonable deadlines poor relationships lack of support unfair treatment problems with work life balance i will add a persistent stream of negativity to the pile. the good news is it can be manageable if we are open alert and supportive. the bad news is you need to do much of the work yourself. retention is vital and this is an opportunity to improve engagement perception and overall health. please join me in putting actionable advice in the comments.,1,1,1176,1066,2024,3,Friday,12,/r/cybersecurity/comments/1b9mg72/discussion_thread_actionable_advice_to_mitigate/,https://www.reddit.com/r/cybersecurity/comments/1b9mg72/discussion_thread_actionable_advice_to_mitigate/,1,0.9555921324093906,0.9555921324093906,SVM (Linear)
+1bfj11l,cybersecurity,lostatan,2024-03-15 17:11:57,1710522717,What's the point of this career if you're so stressed?,"jw, I'm about to graduate soon and it's between this and general software dev","What's the point of this career if you're so stressed?
+jw, I'm about to graduate soon and it's between this and general software dev",what s the point of this career if you re so stressed jw i m about to graduate soon and it s between this and general software dev,82,115,132,130,2024,3,Friday,17,/r/cybersecurity/comments/1bfj11l/whats_the_point_of_this_career_if_youre_so/,https://www.reddit.com/r/cybersecurity/comments/1bfj11l/whats_the_point_of_this_career_if_youre_so/,1,0.7147386810664975,0.7147386810664975,SVM (Linear)
+1c42eyx,cybersecurity,mandos_io,2024-04-14 19:51:18,1713124278,"Week in Brief #47: Palo Alto Zero-Day Exploited, AI-Powered Malware, CISO Burnout, and the Value of Mentorship",,"Week in Brief #47: Palo Alto Zero-Day Exploited, AI-Powered Malware, CISO Burnout, and the Value of Mentorship",week in brief   : palo alto zero day exploited ai powered malware ciso burnout and the value of mentorship,13,3,110,106,2024,4,Sunday,19,/r/cybersecurity/comments/1c42eyx/week_in_brief_47_palo_alto_zeroday_exploited/,https://mandos.io/newsletter/brief-47-palo-alto-zero-day-exploited-ai-powered-malware-ciso-burnout-and-the-value-of-mentorship/,1,0.9048928543915034,0.9048928543915034,SVM (Linear)
+1cd4xcq,cybersecurity,lizleads,2024-04-25 22:36:55,1714084615,Job Stress,"Hi Everyone,  
+  
+I'm doing a college paper on the effects and working in the Tech Industry for my Psych class  
+  
+Feel free to message me if you'd like to jump on a 5 minute call, or want to give me the answers privately  
+  
+But if not, I was hoping any of you could answer some of these questions.  
+  
+It would greatly help me:  
+  
+1. What is frustrating (or annoying) you right now with your stress level?  
+2. What have you been told to do in the past that hasn't worked?  
+3. If you could work out 1 problem around stress with a therapist, what would that be?  
+4. What is 1 thing you have experienced while working with stress that you wish more people talked about/had more support around  
+5. If you could have less stress, what would that look like?  
+6. What is the missing piece for your life to get to less stress?  
+7. What do you find most annoying about your stress levels  
+Additional questions (if you're brave):  
+1. Is there a story about stress that you never want to experience again  
+2. What do you find annoying about stress and engineering? If you could choose 1 thing about stress and control it 100%, what would that be  
+3. If you went to a therapist, and got a call for free, What is the one question you would ask  
+4. What is your goal with controlling stress? What would change for you if this was achieved  
+  
+Thank you sooo much!!  
+If you are stressed, maybe your answers will help others in the same position","Job Stress
+Hi Everyone,  
+  
+I'm doing a college paper on the effects and working in the Tech Industry for my Psych class  
+  
+Feel free to message me if you'd like to jump on a 5 minute call, or want to give me the answers privately  
+  
+But if not, I was hoping any of you could answer some of these questions.  
+  
+It would greatly help me:  
+  
+1. What is frustrating (or annoying) you right now with your stress level?  
+2. What have you been told to do in the past that hasn't worked?  
+3. If you could work out 1 problem around stress with a therapist, what would that be?  
+4. What is 1 thing you have experienced while working with stress that you wish more people talked about/had more support around  
+5. If you could have less stress, what would that look like?  
+6. What is the missing piece for your life to get to less stress?  
+7. What do you find most annoying about your stress levels  
+Additional questions (if you're brave):  
+1. Is there a story about stress that you never want to experience again  
+2. What do you find annoying about stress and engineering? If you could choose 1 thing about stress and control it 100%, what would that be  
+3. If you went to a therapist, and got a call for free, What is the one question you would ask  
+4. What is your goal with controlling stress? What would change for you if this was achieved  
+  
+Thank you sooo much!!  
+If you are stressed, maybe your answers will help others in the same position",job stress hi everyone i m doing a college paper on the effects and working in the tech industry for my psych class feel free to message me if you d like to jump on a   minute call or want to give me the answers privately but if not i was hoping any of you could answer some of these questions. it would greatly help me:  . what is frustrating you right now with your stress level  . what have you been told to do in the past that hasn t worked  . if you could work out   problem around stress with a therapist what would that be  . what is   thing you have experienced while working with stress that you wish more people talked about had more support around  . if you could have less stress what would that look like  . what is the missing piece for your life to get to less stress  . what do you find most annoying about your stress levels additional questions :  . is there a story about stress that you never want to experience again  . what do you find annoying about stress and engineering if you could choose   thing about stress and control it     what would that be  . if you went to a therapist and got a call for free what is the one question you would ask  . what is your goal with controlling stress what would change for you if this was achieved thank you sooo much if you are stressed maybe your answers will help others in the same position,0,1,1483,1356,2024,4,Thursday,22,/r/cybersecurity/comments/1cd4xcq/job_stress/,https://www.reddit.com/r/cybersecurity/comments/1cd4xcq/job_stress/,1,0.8528851689233374,0.8528851689233374,SVM (Linear)
+1cfnxvb,cybersecurity,SnowyWolfie420,2024-04-29 02:21:24,1714357284,Burnout,"I’m currently on vacation from work. For the first time in so long, I feel actual peace. My phone will not ring randomly from an OpsGenie on-call alert. I deleted Microsoft Teams so nobody can ping me when I am eating or after 5pm. I deleted Microsoft Outlook so I have no status update emails.
+
+I really liked my job, but I don’t think I am going to go back. I do not have another job lined up. I know that’s a bad idea, but I have enough in savings to feel comfortable quitting when I get back.
+
+My job used to be really cool. And then they fired half my team. And then the other half left because the company thought about outsourcing. I know you’re not supposed to be best friends with the people you worked with, but all the breaches we went through really bonded me to them. We worked awful hours to save the day and we made it happen time and time again.
+
+Now my company has a layoff every few months. I had a private conversation with of the VPs and he told me not to worry about the upcoming layoffs because “people just don’t know how to take it”. He was laid off right after them. They fired one of the few people telling everyone things were okay.
+
+I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways. I just want to enjoy Security again.","Burnout
+I’m currently on vacation from work. For the first time in so long, I feel actual peace. My phone will not ring randomly from an OpsGenie on-call alert. I deleted Microsoft Teams so nobody can ping me when I am eating or after 5pm. I deleted Microsoft Outlook so I have no status update emails.
+
+I really liked my job, but I don’t think I am going to go back. I do not have another job lined up. I know that’s a bad idea, but I have enough in savings to feel comfortable quitting when I get back.
+
+My job used to be really cool. And then they fired half my team. And then the other half left because the company thought about outsourcing. I know you’re not supposed to be best friends with the people you worked with, but all the breaches we went through really bonded me to them. We worked awful hours to save the day and we made it happen time and time again.
+
+Now my company has a layoff every few months. I had a private conversation with of the VPs and he told me not to worry about the upcoming layoffs because “people just don’t know how to take it”. He was laid off right after them. They fired one of the few people telling everyone things were okay.
+
+I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways. I just want to enjoy Security again.",burnout i m currently on vacation from work. for the first time in so long i feel actual peace. my phone will not ring randomly from an opsgenie on call alert. i deleted microsoft teams so nobody can ping me when i am eating or after  pm. i deleted microsoft outlook so i have no status update emails. i really liked my job but i don t think i am going to go back. i do not have another job lined up. i know that s a bad idea but i have enough in savings to feel comfortable quitting when i get back. my job used to be really cool. and then they fired half my team. and then the other half left because the company thought about outsourcing. i know you re not supposed to be best friends with the people you worked with but all the breaches we went through really bonded me to them. we worked awful hours to save the day and we made it happen time and time again. now my company has a layoff every few months. i had a private conversation with of the vps and he told me not to worry about the upcoming layoffs because people just don t know how to take it . he was laid off right after them. they fired one of the few people telling everyone things were okay. i don t want to use the word trauma but my now ex job has really messed with my head so many ways. i just want to enjoy security again.,56,44,1305,1295,2024,4,Monday,2,/r/cybersecurity/comments/1cfnxvb/burnout/,https://www.reddit.com/r/cybersecurity/comments/1cfnxvb/burnout/,1,0.9402313685867906,0.9402313685867906,SVM (Linear)
+1cg4mcz,cybersecurity,lizleads,2024-04-29 17:15:37,1714410937,Stress in Tech Jobs ,"Hi,  I'm doing a research paper for my psych class about stress in tech professions.  I would love to speak with someone over the phone.  But I understand you may be too busy for that.  
+
+  
+If anyone could answer a few questions, I'd greatly appreciate it
+
+  
+1)  What causes you stress?
+
+  
+2)  How would you feel if there was less stress in your job?  Is there an ideal outcome you'd want?
+
+  
+3) What's stopping you from getting help for your stress?
+
+  
+4) What have you done that has worked/hasn't worked when it comes to stress management?
+
+  
+5)  If there's anything else you'd like to mention about this topic, I'd greatly appreciate it
+
+  
+Thanks again.  I feel people are often struggling with mental health, so maybe your anonymous answers might help someone else out there know they aren't alone","Stress in Tech Jobs
+Hi,  I'm doing a research paper for my psych class about stress in tech professions.  I would love to speak with someone over the phone.  But I understand you may be too busy for that.  
+
+  
+If anyone could answer a few questions, I'd greatly appreciate it
+
+  
+1)  What causes you stress?
+
+  
+2)  How would you feel if there was less stress in your job?  Is there an ideal outcome you'd want?
+
+  
+3) What's stopping you from getting help for your stress?
+
+  
+4) What have you done that has worked/hasn't worked when it comes to stress management?
+
+  
+5)  If there's anything else you'd like to mention about this topic, I'd greatly appreciate it
+
+  
+Thanks again.  I feel people are often struggling with mental health, so maybe your anonymous answers might help someone else out there know they aren't alone",stress in tech jobs hi i m doing a research paper for my psych class about stress in tech professions. i would love to speak with someone over the phone. but i understand you may be too busy for that. if anyone could answer a few questions i d greatly appreciate it   what causes you stress   how would you feel if there was less stress in your job is there an ideal outcome you d want   what s stopping you from getting help for your stress   what have you done that has worked hasn t worked when it comes to stress management   if there s anything else you d like to mention about this topic i d greatly appreciate it thanks again. i feel people are often struggling with mental health so maybe your anonymous answers might help someone else out there know they aren t alone,3,8,828,776,2024,4,Monday,17,/r/cybersecurity/comments/1cg4mcz/stress_in_tech_jobs/,https://www.reddit.com/r/cybersecurity/comments/1cg4mcz/stress_in_tech_jobs/,1,0.9451258986500914,0.9451258986500914,SVM (Linear)
+1cm4aqd,cybersecurity,allmycircuit5,2024-05-07 05:25:05,1715059505,Being burnt out within the first 6 months,"Started as a cloud security engineer 6 months ago at this new company which is shockingly under resourced which has resulted me doing the work of 3 people. We're hiring in all the wrong areas and don't have enough people doing actual work however higher-ups are completely blind and can't see this. On top of this we have some douchbag clients and pretty much break everything we do for them.
+
+We have some great people and my manager is really supportive and I'd hate to leave at the drop of a pin but I feel exhausted. Do I wait for things to get better and more people to come in (they've been saying this l year but more people leave then join) and take the load off or do I pack my bags and look elsewhere?","Being burnt out within the first 6 months
+Started as a cloud security engineer 6 months ago at this new company which is shockingly under resourced which has resulted me doing the work of 3 people. We're hiring in all the wrong areas and don't have enough people doing actual work however higher-ups are completely blind and can't see this. On top of this we have some douchbag clients and pretty much break everything we do for them.
+
+We have some great people and my manager is really supportive and I'd hate to leave at the drop of a pin but I feel exhausted. Do I wait for things to get better and more people to come in (they've been saying this l year but more people leave then join) and take the load off or do I pack my bags and look elsewhere?",being burnt out within the first   months started as a cloud security engineer   months ago at this new company which is shockingly under resourced which has resulted me doing the work of   people. we re hiring in all the wrong areas and don t have enough people doing actual work however higher ups are completely blind and can t see this. on top of this we have some douchbag clients and pretty much break everything we do for them. we have some great people and my manager is really supportive and i d hate to leave at the drop of a pin but i feel exhausted. do i wait for things to get better and more people to come in and take the load off or do i pack my bags and look elsewhere,0,7,753,685,2024,5,Tuesday,5,/r/cybersecurity/comments/1cm4aqd/being_burnt_out_within_the_first_6_months/,https://www.reddit.com/r/cybersecurity/comments/1cm4aqd/being_burnt_out_within_the_first_6_months/,1,0.8970197143238631,0.8970197143238631,SVM (Linear)
+1cpv5kn,cybersecurity,ritual_tradition,2024-05-12 00:17:00,1715473020,Can you answerre these two Q's about burnout in cybersecurity?,"The concept of cybersecurity practitioners hitting burnout is a popular one among various media outlets, mostly because it sounds scary. We know we need cybersecurity, but the people who are doing it - day in and day out - end up facing burnout.
+
+My view is that most of these articles and media stories are specifically about SOC analysts who run into the wall of alert fatigue, which is a very real issue.
+
+For those of you that are still here (and have not completely abandoned the industry), I have 2 questions...
+
+1. What, other than alert fatigue, do you feel is leading to a sense of burnout among cybersecurity practitioners?
+
+2. What do you feel would help to solve the problem of burnout among cybersecurity practitioners? (If you are the one who is feeling burned out, what do you feel is making YOU feel the most burned out?)","Can you answerre these two Q's about burnout in cybersecurity?
+The concept of cybersecurity practitioners hitting burnout is a popular one among various media outlets, mostly because it sounds scary. We know we need cybersecurity, but the people who are doing it - day in and day out - end up facing burnout.
+
+My view is that most of these articles and media stories are specifically about SOC analysts who run into the wall of alert fatigue, which is a very real issue.
+
+For those of you that are still here (and have not completely abandoned the industry), I have 2 questions...
+
+1. What, other than alert fatigue, do you feel is leading to a sense of burnout among cybersecurity practitioners?
+
+2. What do you feel would help to solve the problem of burnout among cybersecurity practitioners? (If you are the one who is feeling burned out, what do you feel is making YOU feel the most burned out?)",can you answerre these two q s about burnout in cybersecurity the concept of cybersecurity practitioners hitting burnout is a popular one among various media outlets mostly because it sounds scary. we know we need cybersecurity but the people who are doing it   day in and day out   end up facing burnout. my view is that most of these articles and media stories are specifically about soc analysts who run into the wall of alert fatigue which is a very real issue. for those of you that are still here i have   questions...  . what other than alert fatigue do you feel is leading to a sense of burnout among cybersecurity practitioners  . what do you feel would help to solve the problem of burnout among cybersecurity practitioners,129,74,900,733,2024,5,Sunday,0,/r/cybersecurity/comments/1cpv5kn/can_you_answerre_these_two_qs_about_burnout_in/,https://www.reddit.com/r/cybersecurity/comments/1cpv5kn/can_you_answerre_these_two_qs_about_burnout_in/,1,0.9263856314102396,0.9263856314102396,SVM (Linear)
+1ct13t1,cybersecurity,N3CR0SS,2024-05-16 01:14:18,1715822058,Future in cybersecurity,"I am thinking about majoring in Computer Security but I have a few doubts.  
+1. How is job security? Do I have to worry about mass layoffs or anything like that?  
+2.  How stressful is it? Do I have long work hours or overtime to worry about?  
+3. Is the workload manageable? Will I be overworked?","Future in cybersecurity
+I am thinking about majoring in Computer Security but I have a few doubts.  
+1. How is job security? Do I have to worry about mass layoffs or anything like that?  
+2.  How stressful is it? Do I have long work hours or overtime to worry about?  
+3. Is the workload manageable? Will I be overworked?",future in cybersecurity i am thinking about majoring in computer security but i have a few doubts.  . how is job security do i have to worry about mass layoffs or anything like that  . how stressful is it do i have long work hours or overtime to worry about  . is the workload manageable will i be overworked,0,8,321,308,2024,5,Thursday,1,/r/cybersecurity/comments/1ct13t1/future_in_cybersecurity/,https://www.reddit.com/r/cybersecurity/comments/1ct13t1/future_in_cybersecurity/,1,0.7948092731475798,0.7948092731475798,SVM (Linear)
+1cw86t0,cybersecurity,MazenMohamed1393,2024-05-20 05:39:14,1716183554,Is cyber security stressful?,Does the field of cybersecurity have more stress than other fields? ,"Is cyber security stressful?
+Does the field of cybersecurity have more stress than other fields?",is cyber security stressful does the field of cybersecurity have more stress than other fields,9,26,96,94,2024,5,Monday,5,/r/cybersecurity/comments/1cw86t0/is_cyber_security_stressful/,https://www.reddit.com/r/cybersecurity/comments/1cw86t0/is_cyber_security_stressful/,1,0.8562594039327314,0.8562594039327314,SVM (Linear)
+1d3r7t3,cybersecurity,No_Word6865,2024-05-30 00:33:41,1717029221,Got promoted and work/life balance went out the window. How long do I hang in there before applying other places?,"Recently got promoted to team lead for my cybersecurity team. I went from working 20-30 hour weeks to close to 50, and I usually have to work weekends to catch up. So I’m now looking at 60 hour weeks. I didn’t realize how much the team leads were working outside of normal work hours. 
+
+I’ve been with the company less than a year, there’s about 50 employees, and in that time 3-4 people a month have either quit or gotten fired. It’s a revolving door company with c suite executives that are full of hot heads, which is why the workload is so high since no one sticks around long enough to become proficient at what they do and having to constantly train new hires.
+
+I really want to hold this job title with a different company and the pay raise was nice. 
+
+Question: How long do I hold onto to this job and be miserable before applying other places or risk being fired for “under performing” or accidentally pissing off c suites. In my opinion, being fired is way harder to explain than wanting to leave shortly after being promoted. I’ve never felt so on eggshells with a company, because I’ve seen even the top performers get fired for voicing their opinions on how processes can be improved to decrease workloads. ","Got promoted and work/life balance went out the window. How long do I hang in there before applying other places?
+Recently got promoted to team lead for my cybersecurity team. I went from working 20-30 hour weeks to close to 50, and I usually have to work weekends to catch up. So I’m now looking at 60 hour weeks. I didn’t realize how much the team leads were working outside of normal work hours. 
+
+I’ve been with the company less than a year, there’s about 50 employees, and in that time 3-4 people a month have either quit or gotten fired. It’s a revolving door company with c suite executives that are full of hot heads, which is why the workload is so high since no one sticks around long enough to become proficient at what they do and having to constantly train new hires.
+
+I really want to hold this job title with a different company and the pay raise was nice. 
+
+Question: How long do I hold onto to this job and be miserable before applying other places or risk being fired for “under performing” or accidentally pissing off c suites. In my opinion, being fired is way harder to explain than wanting to leave shortly after being promoted. I’ve never felt so on eggshells with a company, because I’ve seen even the top performers get fired for voicing their opinions on how processes can be improved to decrease workloads.",got promoted and work life balance went out the window. how long do i hang in there before applying other places recently got promoted to team lead for my cybersecurity team. i went from working       hour weeks to close to    and i usually have to work weekends to catch up. so i m now looking at    hour weeks. i didn t realize how much the team leads were working outside of normal work hours. i ve been with the company less than a year there s about    employees and in that time     people a month have either quit or gotten fired. it s a revolving door company with c suite executives that are full of hot heads which is why the workload is so high since no one sticks around long enough to become proficient at what they do and having to constantly train new hires. i really want to hold this job title with a different company and the pay raise was nice. question: how long do i hold onto to this job and be miserable before applying other places or risk being fired for under performing or accidentally pissing off c suites. in my opinion being fired is way harder to explain than wanting to leave shortly after being promoted. i ve never felt so on eggshells with a company because i ve seen even the top performers get fired for voicing their opinions on how processes can be improved to decrease workloads.,1,0,1333,1319,2024,5,Thursday,0,/r/cybersecurity/comments/1d3r7t3/got_promoted_and_worklife_balance_went_out_the/,https://www.reddit.com/r/cybersecurity/comments/1d3r7t3/got_promoted_and_worklife_balance_went_out_the/,1,0.7558978226554165,0.7558978226554165,SVM (Linear)
+1d8fpxt,cybersecurity,casuallydepressd,2024-06-05 02:57:51,1717556271,Security Engineer burnout,"I have been struggling with burnout after accepting a ""promotion"" to senior security engineer (I'm the only engineer) around 2 years ago.
+
+I work at a small MSSP, 1 vCISO, 1 security architect, 1 engineer and 2 analysts that supports around 8 enterprises (in various sectors) with around 10k users total. All of the organizations use M365 (Office, Entra, Intune, Defender) and I am in charge and the main point of contact for all incidents and issues with any of our service (security related or not) and responsible for planning, deploying, updating, and supporting all configs and maintaining all documentation.
+
+This includes Defender for Endpoint, cloud apps, Identity, Sentinel, Azure, Admin portal, Intune, Entra ID, Cisco Meraki, Cisco endpoint protection, Carbon Black, MDR portal, logic apps automation, conditional access, and others.
+
+I also am in charge of our threat Analysts, assigning them responsibilities, creating and maintaining playbooks for them to follow, leading incident response, training them, and assisting with their day to day alert response (all alerts from the security tools are sent to our messaging tool for the analysts to review). On top of that I was tasked with redesigning and automating all analysts tasks and responsibilities with Sentinel.
+
+Along with that I am the person anyone calls when there are any issues with anything even remotely related to any of the above and really struggling with no support from Microsoft support or vendors.
+
+I was leading all meetings till I broke down and couldn't deal with the additional stress of architecting and pitching all of the above with the different enterprises IT admins and c suite, which can be very difficult when you are young and people do not respect your knowledge or opinion.
+
+My company has a security architect that does not want to deal with Microsoft products, leaving all of that responsibility to me.
+
+Am I crazy or is this an insane amount of workload for one person in a MSSP that is pushing all clients to full M365 for security? All enterprises are onboard with this but some admins and techs do not like Microsoft leading them to troubleshoot issues for 5 minutes before sending it to me.
+
+My main issue is the lack of support from the top levels of my org and the enterprises we service making all the above even more difficult to track and maintain configs and issues across 8 enterprises by myself.","Security Engineer burnout
+I have been struggling with burnout after accepting a ""promotion"" to senior security engineer (I'm the only engineer) around 2 years ago.
+
+I work at a small MSSP, 1 vCISO, 1 security architect, 1 engineer and 2 analysts that supports around 8 enterprises (in various sectors) with around 10k users total. All of the organizations use M365 (Office, Entra, Intune, Defender) and I am in charge and the main point of contact for all incidents and issues with any of our service (security related or not) and responsible for planning, deploying, updating, and supporting all configs and maintaining all documentation.
+
+This includes Defender for Endpoint, cloud apps, Identity, Sentinel, Azure, Admin portal, Intune, Entra ID, Cisco Meraki, Cisco endpoint protection, Carbon Black, MDR portal, logic apps automation, conditional access, and others.
+
+I also am in charge of our threat Analysts, assigning them responsibilities, creating and maintaining playbooks for them to follow, leading incident response, training them, and assisting with their day to day alert response (all alerts from the security tools are sent to our messaging tool for the analysts to review). On top of that I was tasked with redesigning and automating all analysts tasks and responsibilities with Sentinel.
+
+Along with that I am the person anyone calls when there are any issues with anything even remotely related to any of the above and really struggling with no support from Microsoft support or vendors.
+
+I was leading all meetings till I broke down and couldn't deal with the additional stress of architecting and pitching all of the above with the different enterprises IT admins and c suite, which can be very difficult when you are young and people do not respect your knowledge or opinion.
+
+My company has a security architect that does not want to deal with Microsoft products, leaving all of that responsibility to me.
+
+Am I crazy or is this an insane amount of workload for one person in a MSSP that is pushing all clients to full M365 for security? All enterprises are onboard with this but some admins and techs do not like Microsoft leading them to troubleshoot issues for 5 minutes before sending it to me.
+
+My main issue is the lack of support from the top levels of my org and the enterprises we service making all the above even more difficult to track and maintain configs and issues across 8 enterprises by myself.",security engineer burnout i have been struggling with burnout after accepting a promotion to senior security engineer around   years ago. i work at a small mssp   vciso   security architect   engineer and   analysts that supports around   enterprises with around   k users total. all of the organizations use m    and i am in charge and the main point of contact for all incidents and issues with any of our service and responsible for planning deploying updating and supporting all configs and maintaining all documentation. this includes defender for endpoint cloud apps identity sentinel azure admin portal intune entra id cisco meraki cisco endpoint protection carbon black mdr portal logic apps automation conditional access and others. i also am in charge of our threat analysts assigning them responsibilities creating and maintaining playbooks for them to follow leading incident response training them and assisting with their day to day alert response . on top of that i was tasked with redesigning and automating all analysts tasks and responsibilities with sentinel. along with that i am the person anyone calls when there are any issues with anything even remotely related to any of the above and really struggling with no support from microsoft support or vendors. i was leading all meetings till i broke down and couldn t deal with the additional stress of architecting and pitching all of the above with the different enterprises it admins and c suite which can be very difficult when you are young and people do not respect your knowledge or opinion. my company has a security architect that does not want to deal with microsoft products leaving all of that responsibility to me. am i crazy or is this an insane amount of workload for one person in a mssp that is pushing all clients to full m    for security all enterprises are onboard with this but some admins and techs do not like microsoft leading them to troubleshoot issues for   minutes before sending it to me. my main issue is the lack of support from the top levels of my org and the enterprises we service making all the above even more difficult to track and maintain configs and issues across   enterprises by myself.,1,2,2436,2199,2024,6,Wednesday,2,/r/cybersecurity/comments/1d8fpxt/security_engineer_burnout/,https://www.reddit.com/r/cybersecurity/comments/1d8fpxt/security_engineer_burnout/,1,0.8112135252031589,0.8112135252031589,SVM (Linear)
+1d8lmw3,cybersecurity,sathwi25,2024-06-05 09:21:40,1717579300,Let's take out the pessimimism ,"Hey y'all I've been seeing a lot of pessimistic stuff in the this subreddit. I'm a uni student getting a bachelor's degree in cyber security tbh I got into it because it felt cool it still does .. but seeing all the negative comments in here makes me feel weird .. so can you guys tell me what you love about your work, does working in this field make you happy and satisfied, like the urge to get better all that shi.. isn't it exciting and fun?? I mean I do understand too much work can cause burnouts and stuff but all that like by taking breaks can be fixed right ?","Let's take out the pessimimism
+Hey y'all I've been seeing a lot of pessimistic stuff in the this subreddit. I'm a uni student getting a bachelor's degree in cyber security tbh I got into it because it felt cool it still does .. but seeing all the negative comments in here makes me feel weird .. so can you guys tell me what you love about your work, does working in this field make you happy and satisfied, like the urge to get better all that shi.. isn't it exciting and fun?? I mean I do understand too much work can cause burnouts and stuff but all that like by taking breaks can be fixed right ?",let s take out the pessimimism hey y all i ve been seeing a lot of pessimistic stuff in the this subreddit. i m a uni student getting a bachelor s degree in cyber security tbh i got into it because it felt cool it still does .. but seeing all the negative comments in here makes me feel weird .. so can you guys tell me what you love about your work does working in this field make you happy and satisfied like the urge to get better all that shi.. isn t it exciting and fun i mean i do understand too much work can cause burnouts and stuff but all that like by taking breaks can be fixed right,0,6,600,594,2024,6,Wednesday,9,/r/cybersecurity/comments/1d8lmw3/lets_take_out_the_pessimimism/,https://www.reddit.com/r/cybersecurity/comments/1d8lmw3/lets_take_out_the_pessimimism/,1,0.8531280103229063,0.8531280103229063,SVM (Linear)
+1dd2g0v,cybersecurity,RoamingProfile007,2024-06-11 01:36:07,1718069767,Burnout - CS Career Questions,"I've been in the cyber security field for two years, and I've had good performance reviews but I am not sure if it is the career for me. In the past year I've had to spend a lot of time studying for and earning the SSCP and re-earning the Security+.
+
+A lot of my free time is gradually getting eaten up by this job.
+
+Things that are eating up my free time:
+
+1.) Having to study for and earn Linux+ before the year is out. This is done after 5PM and on weekends.
+
+2.) Having to earn a Splunk certificate before the year is out. This is also done after 5PM and on weekends.
+
+3.) Becoming an expert on Application Security. In addition to working on the other two other requirements from my job listed above, I've been told I should be studying and absorbing information on AppSec. So, I've been doing that too - off hours, as requested.
+
+4.) Return to office. I'm now losing at least an hour a week of personal time from the commute to the office. More days will be required soon too, from what I've been told as we're said the goal is to get everyone back in 5 days a week. 
+
+5.) Getting late night calls when alerts go off.
+
+6.) Getting more and more tasks assigned to me that can only be done after hours and on weekends (running scans, validating changes work, and so on).
+
+
+
+I'm not 100% sure this is the career path for me if this is going to be the next 20 years of my life, and that's fine. I don't know if I should try to look for other cyber security jobs at other companies, or if this is par for the course in the field and I need to adjust my study plan to migrate into something else career wise.
+
+  
+Can you provide me with honest input? I'm okay with being told I'm not cut out for this line of work. I just feel like bit by bit I'm losing the ability to spend time with my family and friends, and I'm even seeing a mental health counselor at this point too because I'm so miserable.","Burnout - CS Career Questions
+I've been in the cyber security field for two years, and I've had good performance reviews but I am not sure if it is the career for me. In the past year I've had to spend a lot of time studying for and earning the SSCP and re-earning the Security+.
+
+A lot of my free time is gradually getting eaten up by this job.
+
+Things that are eating up my free time:
+
+1.) Having to study for and earn Linux+ before the year is out. This is done after 5PM and on weekends.
+
+2.) Having to earn a Splunk certificate before the year is out. This is also done after 5PM and on weekends.
+
+3.) Becoming an expert on Application Security. In addition to working on the other two other requirements from my job listed above, I've been told I should be studying and absorbing information on AppSec. So, I've been doing that too - off hours, as requested.
+
+4.) Return to office. I'm now losing at least an hour a week of personal time from the commute to the office. More days will be required soon too, from what I've been told as we're said the goal is to get everyone back in 5 days a week. 
+
+5.) Getting late night calls when alerts go off.
+
+6.) Getting more and more tasks assigned to me that can only be done after hours and on weekends (running scans, validating changes work, and so on).
+
+
+
+I'm not 100% sure this is the career path for me if this is going to be the next 20 years of my life, and that's fine. I don't know if I should try to look for other cyber security jobs at other companies, or if this is par for the course in the field and I need to adjust my study plan to migrate into something else career wise.
+
+  
+Can you provide me with honest input? I'm okay with being told I'm not cut out for this line of work. I just feel like bit by bit I'm losing the ability to spend time with my family and friends, and I'm even seeing a mental health counselor at this point too because I'm so miserable.",burnout   cs career questions i ve been in the cyber security field for two years and i ve had good performance reviews but i am not sure if it is the career for me. in the past year i ve had to spend a lot of time studying for and earning the sscp and re earning the security . a lot of my free time is gradually getting eaten up by this job. things that are eating up my free time:  . having to study for and earn linux before the year is out. this is done after  pm and on weekends.  . having to earn a splunk certificate before the year is out. this is also done after  pm and on weekends.  . becoming an expert on application security. in addition to working on the other two other requirements from my job listed above i ve been told i should be studying and absorbing information on appsec. so i ve been doing that too   off hours as requested.  . return to office. i m now losing at least an hour a week of personal time from the commute to the office. more days will be required soon too from what i ve been told as we re said the goal is to get everyone back in   days a week.  . getting late night calls when alerts go off.  . getting more and more tasks assigned to me that can only be done after hours and on weekends . i m not     sure this is the career path for me if this is going to be the next    years of my life and that s fine. i don t know if i should try to look for other cyber security jobs at other companies or if this is par for the course in the field and i need to adjust my study plan to migrate into something else career wise. can you provide me with honest input i m okay with being told i m not cut out for this line of work. i just feel like bit by bit i m losing the ability to spend time with my family and friends and i m even seeing a mental health counselor at this point too because i m so miserable.,1,2,1927,1843,2024,6,Tuesday,1,/r/cybersecurity/comments/1dd2g0v/burnout_cs_career_questions/,https://www.reddit.com/r/cybersecurity/comments/1dd2g0v/burnout_cs_career_questions/,1,0.9534086102640944,0.9534086102640944,SVM (Linear)
+1dgwtln,cybersecurity,Informal_Ad1416,2024-06-16 01:37:16,1718501836,How did you overcome burnout? ,"So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout? ","How did you overcome burnout?
+So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout?",how did you overcome burnout so i ve been in a big tech cybersecurity job for   months now and i busted my butt to get here accumulating    certifications over the last   years. recently i ve found i just don t have the motivation to study... i ve hit a brick wall and i ll find myself doing anything to avoid it. how did you overcome burnout,1,1,349,342,2024,6,Sunday,1,/r/cybersecurity/comments/1dgwtln/how_did_you_overcome_burnout/,https://www.reddit.com/r/cybersecurity/comments/1dgwtln/how_did_you_overcome_burnout/,1,0.8017215714991524,0.8017215714991524,SVM (Linear)
+1dqiog2,cybersecurity,VariousMedia9168,2024-06-28 12:39:54,1719578394,Invitation to Participate in Research Study on Burnout in IT Professionals,"Hello Everyone,
+
+I hope this message finds you well. I am a master's student currently working on my thesis.
+
+My research focuses on understanding the impact of different work environments (traditional office, work-from-home, and hybrid models) on burnout among IT professionals. My goal for this study is to better understand how various work arrangements affect stress levels, job satisfaction, and overall wellbeing in the IT industry.
+
+Your participation is completely voluntary, and all your responses will be kept confidential. The survey will take approximately 10-15 minutes to complete. No compensation will be provided for participation.
+
+**Survey link:** [https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV\_eDm0Xa4cuc2CMzY](https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV_eDm0Xa4cuc2CMzY)
+
+Thank you for considering my request.","Invitation to Participate in Research Study on Burnout in IT Professionals
+Hello Everyone,
+
+I hope this message finds you well. I am a master's student currently working on my thesis.
+
+My research focuses on understanding the impact of different work environments (traditional office, work-from-home, and hybrid models) on burnout among IT professionals. My goal for this study is to better understand how various work arrangements affect stress levels, job satisfaction, and overall wellbeing in the IT industry.
+
+Your participation is completely voluntary, and all your responses will be kept confidential. The survey will take approximately 10-15 minutes to complete. No compensation will be provided for participation.
+
+**Survey link:** [https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV\_eDm0Xa4cuc2CMzY](https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV_eDm0Xa4cuc2CMzY)
+
+Thank you for considering my request.",invitation to participate in research study on burnout in it professionals hello everyone i hope this message finds you well. i am a master s student currently working on my thesis. my research focuses on understanding the impact of different work environments on burnout among it professionals. my goal for this study is to better understand how various work arrangements affect stress levels job satisfaction and overall wellbeing in the it industry. your participation is completely voluntary and all your responses will be kept confidential. the survey will take approximately       minutes to complete. no compensation will be provided for participation. survey link: url thank you for considering my request.,11,8,925,714,2024,6,Friday,12,/r/cybersecurity/comments/1dqiog2/invitation_to_participate_in_research_study_on/,https://www.reddit.com/r/cybersecurity/comments/1dqiog2/invitation_to_participate_in_research_study_on/,1,0.7265749809069989,0.7265749809069989,SVM (Linear)
+1e5m6cj,cybersecurity,Dark_Warrior811,2024-07-17 16:13:55,1721232835,Cybersecurity: Exciting but eventually burned out?,"
+I've seen a lot of posts and comment say about the same thing, they get into the field excited about fighting cybercrime and looking over security systems. But then after a month or a year, Burnout hits.
+
+Cybersecurity is interesting, you get to make a real difference, and there is this cool factor to catch bad actors.
+
+My question here, is cybersecurity a recipe for burnout, or can you keep it like it first started?
+ 
+Tell me what might cause the burnout or overwhelming and how to build a cybersecurity career that's both fulfilling and sustainable.
+","Cybersecurity: Exciting but eventually burned out?
+I've seen a lot of posts and comment say about the same thing, they get into the field excited about fighting cybercrime and looking over security systems. But then after a month or a year, Burnout hits.
+
+Cybersecurity is interesting, you get to make a real difference, and there is this cool factor to catch bad actors.
+
+My question here, is cybersecurity a recipe for burnout, or can you keep it like it first started?
+ 
+Tell me what might cause the burnout or overwhelming and how to build a cybersecurity career that's both fulfilling and sustainable.",cybersecurity: exciting but eventually burned out i ve seen a lot of posts and comment say about the same thing they get into the field excited about fighting cybercrime and looking over security systems. but then after a month or a year burnout hits. cybersecurity is interesting you get to make a real difference and there is this cool factor to catch bad actors. my question here is cybersecurity a recipe for burnout or can you keep it like it first started tell me what might cause the burnout or overwhelming and how to build a cybersecurity career that s both fulfilling and sustainable.,17,17,606,594,2024,7,Wednesday,16,/r/cybersecurity/comments/1e5m6cj/cybersecurity_exciting_but_eventually_burned_out/,https://www.reddit.com/r/cybersecurity/comments/1e5m6cj/cybersecurity_exciting_but_eventually_burned_out/,1,0.8315287081264559,0.8315287081264559,SVM (Linear)
+1e8n8gr,cybersecurity,IamOkei,2024-07-21 14:13:21,1721571201,Have you read Slow Productivity by Cal Newport? Do you think it is applicable to many of us here?,"As a security practitioner, we have to deal with the fast pace tickets and alerts. We don't spend time dwelling because of work overload.
+
+Here is an AI summary of the book:
+
+Cal Newport's ""Slow Productivity"" offers a new philosophy for achieving meaningful work without burnout, based on three key principles:
+
+1. Do fewer things: Newport advocates for reducing commitments and obligations to focus on what truly matters. This approach allows for better results by enabling workers to concentrate on high-value tasks rather than simply being busy.
+2. Work at a natural pace: Instead of constant urgency, Newport suggests giving important work the time it needs. This principle recognizes that humans are not wired for unceasing intensity, and that a more varied, natural pace leads to sustainable productivity in the long term. Strategies include making longer-term plans, doubling project timeline estimates, and introducing ""seasonality"" into work schedules.
+3. Obsess over quality: Newport emphasizes the importance of producing high-quality work, even if it means missing short-term opportunities. This focus on quality both demands and enables a slower pace, leading to more meaningful career results over time.
+
+The book argues that the modern approach to knowledge work, which often emphasizes constant activity and urgency, is unsustainable and ineffective. Instead, Newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes.""Slow Productivity"" challenges the culture of overwork and constant hustle, offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. By implementing these principles, Newport suggests that individuals can achieve better results, experience greater satisfaction in their work, and avoid burnout.","Have you read Slow Productivity by Cal Newport? Do you think it is applicable to many of us here?
+As a security practitioner, we have to deal with the fast pace tickets and alerts. We don't spend time dwelling because of work overload.
+
+Here is an AI summary of the book:
+
+Cal Newport's ""Slow Productivity"" offers a new philosophy for achieving meaningful work without burnout, based on three key principles:
+
+1. Do fewer things: Newport advocates for reducing commitments and obligations to focus on what truly matters. This approach allows for better results by enabling workers to concentrate on high-value tasks rather than simply being busy.
+2. Work at a natural pace: Instead of constant urgency, Newport suggests giving important work the time it needs. This principle recognizes that humans are not wired for unceasing intensity, and that a more varied, natural pace leads to sustainable productivity in the long term. Strategies include making longer-term plans, doubling project timeline estimates, and introducing ""seasonality"" into work schedules.
+3. Obsess over quality: Newport emphasizes the importance of producing high-quality work, even if it means missing short-term opportunities. This focus on quality both demands and enables a slower pace, leading to more meaningful career results over time.
+
+The book argues that the modern approach to knowledge work, which often emphasizes constant activity and urgency, is unsustainable and ineffective. Instead, Newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes.""Slow Productivity"" challenges the culture of overwork and constant hustle, offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. By implementing these principles, Newport suggests that individuals can achieve better results, experience greater satisfaction in their work, and avoid burnout.",have you read slow productivity by cal newport do you think it is applicable to many of us here as a security practitioner we have to deal with the fast pace tickets and alerts. we don t spend time dwelling because of work overload. here is an ai summary of the book: cal newport s slow productivity offers a new philosophy for achieving meaningful work without burnout based on three key principles:  . do fewer things: newport advocates for reducing commitments and obligations to focus on what truly matters. this approach allows for better results by enabling workers to concentrate on high value tasks rather than simply being busy.  . work at a natural pace: instead of constant urgency newport suggests giving important work the time it needs. this principle recognizes that humans are not wired for unceasing intensity and that a more varied natural pace leads to sustainable productivity in the long term. strategies include making longer term plans doubling project timeline estimates and introducing seasonality into work schedules.  . obsess over quality: newport emphasizes the importance of producing high quality work even if it means missing short term opportunities. this focus on quality both demands and enables a slower pace leading to more meaningful career results over time. the book argues that the modern approach to knowledge work which often emphasizes constant activity and urgency is unsustainable and ineffective. instead newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes. slow productivity challenges the culture of overwork and constant hustle offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. by implementing these principles newport suggests that individuals can achieve better results experience greater satisfaction in their work and avoid burnout.,13,3,1999,1972,2024,7,Sunday,14,/r/cybersecurity/comments/1e8n8gr/have_you_read_slow_productivity_by_cal_newport_do/,https://www.reddit.com/r/cybersecurity/comments/1e8n8gr/have_you_read_slow_productivity_by_cal_newport_do/,1,0.7770718009059506,0.7770718009059506,SVM (Linear)
+1eqwxll,cybersecurity,Dependent_Sorbet_583,2024-08-13 02:41:36,1723516896,I've started thinking about suicide because of a page Facebook that has been defaming me and posting my pictures for the past two consecutive years,,I've started thinking about suicide because of a page Facebook that has been defaming me and posting my pictures for the past two consecutive years,i ve started thinking about suicide because of a page facebook that has been defaming me and posting my pictures for the past two consecutive years,1,1,147,147,2024,8,Tuesday,2,/r/cybersecurity/comments/1eqwxll/ive_started_thinking_about_suicide_because_of_a/,https://www.reddit.com/r/cybersecurity/comments/1eqwxll/ive_started_thinking_about_suicide_because_of_a/,1,0.9115688482481888,0.9115688482481888,SVM (Linear)
+1f44bi5,cybersecurity,ghostuhms,2024-08-29 14:48:31,1724942911,Job market burnout ,"Anyone else having bad luck with the job market? I recently went through an interview process through a referral and thought it went well through both stages. I asked for feedback at the end of each and the first one I received good tips and praise. For the second round I took the advice and felt I knocked it out of the park only to get a rejection email a month later. Asked for feedback to HR on why they decided to move forward with someone else, was promised a call about it the next day and got ignored when I went to follow up. I feel like I’ve been putting my heart and soul into preparing for these and lately I’ve just been striking out as opposed to how it was a couple years ago. 
+
+I have about 4.5 years experience and have been leading IR for about 2+ years at my company. The last job I interviewed for was a TI position requiring 2 years exp which is what I want to do. I just keep striking out and I’m not sure what else to do. Any advice from you folks? 
+
+Some part of me is leaning toward getting out altogether but I don’t want to quit this field just yet. I really want to pivot back into threat intelligence.","Job market burnout
+Anyone else having bad luck with the job market? I recently went through an interview process through a referral and thought it went well through both stages. I asked for feedback at the end of each and the first one I received good tips and praise. For the second round I took the advice and felt I knocked it out of the park only to get a rejection email a month later. Asked for feedback to HR on why they decided to move forward with someone else, was promised a call about it the next day and got ignored when I went to follow up. I feel like I’ve been putting my heart and soul into preparing for these and lately I’ve just been striking out as opposed to how it was a couple years ago. 
+
+I have about 4.5 years experience and have been leading IR for about 2+ years at my company. The last job I interviewed for was a TI position requiring 2 years exp which is what I want to do. I just keep striking out and I’m not sure what else to do. Any advice from you folks? 
+
+Some part of me is leaning toward getting out altogether but I don’t want to quit this field just yet. I really want to pivot back into threat intelligence.",job market burnout anyone else having bad luck with the job market i recently went through an interview process through a referral and thought it went well through both stages. i asked for feedback at the end of each and the first one i received good tips and praise. for the second round i took the advice and felt i knocked it out of the park only to get a rejection email a month later. asked for feedback to hr on why they decided to move forward with someone else was promised a call about it the next day and got ignored when i went to follow up. i feel like i ve been putting my heart and soul into preparing for these and lately i ve just been striking out as opposed to how it was a couple years ago. i have about  .  years experience and have been leading ir for about   years at my company. the last job i interviewed for was a ti position requiring   years exp which is what i want to do. i just keep striking out and i m not sure what else to do. any advice from you folks some part of me is leaning toward getting out altogether but i don t want to quit this field just yet. i really want to pivot back into threat intelligence.,55,61,1150,1142,2024,8,Thursday,14,/r/cybersecurity/comments/1f44bi5/job_market_burnout/,https://www.reddit.com/r/cybersecurity/comments/1f44bi5/job_market_burnout/,1,0.7412813674760402,0.7412813674760402,SVM (Linear)
+1fchbkh,cybersecurity,nanotzu,2024-09-09 04:38:22,1725856702,does working at a soc cause burnout?,been working at a soc for almost a year and im already burnt out,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out",does working at a soc cause burnout been working at a soc for almost a year and im already burnt out,1,7,101,100,2024,9,Monday,4,/r/cybersecurity/comments/1fchbkh/does_working_at_a_soc_cause_burnout/,https://www.reddit.com/r/cybersecurity/comments/1fchbkh/does_working_at_a_soc_cause_burnout/,1,0.8905581714656701,0.8905581714656701,SVM (Linear)
+1focakd,cybersecurity,miller131313,2024-09-24 13:19:02,1727183942,Burnout in cybersecurity ,"Hey all,
+
+I've been working in cybersecurity for several years now, mainly across the energy sector in some very large enterprise environments. I have always been on the blue team side of things and have spent a considerable amount of time grinding at each employer; continuous learning through obtaining many certs, attending conferences, and striving to be a high performer in the workplace by taking on as much work as I could so I'd be recognized as somebody of importance and value to the org. I want to be someone people can trust and depend on to get things done. 
+
+Through this, I found myself reaching the top of the pay scale as an individual contributor at my current org with a few years and transitioned into a cyber management role over a year ago. I was not necessarily prepared for this. I had no prior management experience and I did not really have a mentor, or a boss willing to share their knowledge with me.
+
+Within the last 6 months I'm feeling so incredibly burned out. It's to the point where I don't care if I get fired/laid off. In fact, I long for it. All I think about is work, how much is one my plate and how much I can't stand it. Even when I am productive I get no enjoyment or fulfilment out of it. None of the projects interest me and it's so hard to push through. 
+
+What are some things I can do to get myself out of this? I've taken time off to try and ""recharge"", yet I come back feeling worse and filled with existential dread. I'm very grateful for my career, but it is weighing very heavily on me. Any advice from those that have experienced this?","Burnout in cybersecurity
+Hey all,
+
+I've been working in cybersecurity for several years now, mainly across the energy sector in some very large enterprise environments. I have always been on the blue team side of things and have spent a considerable amount of time grinding at each employer; continuous learning through obtaining many certs, attending conferences, and striving to be a high performer in the workplace by taking on as much work as I could so I'd be recognized as somebody of importance and value to the org. I want to be someone people can trust and depend on to get things done. 
+
+Through this, I found myself reaching the top of the pay scale as an individual contributor at my current org with a few years and transitioned into a cyber management role over a year ago. I was not necessarily prepared for this. I had no prior management experience and I did not really have a mentor, or a boss willing to share their knowledge with me.
+
+Within the last 6 months I'm feeling so incredibly burned out. It's to the point where I don't care if I get fired/laid off. In fact, I long for it. All I think about is work, how much is one my plate and how much I can't stand it. Even when I am productive I get no enjoyment or fulfilment out of it. None of the projects interest me and it's so hard to push through. 
+
+What are some things I can do to get myself out of this? I've taken time off to try and ""recharge"", yet I come back feeling worse and filled with existential dread. I'm very grateful for my career, but it is weighing very heavily on me. Any advice from those that have experienced this?",burnout in cybersecurity hey all i ve been working in cybersecurity for several years now mainly across the energy sector in some very large enterprise environments. i have always been on the blue team side of things and have spent a considerable amount of time grinding at each employer continuous learning through obtaining many certs attending conferences and striving to be a high performer in the workplace by taking on as much work as i could so i d be recognized as somebody of importance and value to the org. i want to be someone people can trust and depend on to get things done. through this i found myself reaching the top of the pay scale as an individual contributor at my current org with a few years and transitioned into a cyber management role over a year ago. i was not necessarily prepared for this. i had no prior management experience and i did not really have a mentor or a boss willing to share their knowledge with me. within the last   months i m feeling so incredibly burned out. it s to the point where i don t care if i get fired laid off. in fact i long for it. all i think about is work how much is one my plate and how much i can t stand it. even when i am productive i get no enjoyment or fulfilment out of it. none of the projects interest me and it s so hard to push through. what are some things i can do to get myself out of this i ve taken time off to try and recharge yet i come back feeling worse and filled with existential dread. i m very grateful for my career but it is weighing very heavily on me. any advice from those that have experienced this,194,82,1612,1591,2024,9,Tuesday,13,/r/cybersecurity/comments/1focakd/burnout_in_cybersecurity/,https://www.reddit.com/r/cybersecurity/comments/1focakd/burnout_in_cybersecurity/,1,0.9685559122879389,0.9685559122879389,SVM (Linear)
+1fokmwn,cybersecurity,sloppyredditor,2024-09-24 19:10:58,1727205058,Regarding burnout: Understanding WHY is paramount,"(Posting by request.)  
+  
+Burnout and Impostor Syndrome will happen several times in a security career. While many ask about *how* to overcome it, the real question is *why* *does this happen?*
+
+IMO, the main reason is we have very demotivational work in a misunderstood field. Our field is powered by negativity, justified with skepticism, and influenced by those who don't work with us on a daily basis.
+
+We stop bad things from happening. An exciting day at work usually involves a crime, e.g., the organization we've been tasked with defending was attacked. A good day usually means our designs worked, but nobody noticed because they were able to do their jobs.
+
+Breaches are happening everywhere and nobody seems to get punished effectively for it. In fact, *some get jobs* - by the very government asking us to defend better - *because of it*.
+
+Tech is evolving faster than any other field, innovative companies are trying to adopt it a few months after initial release, and we need to be at least 3 months ahead of it, which means researching beta releases and conceiving the guardrails for something that may not even be a thing.
+
+On a personal relations level, we're not a fun group to work with. People don't like dealing with password changes, MFA, firewall rules that block them from uploading files to customers, mandatory email encryption, etc. because we get in their way.
+
+Audits ain't fun: It's not what you did, it's what you can prove you did. You have to back up every claim with documentation, logs, etc., that you typically don't think about unless you've failed an audit before. The auditors rarely know the ins and outs of how much effort it takes to meet compliance (regardless of what some will say, it is not easy) and they've got the ear of the BoD.
+
+Finally, there's the cost. Breaches are expensive, so we're expensive. It's not difficult to see why the CFO scrutinizes our expenses when there's not any revenue coming in from the cyber folks. As messed up as it sounds in this forum, it makes financial sense to weigh ""how much would the ransom cost?"" vs. ""how much do these 4 technologies to mitigate ransomware risk cost?""
+
+When we get out of our rhythm and look at our own situation it's easy to stare off and ask ""why do I bother doing this?"" ...and **that's** when the burnout starts.
+
+**So how do we counteract the above? By remembering the reason we wanted to do this in the first place. FIND YOUR WHY** (supporting your family? being on the edge of tech? protecting people?)**, print it, and use it for motivation.**
+
+And, for the love of all things holy, have a sense of humor about it. Laugh or you'll cry.
+
+The Simpsons did exactly that in ""[And Maggie Makes Three](https://en.wikipedia.org/wiki/And_Maggie_Makes_Three).""","Regarding burnout: Understanding WHY is paramount
+(Posting by request.)  
+  
+Burnout and Impostor Syndrome will happen several times in a security career. While many ask about *how* to overcome it, the real question is *why* *does this happen?*
+
+IMO, the main reason is we have very demotivational work in a misunderstood field. Our field is powered by negativity, justified with skepticism, and influenced by those who don't work with us on a daily basis.
+
+We stop bad things from happening. An exciting day at work usually involves a crime, e.g., the organization we've been tasked with defending was attacked. A good day usually means our designs worked, but nobody noticed because they were able to do their jobs.
+
+Breaches are happening everywhere and nobody seems to get punished effectively for it. In fact, *some get jobs* - by the very government asking us to defend better - *because of it*.
+
+Tech is evolving faster than any other field, innovative companies are trying to adopt it a few months after initial release, and we need to be at least 3 months ahead of it, which means researching beta releases and conceiving the guardrails for something that may not even be a thing.
+
+On a personal relations level, we're not a fun group to work with. People don't like dealing with password changes, MFA, firewall rules that block them from uploading files to customers, mandatory email encryption, etc. because we get in their way.
+
+Audits ain't fun: It's not what you did, it's what you can prove you did. You have to back up every claim with documentation, logs, etc., that you typically don't think about unless you've failed an audit before. The auditors rarely know the ins and outs of how much effort it takes to meet compliance (regardless of what some will say, it is not easy) and they've got the ear of the BoD.
+
+Finally, there's the cost. Breaches are expensive, so we're expensive. It's not difficult to see why the CFO scrutinizes our expenses when there's not any revenue coming in from the cyber folks. As messed up as it sounds in this forum, it makes financial sense to weigh ""how much would the ransom cost?"" vs. ""how much do these 4 technologies to mitigate ransomware risk cost?""
+
+When we get out of our rhythm and look at our own situation it's easy to stare off and ask ""why do I bother doing this?"" ...and **that's** when the burnout starts.
+
+**So how do we counteract the above? By remembering the reason we wanted to do this in the first place. FIND YOUR WHY** (supporting your family? being on the edge of tech? protecting people?)**, print it, and use it for motivation.**
+
+And, for the love of all things holy, have a sense of humor about it. Laugh or you'll cry.
+
+The Simpsons did exactly that in ""[And Maggie Makes Three](https://en.wikipedia.org/wiki/And_Maggie_Makes_Three).""",regarding burnout: understanding why is paramount burnout and impostor syndrome will happen several times in a security career. while many ask about how to overcome it the real question is why does this happen imo the main reason is we have very demotivational work in a misunderstood field. our field is powered by negativity justified with skepticism and influenced by those who don t work with us on a daily basis. we stop bad things from happening. an exciting day at work usually involves a crime e.g. the organization we ve been tasked with defending was attacked. a good day usually means our designs worked but nobody noticed because they were able to do their jobs. breaches are happening everywhere and nobody seems to get punished effectively for it. in fact some get jobs   by the very government asking us to defend better   because of it. tech is evolving faster than any other field innovative companies are trying to adopt it a few months after initial release and we need to be at least   months ahead of it which means researching beta releases and conceiving the guardrails for something that may not even be a thing. on a personal relations level we re not a fun group to work with. people don t like dealing with password changes mfa firewall rules that block them from uploading files to customers mandatory email encryption etc. because we get in their way. audits ain t fun: it s not what you did it s what you can prove you did. you have to back up every claim with documentation logs etc. that you typically don t think about unless you ve failed an audit before. the auditors rarely know the ins and outs of how much effort it takes to meet compliance and they ve got the ear of the bod. finally there s the cost. breaches are expensive so we re expensive. it s not difficult to see why the cfo scrutinizes our expenses when there s not any revenue coming in from the cyber folks. as messed up as it sounds in this forum it makes financial sense to weigh how much would the ransom cost vs. how much do these   technologies to mitigate ransomware risk cost when we get out of our rhythm and look at our own situation it s easy to stare off and ask why do i bother doing this ...and that s when the burnout starts. so how do we counteract the above by remembering the reason we wanted to do this in the first place. find your why print it and use it for motivation. and for the love of all things holy have a sense of humor about it. laugh or you ll cry. the simpsons did exactly that in url,81,14,2815,2516,2024,9,Tuesday,19,/r/cybersecurity/comments/1fokmwn/regarding_burnout_understanding_why_is_paramount/,https://www.reddit.com/r/cybersecurity/comments/1fokmwn/regarding_burnout_understanding_why_is_paramount/,1,0.9753735927474622,0.9753735927474622,SVM (Linear)
+1fqxn7a,cybersecurity,ayoubm1e,2024-09-27 20:43:35,1727469815,How are you doing guys?,Is this cybersecurity stuff stressing you out or is it just me?,"How are you doing guys?
+Is this cybersecurity stuff stressing you out or is it just me?",how are you doing guys is this cybersecurity stuff stressing you out or is it just me,90,130,87,85,2024,9,Friday,20,/r/cybersecurity/comments/1fqxn7a/how_are_you_doing_guys/,https://www.reddit.com/r/cybersecurity/comments/1fqxn7a/how_are_you_doing_guys/,1,0.8857074514714426,0.8857074514714426,SVM (Linear)
+1g4a7ot,cybersecurity,Navid_Shams,2024-10-15 15:19:48,1729005588,Burn out among Cybersecurity leaders at a frustrating high.,"In a world of high powered AI and evolving threat actors; cyber security leaders are facing significant amounts of burnout and stress. Anyone experienced this as well?
+
+[https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/](https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/) ","Burn out among Cybersecurity leaders at a frustrating high.
+In a world of high powered AI and evolving threat actors; cyber security leaders are facing significant amounts of burnout and stress. Anyone experienced this as well?
+
+[https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/](https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/)",burn out among cybersecurity leaders at a frustrating high. in a world of high powered ai and evolving threat actors cyber security leaders are facing significant amounts of burnout and stress. anyone experienced this as well url,408,93,465,229,2024,10,Tuesday,15,/r/cybersecurity/comments/1g4a7ot/burn_out_among_cybersecurity_leaders_at_a/,https://www.reddit.com/r/cybersecurity/comments/1g4a7ot/burn_out_among_cybersecurity_leaders_at_a/,1,0.9395318639515804,0.9395318639515804,SVM (Linear)
+1gbi2pi,cybersecurity,millsa_acm,2024-10-25 00:48:07,1729817287,I am stressing over new ISSM role - Previously ISSE,"Hola,
+
+So I just took a federal job as an ISSM and I had a bad feeling since day one. Let me lay the situation out for you. My previous job was in the private sector at a large defense contractor where I was an ISSE. I loved my job and I loved the company, but with any private company you have its cons. My reason for leaving was simply because it was a federal job, which offered job security, better benefits, and ability to have a pension.
+
+While all of those points are awesome, does it matter if you hate the job? I am a highly technical person and I enjoy being in the systems and working, which is what my last job was. This new one is a compliance role, which is just a bunch of paperwork and pushing policies on programs that I support. On day one my manager was complaining all day, saying how this work sucks, the people suck, and how she cant wait until she is done with it and or retires. The pay is comparable as they matched my pay so that isn't one of my concerns.
+
+* Federal Job:
+   * Pros:
+      * Better benefits
+      * Job Security
+      * Ability to invest into a pension
+      * Every other Friday off, and ability to telecommute 50%
+   * Cons:
+      * I hate the work, I don't feel like I would be proficient in it and I have no interest in it.
+      * The people do not seem excited or motivated to be there
+      * My manager told me she hopes I do good so I can help pick up the slack of others
+      * Pay as you progress in your career isnt as good as in the private sector.
+* Previous Job:
+   * Pros:
+      * I enjoyed the work and got every Friday off
+      * The people were excited to be there and wanted to work
+      * Fully Remote and can live anywhere in the US
+      * Wasn't super stressful like I know the Federal job will be
+   * Cons:
+      * Potential layoffs/restructuring as you have with any private company
+      * Health benefits aren't nearly as good, but they offer an amazing 401k and HSA program
+
+I need advice because in my head, going back is the move. But I know I should give this new role some time for the new job blues to pass, but if I do that, my old position is gone within 2 weeks. I am at a loss and have never been this stressed over a job before, and I half feel stupid for feeling this way. Any advice is good advice here.","I am stressing over new ISSM role - Previously ISSE
+Hola,
+
+So I just took a federal job as an ISSM and I had a bad feeling since day one. Let me lay the situation out for you. My previous job was in the private sector at a large defense contractor where I was an ISSE. I loved my job and I loved the company, but with any private company you have its cons. My reason for leaving was simply because it was a federal job, which offered job security, better benefits, and ability to have a pension.
+
+While all of those points are awesome, does it matter if you hate the job? I am a highly technical person and I enjoy being in the systems and working, which is what my last job was. This new one is a compliance role, which is just a bunch of paperwork and pushing policies on programs that I support. On day one my manager was complaining all day, saying how this work sucks, the people suck, and how she cant wait until she is done with it and or retires. The pay is comparable as they matched my pay so that isn't one of my concerns.
+
+* Federal Job:
+   * Pros:
+      * Better benefits
+      * Job Security
+      * Ability to invest into a pension
+      * Every other Friday off, and ability to telecommute 50%
+   * Cons:
+      * I hate the work, I don't feel like I would be proficient in it and I have no interest in it.
+      * The people do not seem excited or motivated to be there
+      * My manager told me she hopes I do good so I can help pick up the slack of others
+      * Pay as you progress in your career isnt as good as in the private sector.
+* Previous Job:
+   * Pros:
+      * I enjoyed the work and got every Friday off
+      * The people were excited to be there and wanted to work
+      * Fully Remote and can live anywhere in the US
+      * Wasn't super stressful like I know the Federal job will be
+   * Cons:
+      * Potential layoffs/restructuring as you have with any private company
+      * Health benefits aren't nearly as good, but they offer an amazing 401k and HSA program
+
+I need advice because in my head, going back is the move. But I know I should give this new role some time for the new job blues to pass, but if I do that, my old position is gone within 2 weeks. I am at a loss and have never been this stressed over a job before, and I half feel stupid for feeling this way. Any advice is good advice here.",i am stressing over new issm role   previously isse hola so i just took a federal job as an issm and i had a bad feeling since day one. let me lay the situation out for you. my previous job was in the private sector at a large defense contractor where i was an isse. i loved my job and i loved the company but with any private company you have its cons. my reason for leaving was simply because it was a federal job which offered job security better benefits and ability to have a pension. while all of those points are awesome does it matter if you hate the job i am a highly technical person and i enjoy being in the systems and working which is what my last job was. this new one is a compliance role which is just a bunch of paperwork and pushing policies on programs that i support. on day one my manager was complaining all day saying how this work sucks the people suck and how she cant wait until she is done with it and or retires. the pay is comparable as they matched my pay so that isn t one of my concerns. federal job: pros: better benefits job security ability to invest into a pension every other friday off and ability to telecommute    cons: i hate the work i don t feel like i would be proficient in it and i have no interest in it. the people do not seem excited or motivated to be there my manager told me she hopes i do good so i can help pick up the slack of others pay as you progress in your career isnt as good as in the private sector. previous job: pros: i enjoyed the work and got every friday off the people were excited to be there and wanted to work fully remote and can live anywhere in the us wasn t super stressful like i know the federal job will be cons: potential layoffs restructuring as you have with any private company health benefits aren t nearly as good but they offer an amazing    k and hsa program i need advice because in my head going back is the move. but i know i should give this new role some time for the new job blues to pass but if i do that my old position is gone within   weeks. i am at a loss and have never been this stressed over a job before and i half feel stupid for feeling this way. any advice is good advice here.,14,15,2342,2182,2024,10,Friday,0,/r/cybersecurity/comments/1gbi2pi/i_am_stressing_over_new_issm_role_previously_isse/,https://www.reddit.com/r/cybersecurity/comments/1gbi2pi/i_am_stressing_over_new_issm_role_previously_isse/,1,0.7766180645032924,0.7766180645032924,SVM (Linear)
+1gj2ryy,cybersecurity,TeaTechnical3807,2024-11-04 01:20:56,1730683256,GRC Burnout,"There have been a few burnout posts on this sub, but this one pertains specifically towards GRC. GRC is a major portion of my job and I thought I was pretty good in this area, but lately compliance enforcement has been like scaling a wall covered in grease. Up until this point, I really liked my job and my company, but I think it may be time to start looking for new opportunities. Has anyone else been in a similar situation specifically with GRC?","GRC Burnout
+There have been a few burnout posts on this sub, but this one pertains specifically towards GRC. GRC is a major portion of my job and I thought I was pretty good in this area, but lately compliance enforcement has been like scaling a wall covered in grease. Up until this point, I really liked my job and my company, but I think it may be time to start looking for new opportunities. Has anyone else been in a similar situation specifically with GRC?",grc burnout there have been a few burnout posts on this sub but this one pertains specifically towards grc. grc is a major portion of my job and i thought i was pretty good in this area but lately compliance enforcement has been like scaling a wall covered in grease. up until this point i really liked my job and my company but i think it may be time to start looking for new opportunities. has anyone else been in a similar situation specifically with grc,1,1,462,457,2024,11,Monday,1,/r/cybersecurity/comments/1gj2ryy/grc_burnout/,https://www.reddit.com/r/cybersecurity/comments/1gj2ryy/grc_burnout/,1,0.91245732678212,0.91245732678212,SVM (Linear)
+1gq4p0x,cybersecurity,Additional_Swan_9280,2024-11-13 04:23:34,1731471814,Am I in continuous burnout or not suited for the corporate industry?,"I'm a 25-year-old with (only) 4 years of experience in the cyber industry, and I'm tired.
+I started from SOC, then moving to pentesting, and now I'm an ""advisor"", which basically means doing everything from alerts to software security.
+
+I've been job-hopping every 8-12 months, and I'm tired of managing tickets and random projects that make me sick of what I'm doing. I don't even know what to say when someone asks me ""What's your job like?”. I get that it's the usual day to day in IT, however I insist on it because my mental health is a roller coaster at every job, and it ends up where I waste a lot of time and energy.
+
+But when I'm working on OSINT projects during my free time, it's a completely different story. I'm an absolute OSINT and CTI geek, and I'm passionate about uncovering hidden information and piecing together complex puzzles, it’s a day and night situation.
+
+I've been searching for months for an OSINT position here (Canada), and to be honest, it's been years since I started looking, and I've come up empty-handed. I'm starting to wonder if I'll ever be able to turn my passion into a career, or if I'll be stuck in a job that doesn't fulfill me.
+
+And that question is starting to exhaust me.
+
+So do I really have to go through this long phase of boredom before I can find a job that I'm passionate about, or should I explore new horizons?","Am I in continuous burnout or not suited for the corporate industry?
+I'm a 25-year-old with (only) 4 years of experience in the cyber industry, and I'm tired.
+I started from SOC, then moving to pentesting, and now I'm an ""advisor"", which basically means doing everything from alerts to software security.
+
+I've been job-hopping every 8-12 months, and I'm tired of managing tickets and random projects that make me sick of what I'm doing. I don't even know what to say when someone asks me ""What's your job like?”. I get that it's the usual day to day in IT, however I insist on it because my mental health is a roller coaster at every job, and it ends up where I waste a lot of time and energy.
+
+But when I'm working on OSINT projects during my free time, it's a completely different story. I'm an absolute OSINT and CTI geek, and I'm passionate about uncovering hidden information and piecing together complex puzzles, it’s a day and night situation.
+
+I've been searching for months for an OSINT position here (Canada), and to be honest, it's been years since I started looking, and I've come up empty-handed. I'm starting to wonder if I'll ever be able to turn my passion into a career, or if I'll be stuck in a job that doesn't fulfill me.
+
+And that question is starting to exhaust me.
+
+So do I really have to go through this long phase of boredom before I can find a job that I'm passionate about, or should I explore new horizons?",am i in continuous burnout or not suited for the corporate industry i m a    year old with   years of experience in the cyber industry and i m tired. i started from soc then moving to pentesting and now i m an advisor which basically means doing everything from alerts to software security. i ve been job hopping every      months and i m tired of managing tickets and random projects that make me sick of what i m doing. i don t even know what to say when someone asks me what s your job like . i get that it s the usual day to day in it however i insist on it because my mental health is a roller coaster at every job and it ends up where i waste a lot of time and energy. but when i m working on osint projects during my free time it s a completely different story. i m an absolute osint and cti geek and i m passionate about uncovering hidden information and piecing together complex puzzles it s a day and night situation. i ve been searching for months for an osint position here and to be honest it s been years since i started looking and i ve come up empty handed. i m starting to wonder if i ll ever be able to turn my passion into a career or if i ll be stuck in a job that doesn t fulfill me. and that question is starting to exhaust me. so do i really have to go through this long phase of boredom before i can find a job that i m passionate about or should i explore new horizons,1,0,1435,1393,2024,11,Wednesday,4,/r/cybersecurity/comments/1gq4p0x/am_i_in_continuous_burnout_or_not_suited_for_the/,https://www.reddit.com/r/cybersecurity/comments/1gq4p0x/am_i_in_continuous_burnout_or_not_suited_for_the/,1,0.7197400279207224,0.7197400279207224,SVM (Linear)
+1hpsyyq,cybersecurity,soutsos,2024-12-30 17:52:54,1735581174,How do you find the time?,"Since I've seen that there are actually legit people in this sub, I gotta ask you this.
+
+How in the world do you find time for research? I get so burned out from work, all while trying to balance my time so my long-term relationship doesn't fail because of me spending 16+ hours in front of a screen every day... And I also want to have time to hang out with my friends IRL. Do you sacrifice any of the above?
+
+Does your work give you research time? 30+ days of PTO?
+
+I am in my late 20s and already feel like I'm reaching my limit. Do I just take some breaks and then get back to the grind? I find myself needing more than 2 hours to read a 9 page whitepaper.
+
+How do you do it?","How do you find the time?
+Since I've seen that there are actually legit people in this sub, I gotta ask you this.
+
+How in the world do you find time for research? I get so burned out from work, all while trying to balance my time so my long-term relationship doesn't fail because of me spending 16+ hours in front of a screen every day... And I also want to have time to hang out with my friends IRL. Do you sacrifice any of the above?
+
+Does your work give you research time? 30+ days of PTO?
+
+I am in my late 20s and already feel like I'm reaching my limit. Do I just take some breaks and then get back to the grind? I find myself needing more than 2 hours to read a 9 page whitepaper.
+
+How do you do it?",how do you find the time since i ve seen that there are actually legit people in this sub i gotta ask you this. how in the world do you find time for research i get so burned out from work all while trying to balance my time so my long term relationship doesn t fail because of me spending    hours in front of a screen every day... and i also want to have time to hang out with my friends irl. do you sacrifice any of the above does your work give you research time    days of pto i am in my late   s and already feel like i m reaching my limit. do i just take some breaks and then get back to the grind i find myself needing more than   hours to read a   page whitepaper. how do you do it,1,8,705,690,2024,12,Monday,17,/r/cybersecurity/comments/1hpsyyq/how_do_you_find_the_time/,https://www.reddit.com/r/cybersecurity/comments/1hpsyyq/how_do_you_find_the_time/,1,0.7809655993134897,0.7809655993134897,SVM (Linear)
