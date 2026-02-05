@@ -1,0 +1,1383 @@
+index,text,raw_output,predicted_label,approach,model
+0,"Burn out among Cybersecurity leaders at a frustrating high.
+In a world of high powered AI and evolving threat actors; cyber security leaders are facing significant amounts of burnout and stress. Anyone experienced this as well?
+
+[https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/](https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/)","0
+
+The input discusses burnout among cybersecurity leaders in general terms and asks if others have experienced it, but the poster is not discussing their own personal experience with work-related burnout or stress in the past or present. They are making a general observation about the industry and sharing an article, then asking a hypothetical question to the community. This falls under the category of discussing burnout in a general/hypothetical context rather than sharing their own personal experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+1,"Invitation to Participate in Research Study on Burnout in IT Professionals
+Hello Everyone,
+
+I hope this message finds you well. I am a master's student currently working on my thesis.
+
+My research focuses on understanding the impact of different work environments (traditional office, work-from-home, and hybrid models) on burnout among IT professionals. My goal for this study is to better understand how various work arrangements affect stress levels, job satisfaction, and overall wellbeing in the IT industry.
+
+Your participation is completely voluntary, and all your responses will be kept confidential. The survey will take approximately 10-15 minutes to complete. No compensation will be provided for participation.
+
+**Survey link:** [https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV\_eDm0Xa4cuc2CMzY](https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV_eDm0Xa4cuc2CMzY)
+
+Thank you for considering my request.","0
+
+This input is about a research study invitation, not about the poster's own work-related burnout or stress experience. The poster is a student conducting research on burnout in IT professionals, but they are not discussing their personal experience with burnout or stress in their cybersecurity/IT work. This falls under the category of hypothetical/research situations rather than personal experience with work-related burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+2,"Dealing with feeling stuck in the security field
+### Opening Statement
+
+In argument theory, there's a concept of a false dichotomy. Within a false dichotomy, we assess that things can be good or bad. It's time to leave or stay. I'm burned out or I'm passionate. It's a natural human decision tree method, which makes decisions binary and - in some cases- that's easier than having options. (Un)fortunately, life is rarely so binary - despite our careers literally being about ones and zeroes.
+
+I've been a community member here for a while across different accounts. On a given day, you'll see at least one post about ""HoW dO I bEcOmE a L33T H@xor wItHOuT DoInG mY oWn ReSeArCh?"" and it's balanced out with ""How do I get out?"". If it weren't so frequent that we see the same two posts day in and day out, it would be funny.
+
+The goal of this post is to provide you options to assess what's in the decimal points between 1 and 0, and hopefully some of the tricks and strategies will help you.
+  
+### Tricks to be discussed:
+
+- Challenge the status quo
+- Diversify your value streams
+- Intra-preneurship [Not a typo]
+
+### Why Me?
+
+Before I start, I want to give my obligitory ""why does my opinion matter?"". Brutally honest - it doesn't. This is just some more text in the world that's repeating great things others have said before. Ego inflating - I've launched and sold a successful security start up, worked for fortune 5 companies, and I'm an ex-lifeguard at the YMCA.
+
+### Disclaimers
+
+I'm not a mental health professional and the advice I'm giving should be taking with that in mind. There are mental health challenges, temporary or chronic, that may be associated with thoughts of being trapped into a situation. This advice is intended to be taken broadly and with a slab of salt.
+
+### Challenge the Status Quo
+
+I have yet to be in a single business where the processes were perfect, everything worked like a well oiled machine, and it was sunshine and rainbows. If you have a workplace like this, and you're reading this article, kindly go climb a tree. This is for the rest of us who live on earth.
+
+With the status quo often comes things like routine, manual tasks that offer minimal value. There are standing meetings that don't make sense. There are boundaries that you aren't allowed to cross, even though the fix is right in plain sight. It can entrap you into a box of function that feels self defeating in many ways. On the other hand...
+
+The status quo may come with such disorganized chaos that nothing is getting done. Everyone complains about issues all the time, but nothing is getting done about any of them. The backlog (if there even is one) is so long and out of date that the thought of prioritizing and executing it requires mental stamina that only tibetan monks have attained. It's crazy out there.
+
+In either situation, I find that a lot of people stuck in the status quo feel helpless to change things and don't feel like they have options. Depending on the company, that may be true, but there are some things to try before giving up.
+
+In any situations where you are challenging the status quo, it needs to be done with respect for why the tape (or chaos) is there. The best way to justify doing what you see as important is to understand the biggest pain points in the business and tackling them. This means talking with your management and other stake holders to see what's bothering them.
+
+Once you have a good sense of the boundaries and challenges that exist, you can start to put together a strategy for dealing with them. Most boundaries are there for good reasons, but sometimes they need to be adjusted. This is where a proof of concept comes into play. Often times when I have an idea for a change, the most effetive way to get support is to put something in a decision maker's hand that shows the change. This could be a script, or a diagram, or a spreadsheet; it just needs to show the value you're bringing.
+
+#### An anecdote --
+
+Once upon a time, I worked at a large utility company and I'm pretty sure the entire thing was built with red tape. I've never spent more time or energy on documentation and process than I did at that organization, so it definitely fell into the first status quo definiton. While my time there was cut short by a certain pandemic, I was quite successful in my role ther and still have many good relationships from the role.
+
+What helped me succeed in the role was doing what I knew needed to be done rather than waiting for a process to complete. The project needed a script built and the devs were busy? I wrote one. We needed to parse and analyze 16GB of logs a day and I had a 6th gen U processor to do it with? Time to learn rust. We needed a business primer on MFA methods? I crafted one. We needed a financial projection for different solutions? I built it.
+
+Instead of being constrained to what my job title was, I actively filled gaps and drove success. I prioritized the biggest pain points and allowed the noisy red tape to whine in the background unless it really was urgent. Along the way, I built the relationships with key people in the organization who also wanted change but needed help showing the path forward.
+
+On the flipside, I had a colleague who was such a rule follower, he genuinely struggled in his role. On top of that, his manager was quite strict in his persuit of delivery. For months I watched the colleague flail about, until one day I snapped at him. 
+
+I pointed out that he wasn't likely going to be perfect at attaining all the written expectations for his role given the amount of tape. In that situation, demonstrating value by completing work was more important than being perfect at following the red lines. When he let go of trying to do everything by the book, and focus on getting things done he felt more empowered to do his job and was actually recognized for it. The manager who had been overbearing came to be trusting instead.
+
+### Diversify your value streams
+
+Originally, I had this section titled for income streams, but I realize that was a single minded approach. In reality, a lot of the times we feel stuck because we don't have other engagements in our lives. Those could be side hustles, hobbies, or community work but they should all be something that keeps you engaged in something else. This (then) excludes mindless activities that lead to less fulfillment, such as watching TV.
+
+Now, I'm not attacking watching TV. There's a time and place for sitting in front of the screen and getting lost in a story or catching up on the news. However, activities like this or doom scrolling have been demonstrated to do little for our motivation and sense of fulfillment. In fact, at too much exposure they can demotivate and defalte our sense of self.
+
+For me, I have found the freelancing keeps me well engaged. I get to learn and solve different problems, often for temporary clients so nothing to long or boring after a period of time. I've also donated a lot of time to local non-profits to support their IT and provide teaching to those who want to get into the field. All these activities are outside of my work hours and keep me engaged by forcing my focus onto other activities for a while. 
+
+Note on the excuse of having families: I have one. Four kids, a disabled wife, and all the extras that brings. As the single income earner for the family, I do a lot to keep them taken care of, but I still make time to play Minecraft with the kids, build legos, build camp fires, etc. with them. Most of my side work is done early morning or after the kids go to bed.
+
+### Intra-preneurship
+
+Now, some of you don't want to or aren't allowed (by your employment agreement) to seek externaml work. In any case, I highly recommend at looking in your business and seeing if there are opportunities for you to take on responsibilities that align with your career goals and business need. With the exception of large enterprises (and even they have these gaps), there's more hats to be worn than people to fill them. Any start up people know this too well.
+
+In the small-medium business category, if you really need a change of pace but like the people you're with, speak up. Create a business case for the change and demonstrate how you could make a difference in that area. You may find that you're able to build your own brand within the organization as the person who brings positive change. With the reputational growth comes increased trust and opportunity to change the status quo, drive value, and make a fulfilling career of your own chosing within the organizatoin construct. 
+
+If you want to learn more about this specific topic, David Bet Patrick wrote a great book ""5 Steps Ahead"" that covers this and more. I recommend it.
+
+### In Closing
+
+These are just three techniques for fighting your sense of being trapped or stuck. Each of them allows you to create a decimal point between ""should I stay or go"" leading to options like:
+
+- 0.0: Leave
+- 0.2: Attempt Intraprenuership
+- 0.5: Challenge the status quo
+- 0.8: Diversify Value Steams
+- 1.0: Stay
+
+Good luck out there, and remember that jobs are a major factor in life and they aren't going to make you personally fulfilled 100% of the time. It's not any company's job to make you happy as an employee; and HR is there to make sure you're productive. This is all as it should be. Your fulfillment and happiness is largely depenent on your ability to control your response to situations. These strategies will help, and there are many others to choose from as well.","Looking at this input text, I need to determine if the poster is discussing their own work-related burnout/stress in the past or present.
+
+The poster is writing an advice/guidance post for others who might be feeling ""stuck in the security field."" While they mention burnout as a concept and acknowledge that workplaces aren't perfect (""sunshine and rainbows""), they are not discussing their own personal experience with burnout or work-related stress.
+
+Key indicators this is NOT",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+3,"How are you doing guys?
+Is this cybersecurity stuff stressing you out or is it just me?","1
+
+The poster is directly asking about their own current experience with stress related to cybersecurity work (""is it just me?""), indicating they are personally experiencing work-related stress in the present. This fits the definition of discussing their own mental health related to work-related stress in cybersecurity.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+4,"Hey folks, for those of you working right now, what’s the toughest situation you’ve faced on the job, and how did you handle it?
+Same as title.","0
+
+This input is asking others about their tough work situations in a hypothetical/general discussion format. The poster is not discussing their own personal experience with work-related burnout or stress in the past or present. They are soliciting stories from others about challenging situations, which falls under the category of hypothetical/general discussion rather than the poster's own mental health experience with burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+5,"How did you overcome burnout?
+So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout?","1
+
+The poster is discussing their own current experience with burnout in their cybersecurity job. They explicitly state they've been in a cybersecurity position for 6 months, describe their current lack of motivation to study, and characterize this as hitting ""a brick wall"" - all indicating present work-related burnout/stress related to their own mental health and professional situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+6,"Teams outage due to “networking issue” making for a quiet afternoon, literally.
+It’s been an eerily quiet few hours without the constant barrage of pings…  Hope no one is having an actual security incident right now while their primary comms channels are down without other plans in place🥲","0
+
+The input describes a temporary Teams outage and makes a light observation about the quiet atmosphere it creates. While the poster mentions hoping no one has a security incident during the outage, this is discussing a hypothetical situation rather than the poster's own experience with work-related burnout or stress. The tone is casual and even somewhat humorous (using the emoji), without any indication of personal mental health struggles, burnout, or work-related stress. This falls under the category of",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+7,"How do you find the time?
+Since I've seen that there are actually legit people in this sub, I gotta ask you this.
+
+How in the world do you find time for research? I get so burned out from work, all while trying to balance my time so my long-term relationship doesn't fail because of me spending 16+ hours in front of a screen every day... And I also want to have time to hang out with my friends IRL. Do you sacrifice any of the above?
+
+Does your work give you research time? 30+ days of PTO?
+
+I am in my late 20s and already feel like I'm reaching my limit. Do I just take some breaks and then get back to the grind? I find myself needing more than 2 hours to read a 9 page whitepaper.
+
+How do you do it?","1
+
+The poster is discussing their own current experience with work-related burnout (""I get so burned out from work"") and the stress of balancing their cybersecurity career with personal relationships. They describe working 16+ hours in front of a screen daily, feeling like they're ""reaching my limit"" in their late 20s, and struggling to find time for research while maintaining work-life balance. This is clearly about their present work-related burnout and stress in the",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+8,"Challenges in Tabletop exercises?
+We run regular tabletop exercises in our company, my main objective is to raise top management awareness for strategic challenges in information security.
+Yet,  I find them sometimes to time consuming for the output we generate. Management is made aware of some problems. We write a report and then nothing happens till the next time.
+That's a bit frustrating and I am wondering if I approach the problem from the wrong side.
+
+Whats your approach to them? 
+How often do you run them, if you run them at all?
+Do you use a third party to prepare?
+ Does it make a difference in impact on top management or does the report just land at your desk?
+
+Maybe you have some other resources to share to make the process more efficient?","0
+
+The input discusses challenges with tabletop exercises and seeks advice on improving their effectiveness, but it does not discuss the poster's own work-related burnout or stress related to their mental health. While the poster mentions finding the exercises ""frustrating,"" this appears to be about process inefficiency rather than personal burnout or stress affecting their mental health. The focus is on operational improvements and best practices rather than personal experiences with work-related stress or burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+9,"Facebook, Instagram, WhatsApp hit by massive worldwide outage","0
+
+The input is simply reporting a news event about social media platforms experiencing outages. There is no discussion of work-related burnout, stress, or mental health issues by the poster. This appears to be a factual news headline rather than someone discussing their own experiences with workplace stress or burnout in cybersecurity.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+10,"Do you have a different mentality between pentesting and CTFs or is it just me?
+When doing stuff like CTFs when I get stuck on something I sometimes just freely throw payloads at it to see what sticks and go from there. However when I'm stuck on something at work, I'm much less inclined to do so obviously, to not risk breaking anything, and I always have în the back of my mind that there may be something if I fuzzed hard enough, although I do try things manually.
+
+Is it just me with a different mentality at work vs CTFs? Or is this just impostor syndrome?","0
+
+The input discusses different approaches between CTFs and pentesting work, but does not indicate the poster is experiencing work-related burnout or stress related to their own mental health. The poster is asking about different methodologies and mentioning potential impostor syndrome, but this is more of a technical/professional approach question rather than discussing actual burnout or work-related stress they are experiencing.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+11,"Table top exercise scenarios for Saas cloud-based productivity suites
+Need to put together an exercise, been looking online through CISA and just other general ideas. 
+
+Want to make a specific exercise for this topic that can be used to train for incident response and contingency planning 
+
+What’s a good topic to use for this ?
+
+What other general questions should be discussed in this exercise?","0
+
+The input is asking for help with creating tabletop exercise scenarios for SaaS cloud-based productivity suites. This is a request for professional guidance on incident response training materials, not a discussion of the poster's own work-related burnout or stress. The poster is seeking advice on how to develop training exercises, which is work-related content but does not involve any mention of burnout, stress, or mental health issues related to their own experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+12,A new report finds employees dealing with ransomware suffered PTSD symptoms and major health issues like strokes. Orgs with better wellbeing were more resilient.,"0
+
+This input is discussing a report about other employees and organizations in general terms, not the poster's own personal experience with work-related burnout or stress. The text is presenting findings from research rather than describing the poster's own past or present mental health experiences related to their cybersecurity work.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+13,"Facebook, Instagram down during outage; thousands affected","0
+
+This input is about a technical outage affecting Facebook and Instagram platforms. It does not discuss work-related burnout or stress related to the poster's own mental health experiences. It appears to be a news headline or factual report about a service disruption, with no personal context about burnout or work-related stress from the poster's perspective.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+14,"If you could start fresh today as a do over, what would you do?
+In this day and age how would y’all restart y’all’s career? Looking for tips 😅","0
+
+The input is asking a hypothetical question about restarting careers and seeking general tips. The poster is not discussing their own current or past experience with work-related burnout or stress. This falls under the category of hypothetical situations that should not be labeled as 1, as specified in the instructions.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+15,"Live Box Walkthrough featuring the PG-Practice machine ""Exfiltrated,"" hosted by our Student Mentor, iKourosh in 30 Minutes","0
+
+This input is simply announcing a live walkthrough/tutorial session for a practice machine called ""Exfiltrated"" hosted by a student mentor. There is no discussion of work-related burnout, stress, or mental health issues. It's purely an educational/training announcement with no personal experience of burnout or stress being shared.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+16,"I’m beyond burnt out
+I’m beyond burnt out
+
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.","1
+
+The poster is clearly discussing their own current work-related burnout and stress as a senior information security manager. They explicitly state they are ""beyond burnt out,"" ""so close to total burnout,"" and describe ongoing workplace stress from battles with engineering teams, resource issues, and feeling excluded from conversations. They mention wanting to quit and constantly second-guessing themselves due to these work-related mental health struggles. This is a clear example of discussing their own present work-related burnout",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+17,"How do you de-stress?
+My normal way to de-stress from work/life was to light up a bowl or from my pen but now that I’m seeing a few doors open in more serious security roles I gotta pass drug tests. Alcohol makes my joints flair up so that’s a no go for me. Any interesting hobbies that you’ve taken up?","1
+
+The poster is discussing their need to find new ways to de-stress from work/life, indicating they are currently experiencing work-related stress. They mention needing to change their previous stress management methods due to potential drug testing for ""more serious security roles,"" which shows this is related to their cybersecurity career. This represents their current personal experience with work-related stress and their need to manage it, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+18,"Taking an extended leave
+If burnout was a destination I’d have to turn around and drive back to it because I’m whatever comes after that and before death. 
+
+I’ve been in the field for over 24 years (but still in my early 40s) so it’s the only job I’ve ever had. Lots of personal stuff to unpack but whatever. Left pretty much the worst company during the layoffs, and got conned into a new job that had “great wlb” (it’s a global 24 hour IR role, lol)
+
+Anyway long winded way of saying, I need to take a year off, and just let my brain fix itself. This economy is one of the worst I’ve seen and I’m low key terrified I won’t be able to be hired when I return.  
+
+Anyone done something similar? Advice? Solidarity?","1
+
+The poster is clearly discussing their own current work-related burnout and stress in cybersecurity. They describe being beyond burnout (""whatever comes after that and before death""), mention leaving a bad company, being in a demanding global 24-hour IR role, and needing to take extended leave to ""let my brain fix itself."" This is a direct discussion of their personal experience with severe work-related burnout in the present, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+19,"SOC analyst - Weird Job Description!
+I just came across a job listing for SOC analyst which talks about allergies, physical reactions, bend, lift objects up to 20lbs etc (PS: I don't have any SOC analyst experience, correct me if I am wrong). Does these are actually required for SOC positions?
+
+""Physical Demands:  
+·The physical demands of the position described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.  **While performing the duties of this job, the employee is regularly required to sit, type, look at a computer for 2-3 hours at a time, stand, drive, reach, bend, lift objects up to 20lbs on occasion. The SOC Analyst I should expect and prepare for a variety environmental conditions and should report in advance any working conditions that he/she may believe will cause physical reactions, allergies, and/or air quality that may put them at risk ""**  
+
+
+&#x200B;","0
+
+The input is asking about job description requirements for a SOC analyst position and questioning whether certain physical demands are typical for such roles. The poster is not discussing their own work-related burnout or stress experiences, but rather seeking clarification about job requirements they found in a listing. This falls under the category of not discussing personal burnout/stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+20,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?","0
+
+This input is asking for general advice and tips about work-life balance from the community. The poster is not discussing their own personal experience with work-related burnout or stress in the past or present. Instead, they are seeking hypothetical advice and strategies from others about how to manage work-life balance and career advancement. This falls under the category of hypothetical situations rather than the poster discussing their own burnout/stress experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+21,Deformation,"0
+
+The input ""Deformation"" is a single word with no context related to work-related burnout, stress, or cybersecurity professionals discussing their mental health experiences. It does not contain any discussion of the poster's own past or present burnout or work-related stress in cybersecurity.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+22,"What's it like working in a Microsoft security role?
+I came across some job postings. For those who have worked or are working there, how is it? such as work-life balance etc?","0
+
+The input is asking about hypothetical future work experiences at Microsoft security roles, specifically requesting information from others about what it would be like to work there. The poster is not discussing their own past or present work-related burnout or stress - they are seeking information about potential future employment. This falls under the category of hypothetical situations that should not be labeled as 1 according to the guidelines.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+23,"How Complex is your Environment?
+Is my architecture too complex or am I still too new?
+
+I have been here in my role for a year and still don’t know the complete infrastructure in terms of which tools cover what, etc.
+
+Of course I know the general architecture from the edr, cnapp, siem, ingestion methods we use, etc.
+
+However, when attempting and failing to query server logs in our SIEM from an activity picked up by our other tooling because it won’t have an agent installed and nobody knows why. From there having to check some random logs ingested from what feels like the 10th engine/tool that don’t pick things up properly, etc.
+
+Either I’m too stupid to figure out my environment from the actual architecture/setup or it’s just overly complicated and not setup properly / not enough effort has gone into fixing it. We have tooling which covers different parts of our infrastructure with some overlapping and others not. It’s confusing as fuck and I’m frustrated everyday.
+
+It feels like I need to know the tool implementations inside and out to figure out why it isn’t working and what other method and tool to try and use. It’s hard to do my job when I can’t trust my engineers to have it configured properly.
+
+Is this normal? Or should I know this by now?","1
+
+The poster is describing their personal work-related stress and frustration in their current cybersecurity role. They express being ""frustrated everyday"" and finding it ""hard to do my job"" due to the complexity and poor configuration of their work environment. This represents current work-related stress related to their own mental health and job responsibilities in cybersecurity, which fits the definition for classification 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+24,"Weaknesses of a SOC?
+Hey guys, So how can a SOC get bypassed? We all know the strenghts, but what are the Weaknesses?","0
+
+The input is asking a general technical question about SOC (Security Operations Center) weaknesses and how they can be bypassed. This is a hypothetical/theoretical discussion about SOC vulnerabilities rather than the poster discussing their own work-related burnout or stress experiences. The poster is not sharing personal experiences of burnout or stress related to their mental health in the past or present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+25,"Burnout - CS Career Questions
+I've been in the cyber security field for two years, and I've had good performance reviews but I am not sure if it is the career for me. In the past year I've had to spend a lot of time studying for and earning the SSCP and re-earning the Security+.
+
+A lot of my free time is gradually getting eaten up by this job.
+
+Things that are eating up my free time:
+
+1.) Having to study for and earn Linux+ before the year is out. This is done after 5PM and on weekends.
+
+2.) Having to earn a Splunk certificate before the year is out. This is also done after 5PM and on weekends.
+
+3.) Becoming an expert on Application Security. In addition to working on the other two other requirements from my job listed above, I've been told I should be studying and absorbing information on AppSec. So, I've been doing that too - off hours, as requested.
+
+4.) Return to office. I'm now losing at least an hour a week of personal time from the commute to the office. More days will be required soon too, from what I've been told as we're said the goal is to get everyone back in 5 days a week. 
+
+5.) Getting late night calls when alerts go off.
+
+6.) Getting more and more tasks assigned to me that can only be done after hours and on weekends (running scans, validating changes work, and so on).
+
+
+
+I'm not 100% sure this is the career path for me if this is going to be the next 20 years of my life, and that's fine. I don't know if I should try to look for other cyber security jobs at other companies, or if this is par for the course in the field and I need to adjust my study plan to migrate into something else career wise.
+
+  
+Can you provide me with honest input? I'm okay with being told I'm not cut out for this line of work. I just feel like bit by bit I'm losing the ability to spend time with my family and friends, and I'm even seeing a mental health counselor at this point too because I'm so miserable.","1
+
+The poster is clearly discussing their own current work-related burnout and stress in cybersecurity. They describe how their job is consuming their free time, affecting their personal relationships, and causing them to seek mental health counseling due to feeling ""so miserable."" This is a direct account of their present experience with work-related burnout, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+26,"Got a Junior SOC Engineer Position – Feeling Overwhelmed, Need Advice
+Hey everyone, I recently started as a Junior SOC Engineer about a month ago, I'm learning a lot on the job and making progress but kind of slowly, I'm also feeling a bit overwhelmed. Before this role, I was mainly focusing on SOC Analyst tasks, so most of my knowledge is in analysis.
+
+Now, in my new position, my daily tasks include working with SOAR, ticketing systems, and SIEM 
+
+What areas should I prioritize learning to become better at the engineering aspects of the role? Also, are there any good courses or resources you’d recommend? 
+
+Thanks in advance for any advice!","1
+
+The poster is discussing their current work situation as a Junior SOC Engineer and expressing feeling ""overwhelmed"" in their new role. This represents work-related stress related to their own mental health in the present, specifically related to their job responsibilities and workplace environment in cybersecurity. The overwhelmed feeling they describe fits the definition of work-related stress that the poster is personally experiencing, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+27,"Is cyber security stressful?
+Does the field of cybersecurity have more stress than other fields?","0
+
+The input is asking a general question about whether cybersecurity as a field is stressful compared to other fields. This is a hypothetical/general inquiry about the field rather than the poster discussing their own personal experience with work-related burnout or stress in the past or present. The poster is not sharing their own mental health experiences related to work stress or burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+28,"How do you handle burnout as a senior security engineer?
+Context: my manager is pushing me hard to take on staff responsibilities, which I have been pushing back on for the last 12 months. I am not interested in handling political aspects that come with the staff role. This has caused severe burnout and is making me hate the work and my manager. I have started looking for roles outside, but wondering if this community has any tips.","1
+
+The input describes the poster's current experience with severe burnout caused by their manager pushing them to take on staff responsibilities they don't want. They explicitly state ""This has caused severe burnout and is making me hate the work and my manager."" This is clearly discussing their own present work-related burnout and stress in their cybersecurity role, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+29,Operation PowerOFF shuts down 27 DDoS-for-hire platforms,"0
+
+This input is about a law enforcement operation that shut down DDoS-for-hire platforms. It does not discuss any work-related burnout or stress, nor does it mention the poster's own mental health experiences related to their cybersecurity work. It appears to be sharing news or information about a cybersecurity-related event, which falls under the category of ""No work-related burnout/stress.""",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+30,"What does ""a day in the life of"" looks like in your cybersecurity job??
+I was wondering what a regular day's work in cybersecurity looks like on a day-to-day basis around the world. Whether it be GRC role, cybersecurity engineering, cybersecurity architecture, etc... Are you happy with what you get to do? Any non-cybersecurity related tasks you had to take onto apart from the ones from your role?","0
+
+This input is asking for general information about what daily work looks like in various cybersecurity roles. The poster is not discussing their own work-related burnout or stress experiences, but rather seeking information about typical job responsibilities and satisfaction levels from others. This is an informational/exploratory question rather than a discussion of personal burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+31,"Let's take out the pessimimism
+Hey y'all I've been seeing a lot of pessimistic stuff in the this subreddit. I'm a uni student getting a bachelor's degree in cyber security tbh I got into it because it felt cool it still does .. but seeing all the negative comments in here makes me feel weird .. so can you guys tell me what you love about your work, does working in this field make you happy and satisfied, like the urge to get better all that shi.. isn't it exciting and fun?? I mean I do understand too much work can cause burnouts and stuff but all that like by taking breaks can be fixed right ?","0
+
+The poster is a university student asking hypothetical questions about the field and discussing burnout in general terms as something that ""can cause burnouts"" for others, not describing their own current or past experience with work-related burnout or stress. They are seeking reassurance about future career prospects rather than discussing their own mental health experiences with work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+32,"How do you peeps handle burnout and frustration?
+I work for a MSSP, recently due to various things like Performance Reviews (happy with the ratings but not the compensation) and workload, i have been feeling down.. 
+
+I used to love being busy, used to love being swamped, these days - i am not confident, feeling really uncomfortable and unprepared. End of the day - i feel guilty for being unproductive…
+
+How do you handle this?? Is this just me? 
+
+Sorry if this is the wrong forum!!!! Feel free to delete of not in compliance","1
+
+The poster is clearly discussing their own current work-related burnout and stress. They describe feeling down due to performance reviews, compensation issues, and workload at their MSSP job. They mention losing confidence, feeling uncomfortable and unprepared, and experiencing guilt about productivity - all indicators of personal work-related burnout they are currently experiencing, not hypothetical situations.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+33,Power outage worldwide,"0
+
+The input ""Power outage worldwide"" does not discuss work-related burnout or stress. It appears to be a brief statement about a technical/infrastructure issue (power outage) with no mention of the poster's personal mental health, work stress, or burnout experiences. This falls under the category of content unrelated to work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+34,"Cybersecurity Analyst US/ Europe
+Hello,
+
+I am a Cybersecurity Analyst with a master's degree in cyber, I moved to the US from North Africa 6 years ago,
+I worked everything except IT jobs.. I couldn't land an IT job, I have severe anxiety and forget a lot and recently diagnosed with ADHD so every interview is a nightmare to me, which impacted my health more and more.
+
+I have a small car and I finally got a good place where to live  with not very expensive rent but I feel that I have no energy anymore and I am very depressed.
+
+I am planning to go back to my country and take some rest and try to start again from over there to look for a job in Europe or maybe come back here but it is like I am going to start everything again from scratch and I am very scared of that.
+
+I am lost and can't even decide because of my health problems.
+
+What is the best move in my case?","1
+
+The poster is discussing their own current work-related stress and mental health struggles in cybersecurity. They describe having ""severe anxiety,"" being ""very depressed,"" having ""no energy anymore,"" and how their inability to land IT jobs has ""impacted my health more and more."" This represents their personal experience with work-related burnout/stress in the cybersecurity field, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+35,100% Placement Assistance,"0
+
+The input ""100% Placement Assistance"" appears to be a marketing or promotional phrase, likely related to job placement services or educational programs. It does not discuss work-related burnout or stress, nor does it relate to anyone's personal mental health experiences in cybersecurity. This is simply a brief promotional statement with no context about burnout, stress, or personal work experiences.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+36,CrowdStrike: Tech firm sued by shareholders over IT global outage,"0
+
+The input is about CrowdStrike being sued by shareholders over a global IT outage. This is a news headline or article title discussing legal/business consequences of a technical incident. There is no discussion of personal work-related burnout or stress by the poster - it's simply reporting on a corporate legal matter. The text does not contain any first-person discussion of mental health, burnout, or work-related stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+37,Meltdown What Meltdown? Southwest Flew On Time All Day,"0
+
+This input is about Southwest Airlines flying on time and appears to be discussing airline operations, not work-related burnout or stress in cybersecurity. The text does not mention any personal experience with burnout, stress, or mental health issues related to work in cybersecurity or any other field.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+38,"Being burnt out within the first 6 months
+Started as a cloud security engineer 6 months ago at this new company which is shockingly under resourced which has resulted me doing the work of 3 people. We're hiring in all the wrong areas and don't have enough people doing actual work however higher-ups are completely blind and can't see this. On top of this we have some douchbag clients and pretty much break everything we do for them.
+
+We have some great people and my manager is really supportive and I'd hate to leave at the drop of a pin but I feel exhausted. Do I wait for things to get better and more people to come in (they've been saying this l year but more people leave then join) and take the load off or do I pack my bags and look elsewhere?","1
+
+The poster is clearly discussing their own current work-related burnout and stress as a cloud security engineer. They describe feeling ""burnt out"" and ""exhausted"" due to being overworked (doing the work of 3 people), dealing with difficult clients, and working in an under-resourced environment. This is a direct discussion of their personal experience with work-related burnout in their current cybersecurity role, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+39,"What’s your biggest frustration?
+What’s your biggest frustration with Management, business or non-security people? Work related frustrations 😅","0
+
+This input is asking others about their frustrations in a hypothetical/general sense (""What's your biggest frustration?"") rather than the poster discussing their own personal experience with work-related burnout or stress. The poster is soliciting information from others about their frustrations, but is not describing their own past or present burnout/stress experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+40,"Passed the CCSP
+Took the exam today -> Passed it!
+
+150 questions. It was difficult but I didn't take the full 4 hours. I finished in about 2.5 hours.
+
+I struggled with the legal portion of the exam - never my strong suite, but the data protection, infrastructure security, and cloud concepts were easier. 
+
+If I had to offer a piece of advice:
+
+Read the entire question and all the answers at least 2 times -- read every word! I had some questions where I would think that the answer was A, but I re-read the question and saw one word that I didn't notice before and I changed my answer to B. Every word matters! The questions are purposely written to make you think it through - it's not as easy as question -> answer. There are multiple right answers, and you have to find the best one.
+
+My studying XP might be different than yours - I got the book/test bundle and read through the CSA guide. Some might need more, some might need less - but I recommend the official Sybex book bundle -- well written and it goes over most of the topics on the exam.  Took me about a month to finish it and understand the concepts.
+
+I'm not a video learner - I need to read, so I didn't do any video based courses.
+
+Oh, and remember to get a good night sleep before -- underrated IMO.
+
+Good luck!","0
+
+The input text is about someone sharing their experience of passing the CCSP certification exam. The poster discusses study methods, exam difficulty, and offers advice to others taking the exam. There is no mention of work-related burnout, stress, or mental health issues related to their professional life. This is purely about certification achievement and study recommendations.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+41,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.
+  
+
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer
+: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:
+  
+·       Perceived lack of control
+  
+·       Lack of clear expectations of you or the role
+  
+·       Heavy workloads/Unreasonable deadlines
+  
+·       Poor relationships/Lack of support/Unfair treatment
+  
+·       Problems with work-life balance
+  
+
+  
+I will add ""A persistent stream of negativity"" to the pile.
+  
+
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.","0
+
+This input is discussing burnout in general terms and asking for advice to help others, rather than the poster discussing their own personal experience with work-related burnout or stress. The poster is presenting information about burnout studies and causes, and requesting that others share actionable advice in the comments. This is a hypothetical/general discussion about burnout rather than the poster sharing their own past or present experience with work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+42,"Frustrated with being an intern, despite feeling like a full-timer.
+I'm going to sound an ungrateful SOB (and probably get some flack for it) to all those who have yet to secure internships or any cyber related position but....
+
+I HATE being an intern. Don’t get me wrong, I’m beyond grateful to even have a position in today’s job market, but the title feels like a punch in the face considering the effort I’m putting in. I’ve worked hard, get regular praise from colleagues for my work, and they genuinely value what I bring to the team. But somehow, it feels like I'm playing the ""intern"" game wrong.
+
+There’s not much expected of you as an intern. They say you’re mostly there to learn, but how can I stand around and just learn all day? Well, obviously no sane person in my field would do that. I didn’t just shadow. I took on tasks, tackled incident response, got brought into projects, and became skilled at so many different technologies.
+
+After six months, I felt ready for a full-time position. I was balancing school, getting certifications, and putting in real work every day to drive and make change. Of course, this is not up to me to decide when I’ll get an offer.
+
+My company acknowledged my interest in going full-time, yet gave me the “after you graduate” talk. Due to “legal” and “tax” reasons, they said I had to stay an intern until I finish my degree in May 2025. My only thought was - *are you serious?* But really? Shouldn’t I decide how much I can handle as a student?
+
+  
+I suspect there's more to the story -  probably about budgets, but the official explanation feels like another punch in the face.
+
+Then there’s school. My experience on the job has taught me more about cybersecurity in 14 months than my degree has in almost four years. 
+
+The irony is that many of my colleagues don’t even have degrees in cyber. They came from different fields, took a cert or two, and got the job. Yet here I am, balancing school, getting certifications, and building real work experience—only to be told I still need the piece of paper before I can move forward.
+
+Anyone else been in this position? How do you view the “intern” title in a positive light? And what’s the right work ethic for an intern? For me, I keep feeling like I need to match full-timers. I feel I have so much value to provide, but providing that value as an intern doesn't feel right.
+
+*And yes, I am applying to other places, and I will continue to do so...*","1
+
+The poster is discussing their own current work-related stress and frustration in their cybersecurity internship role. They express feeling burned out from balancing multiple responsibilities (work, school, certifications) and describe emotional distress about their situation, including ""hate being an intern,"" feeling like getting ""a punch in the face,"" and questioning their work-life balance. This represents their personal experience with work-related stress in their current cybersecurity position, not a hypothetical",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+43,"Tired Working on Cybersecurity
+Hi Cybersecurity members!
+
+Just want to venting out, im working on cybersecurity area just because this is what i took when i was on university..
+
+and it was an 8 years ago.. 
+
+Currently im feel tired of this area, almost every single day i need to catch up with the current cybersecurity news. As security consultant, i need to working together with customer.
+And if there are some issue and related to the security solution that i design or suggest to them, i feel guilty and impact to the my personal daily life. i always overthinking about that situation and thinking im not good enough for them.
+
+especially if there is pressure from customers, I will keep thinking about it until I can't sleep.
+
+I have sometimes thought about stopping working in this area, but I need money hahaha ​​if I move to another area this is all I can do....
+
+
+Wishing to you guys, what happens in your work dont make it to impact your personal life or your mental. :)
+
+Happy Monday!","1
+
+The input describes the poster's personal experience with work-related burnout and stress in cybersecurity. They explicitly discuss:
+
+- Feeling ""tired"" of working in cybersecurity
+- Daily pressure to keep up with cybersecurity news
+- Feeling guilty when security solutions they designed have issues
+- Work impacting their personal daily life
+- Overthinking work situations to the point of losing sleep
+- Customer pressure affecting their mental state
+- Considering leaving",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+44,What lying on your resume sounds like…,"0
+
+The input ""What lying on your resume sounds like…"" does not discuss work-related burnout or stress related to the poster's own mental health experiences. This appears to be a general statement or title about resume dishonesty, which is unrelated to personal burnout or work-related stress experiences. It does not meet the criteria for classification as ""1"" since it doesn't involve the poster discussing their own past or present burnout/stress related to their mental health in",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+45,"Psychological resilience training applications for cybersec roles?
+Is anyone familiar with MRT or other resilience training methods and using it to cope with the stress that comes with cybersecurity jobs? 
+
+If so how applicable and effective would you say it is? 
+
+If it's not effective or applicable, know why? 
+
+I'm looking for effective methods for helping cybersec peeps to avoid burnout.","0
+
+The input discusses hypothetical or general situations about resilience training methods to help cybersecurity professionals avoid burnout, rather than the poster discussing their own personal experience with work-related burnout or stress. The poster is asking about training applications for others (""cybersec peeps"") and seeking information about methods to help prevent burnout in general, not describing their own past or present burnout/stress experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+46,"Which areas of our industry have a balance between work and health? Or at least those that come closest.
+For example, we know very well how unhealthy working in a SOC can be, as it disrupts sleep cycles. I think you get my point.","0
+
+The input is asking a general question about which areas of the cybersecurity industry have better work-life balance, rather than discussing the poster's own personal experience with work-related burnout or stress. The poster is seeking information about hypothetical work situations and industry areas, not describing their current or past burnout/stress experiences. This falls under the category of hypothetical situations that should not be labeled as 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+47,"Need a solid Project Sugg.
+With all these YouTube videos I’m getting option fatigue. I’m about to finish up with my WGU degree and feel like the labs they give you are cool but put in the real world I don’t think they translate much. I still feel as much as a newbie as I did when I started school Aug 2022. 
+
+And youtube has so many fluff tutorials that it’s hard to finish one that’ll really help gain that hands on experience 
+
+Suggestions?","0
+
+The input discusses a student seeking project suggestions to gain hands-on experience after finishing their WGU degree. While they mention feeling like a ""newbie"" and experiencing ""option fatigue,"" this is not describing work-related burnout or stress from their own professional experience. Instead, this appears to be academic/learning-related concerns about translating coursework to real-world applications. The poster is asking for educational project recommendations rather than discussing burnout or stress from their current",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+48,"Have you read Slow Productivity by Cal Newport? Do you think it is applicable to many of us here?
+As a security practitioner, we have to deal with the fast pace tickets and alerts. We don't spend time dwelling because of work overload.
+
+Here is an AI summary of the book:
+
+Cal Newport's ""Slow Productivity"" offers a new philosophy for achieving meaningful work without burnout, based on three key principles:
+
+1. Do fewer things: Newport advocates for reducing commitments and obligations to focus on what truly matters. This approach allows for better results by enabling workers to concentrate on high-value tasks rather than simply being busy.
+2. Work at a natural pace: Instead of constant urgency, Newport suggests giving important work the time it needs. This principle recognizes that humans are not wired for unceasing intensity, and that a more varied, natural pace leads to sustainable productivity in the long term. Strategies include making longer-term plans, doubling project timeline estimates, and introducing ""seasonality"" into work schedules.
+3. Obsess over quality: Newport emphasizes the importance of producing high-quality work, even if it means missing short-term opportunities. This focus on quality both demands and enables a slower pace, leading to more meaningful career results over time.
+
+The book argues that the modern approach to knowledge work, which often emphasizes constant activity and urgency, is unsustainable and ineffective. Instead, Newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes.""Slow Productivity"" challenges the culture of overwork and constant hustle, offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. By implementing these principles, Newport suggests that individuals can achieve better results, experience greater satisfaction in their work, and avoid burnout.","0
+
+The input discusses a book about productivity and work philosophy in general terms, asking whether it's applicable to security practitioners. While the poster mentions that ""we have to deal with the fast pace tickets and alerts"" and ""work overload,"" they are not discussing their own personal experience with work-related burnout or stress. Instead, they are asking a hypothetical question about whether a productivity book's concepts might be relevant to the cybersecurity field in general. This falls under the category",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+49,"Are you affected by the Crowdstrike BSOD error?
+https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960
+
+How has it been coping with the outage? Looking for some advice.","0
+
+The input is asking about how others are coping with the Crowdstrike BSOD error/outage and seeking advice about the technical incident. While this could potentially cause work-related stress, the poster is not discussing their own personal experience with burnout or work-related stress. They are asking a general question about how others are handling a specific technical outage and looking for advice on dealing with the incident itself, not expressing their own mental health concerns or burn",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+50,"What does ""a day in the life of"" looks like in your cybersecurity job??
+I was wondering what a regular day's work in cybersecurity looks like on a day-to-day basis around the world. Whether it be GRC role, cybersecurity engineering, cybersecurity architecture, etc... Are you happy with what you get to do? Any non-cybersecurity related tasks you had to take onto apart from the ones from your role?","0
+
+This input is asking for general information about what daily work looks like in various cybersecurity roles. The poster is not discussing their own work-related burnout or stress experiences, but rather seeking information about typical job responsibilities and satisfaction levels from others. This is an informational/exploratory question rather than a discussion of personal burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+51,"Are there any cybersecurity Jobs where you dont sit on your ass all day ?
+The title says it all haha.","0
+
+The input is asking a general question about cybersecurity job types and physical activity requirements. The poster is not discussing their own work-related burnout or stress experiences, either past or present. This appears to be a hypothetical/informational inquiry about job characteristics rather than a personal account of burnout or work-related mental health issues.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+52,"Work life balance?
+Hows the work life balance in the cyber space? 
+I’ve been pursuing a job as a SOC analyst and this means I will be doing shift work, tied to a desk working alarms under some SLA. My current job gives me the freedom to come and go as I like please from the office. As long as my work is taken care of. But is not my passion or calling. Once a person gets out of the grind from the SOC, do they have more life work balance?  Between work, and constant learning to keep up with the industry. I wonder if there is time to enjoy the fruits of your labor.","0
+
+The poster is asking hypothetical questions about work-life balance in cybersecurity and SOC analyst roles. They are discussing potential future scenarios (""I've been pursuing a job as a SOC analyst"", ""I wonder if there is time"") rather than describing their own current or past experience with work-related burnout or stress. This falls under the category of hypothetical situations that should not be labeled as 1 according to the guidelines.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+53,"Am I in continuous burnout or not suited for the corporate industry?
+I'm a 25-year-old with (only) 4 years of experience in the cyber industry, and I'm tired.
+I started from SOC, then moving to pentesting, and now I'm an ""advisor"", which basically means doing everything from alerts to software security.
+
+I've been job-hopping every 8-12 months, and I'm tired of managing tickets and random projects that make me sick of what I'm doing. I don't even know what to say when someone asks me ""What's your job like?”. I get that it's the usual day to day in IT, however I insist on it because my mental health is a roller coaster at every job, and it ends up where I waste a lot of time and energy.
+
+But when I'm working on OSINT projects during my free time, it's a completely different story. I'm an absolute OSINT and CTI geek, and I'm passionate about uncovering hidden information and piecing together complex puzzles, it’s a day and night situation.
+
+I've been searching for months for an OSINT position here (Canada), and to be honest, it's been years since I started looking, and I've come up empty-handed. I'm starting to wonder if I'll ever be able to turn my passion into a career, or if I'll be stuck in a job that doesn't fulfill me.
+
+And that question is starting to exhaust me.
+
+So do I really have to go through this long phase of boredom before I can find a job that I'm passionate about, or should I explore new horizons?","1
+
+The poster is discussing their own current and ongoing work-related burnout and stress in cybersecurity. They explicitly state they are ""tired,"" describe their mental health as ""a roller coaster at every job,"" mention job-hopping every 8-12 months due to being ""sick of what I'm doing,"" and describe feeling exhausted by their current work situation. This is clearly about their personal experience with work-related burnout in the cybersecurity field,",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+54,Return Oriented Programming Buffer Overflow exploitation Part 1 - In Lab Exercise,"0
+
+The input is about a technical topic (Return Oriented Programming Buffer Overflow exploitation) and appears to be describing a lab exercise or educational content. There is no discussion of work-related burnout, stress, or mental health issues related to the poster's own professional experience. This is purely technical/educational content without any personal burnout or stress context.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+55,"Tech Job Interviews Are Out of Control | WIRED
+Sounds familiar?","0
+
+The input is just a title/link to a WIRED article about tech job interviews being ""out of control"" with a brief comment ""Sounds familiar?"" There is no discussion of the poster's own work-related burnout or stress experiences, either past or present. This appears to be sharing an article for general discussion rather than discussing personal burnout/stress related to their own mental health in cybersecurity work.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+56,"Top 10 Most Tedious Tasks in Cybersecurity
+Spending time on manual and tedious work is the most frustrating aspect of a cybersecurity job. Understanding these tedious tasks can help organizations increase employee retention and job satisfaction by automating or reallocating these tasks. 
+
+What are your most tedious and boring ones? Audit Process, Writing Policies, Log analysis, Meetings, Vulnerability results consolidation? etc. 
+
+Please click on the survey link below:
+
+[Top 10 Most Tedious Tasks in Cybersecurity](https://www.cyvidia.ai/post/10-most-tedious-tasks-in-cybersecurity)
+
+&#x200B;","0
+
+The input is discussing tedious tasks in cybersecurity in a general, hypothetical context rather than the poster discussing their own personal experience with work-related burnout or stress. The poster is conducting a survey about what tasks others find tedious, but is not sharing their own past or present experience with burnout or work-related stress. This falls under the category of hypothetical situations that should not be labeled as 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+57,What was the most concerning security event at your job that gave you an “Oh shit…” moment?,"0
+
+This input is asking others to share hypothetical or past security events that were concerning, but it's not discussing the poster's own work-related burnout or stress. The poster is soliciting stories from others about security incidents, which falls under the category of not discussing their own burnout/stress experience in the past or present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+58,Surviving the Trenches of Cyber Hiring: Tales of Triumph and Trial,"0
+
+The input appears to be just a title about cyber hiring experiences in general, without any specific discussion of the poster's own work-related burnout or stress. It seems to be introducing a topic about hiring challenges in cybersecurity rather than describing personal experiences with burnout or work-related stress. Since there's no indication that the poster is discussing their own mental health or burnout experiences, this should be classified as 0.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+59,"Employee Skills Assessment
+I’m looking to do a structured skills assessment and gap analysis for my teams. A few years back I came across one that appeared to have come from NIST but I cannot seem to google find it. It may have been something homegrown or altered. Anyone know of any spreadsheets or docs that would be a good starting point?","0
+
+The input is about seeking resources for conducting employee skills assessments and gap analysis for teams. The poster is asking for help finding assessment tools or documents, specifically mentioning they're looking for spreadsheets or starting point materials. This is a work-related inquiry about management tools and processes, but it does not discuss the poster's own experience with work-related burnout or stress. There is no mention of mental health, burnout, stress, or any negative emotional states related to",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+60,"Regarding burnout: Understanding WHY is paramount
+(Posting by request.)  
+  
+Burnout and Impostor Syndrome will happen several times in a security career. While many ask about *how* to overcome it, the real question is *why* *does this happen?*
+
+IMO, the main reason is we have very demotivational work in a misunderstood field. Our field is powered by negativity, justified with skepticism, and influenced by those who don't work with us on a daily basis.
+
+We stop bad things from happening. An exciting day at work usually involves a crime, e.g., the organization we've been tasked with defending was attacked. A good day usually means our designs worked, but nobody noticed because they were able to do their jobs.
+
+Breaches are happening everywhere and nobody seems to get punished effectively for it. In fact, *some get jobs* - by the very government asking us to defend better - *because of it*.
+
+Tech is evolving faster than any other field, innovative companies are trying to adopt it a few months after initial release, and we need to be at least 3 months ahead of it, which means researching beta releases and conceiving the guardrails for something that may not even be a thing.
+
+On a personal relations level, we're not a fun group to work with. People don't like dealing with password changes, MFA, firewall rules that block them from uploading files to customers, mandatory email encryption, etc. because we get in their way.
+
+Audits ain't fun: It's not what you did, it's what you can prove you did. You have to back up every claim with documentation, logs, etc., that you typically don't think about unless you've failed an audit before. The auditors rarely know the ins and outs of how much effort it takes to meet compliance (regardless of what some will say, it is not easy) and they've got the ear of the BoD.
+
+Finally, there's the cost. Breaches are expensive, so we're expensive. It's not difficult to see why the CFO scrutinizes our expenses when there's not any revenue coming in from the cyber folks. As messed up as it sounds in this forum, it makes financial sense to weigh ""how much would the ransom cost?"" vs. ""how much do these 4 technologies to mitigate ransomware risk cost?""
+
+When we get out of our rhythm and look at our own situation it's easy to stare off and ask ""why do I bother doing this?"" ...and **that's** when the burnout starts.
+
+**So how do we counteract the above? By remembering the reason we wanted to do this in the first place. FIND YOUR WHY** (supporting your family? being on the edge of tech? protecting people?)**, print it, and use it for motivation.**
+
+And, for the love of all things holy, have a sense of humor about it. Laugh or you'll cry.
+
+The Simpsons did exactly that in ""[And Maggie Makes Three](https://en.wikipedia.org/wiki/And_Maggie_Makes_Three).""","0
+
+This input discusses burnout in cybersecurity in a general, analytical way rather than the poster discussing their own personal experience with work-related burnout or stress. The poster is providing advice and theoretical understanding about why burnout happens in the field, but they are not describing their own past or present experience with burnout. This is more of an educational/advisory post about the phenomenon of burnout rather than a personal account of experiencing it.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+61,"Is SOC manager a stressful job?
+I've seen some having drinking issue, family (divorce) issue...","0
+
+The input is asking a general question about whether SOC manager positions are stressful jobs and mentions observing others having issues, but the poster is not discussing their own personal experience with work-related burnout or stress. This appears to be a hypothetical/general inquiry rather than the poster sharing their own past or present burnout/stress experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+62,"Future in cybersecurity
+I am thinking about majoring in Computer Security but I have a few doubts.  
+1. How is job security? Do I have to worry about mass layoffs or anything like that?  
+2.  How stressful is it? Do I have long work hours or overtime to worry about?  
+3. Is the workload manageable? Will I be overworked?","0
+
+The input discusses hypothetical future concerns about stress, workload, and work conditions in cybersecurity, but the poster is not discussing their own current or past experience with work-related burnout/stress. They are asking about potential future scenarios as someone considering entering the field, which falls under the ""hypothetical situations"" that should NOT be labeled as 1 according to the instructions.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+63,What is this,"0
+
+The input ""What is this"" does not contain any discussion of work-related burnout or stress. It's a simple, brief question that lacks any context related to the poster's own mental health, work experiences, career concerns, or professional life in cybersecurity. There is no mention of burnout, stress, or any work-related issues whatsoever.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+64,"Mental Health Disorders in the Workplace
+Fellow Cyberspace Cadets and Guardians of the Grid!
+
+I seek your counsel on a matter that extends beyond our usual discussions of firewalls and encryption. In our high-stakes world of cybersecurity, how do mental health disorders affect our professional lives?
+
+Mental health issues can impact anyone, regardless of their profession. Do any of you struggle with mental health challenges such as anxiety, depression, or other disorders? Have you worked with colleagues who face these issues? I'm curious about how open people are about these struggles. Do you discuss them with your team, or do you prefer to keep them private?
+
+For those who are open about their mental health, do you inform your HR department about your condition? Has there been a time when you had to disclose this information to HR, perhaps because you needed to be admitted to a psychiatric hospital? If so, how did HR handle it? Did you feel supported or stigmatized?
+
+In professions like the police or military, there's often a strong stigma attached to mental health issues. Officers might fear that admitting to a mental health problem could jeopardize their career. Do you think our field of cybersecurity has a similar stigma? How would you feel if a coworker on your team was struggling with mental health issues? Would you be comfortable knowing a team member might have periods of instability, or would it make you uneasy?
+
+Beyond common conditions like anxiety and depression, what about more serious conditions like Borderline Personality Disorder (BPD), schizophrenia, or bipolar disorder? If a colleague disclosed they had one of these conditions, how would it affect your perception of their ability to perform in our high-pressure environment?
+
+For instance, imagine a scenario where a team member with bipolar disorder has mood swings that sometimes affect their ability to focus during critical security incidents. How would your team handle this? Would you support them, or would there be concerns about their ability to perform under pressure?
+
+Or consider a situation where someone had to take time off for treatment related to schizophrenia. Would your team be understanding and accommodating, or would there be whispers and doubts about their reliability?
+
+For those working as civilians for the Department of Defense (DoD), the situation can be even more complex. Civilians in DoD cybersecurity roles must pass a security clearance background check since these positions require handling information pertinent to national security. Many of us in these roles have served prior to becoming civilian employees, and if you've deployed or been around others who have, chances are you know someone with an acquired mental disorder, such as PTSD. PTSD can at times present symptoms not too different from BPD.
+
+Does collecting VA benefits for PTSD disqualify you from these roles? Does having any mental health disorder disqualify you, or do you or others you know successfully manage their conditions while performing these critical duties?
+
+Your insights and experiences would be incredibly valuable. How do we as a community balance the need for mental health support with the demands of our high-pressure jobs? Do you think there are ways to improve how our field handles these issues?
+
+Thank you in advance for your candid thoughts and shared experiences.","0
+
+This input discusses mental health disorders in hypothetical and general terms rather than the poster's own personal experience with work-related burnout or stress. The poster is asking theoretical questions about how mental health issues might affect cybersecurity professionals and seeking others' perspectives on various scenarios. They use phrases like ""imagine a scenario,"" ""consider a situation,"" and ask general questions about how teams ""would"" handle certain situations. The post is exploratory and academic in nature, seeking counsel and insights",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+65,"This job market is weird
+I’ve worked in cybersecurity basically my whole life. I’ve never really even had to try for a job they always found me. I got laid off in April and I feel like I’m radioactive. 
+
+Even at companies where I have inside referrals I can’t even get a call back. Anyone else find off this too? Is this just a slump because of the mass layoffs that will right itself in a year anyone else seeing this. 
+
+Fwiw 20+’years experience at FAANG companies .","1
+
+The poster is discussing their current experience of being laid off and struggling to find new employment in cybersecurity, which is causing them distress. They describe feeling ""radioactive"" in the job market and express concern about their situation. This represents work-related stress related to their own mental health and professional circumstances in the present, specifically regarding unemployment and job search difficulties in their cybersecurity career.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+66,"Week in Brief #47: Palo Alto Zero-Day Exploited, AI-Powered Malware, CISO Burnout, and the Value of Mentorship","0
+
+This appears to be a title or headline for a news brief/summary that mentions ""CISO Burnout"" as one of several topics being covered. The poster is not discussing their own personal experience with work-related burnout or stress, but rather referencing burnout as a general topic that will be covered in their news brief. This falls under the category of discussing burnout in a context unrelated to the poster's own mental health experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+67,Roast My resume,"0
+
+The input ""Roast My resume"" is simply asking for feedback on a resume. There is no discussion of work-related burnout, stress, or mental health issues. This appears to be a request for resume review/critique, which is unrelated to burnout or stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+68,Which roles are the best for work-life balance ?,"0
+
+The input is asking a general question about which roles provide the best work-life balance. This is a hypothetical inquiry seeking information about different positions, rather than the poster discussing their own current or past experience with work-related burnout or stress. According to the definition, hypothetical situations and general inquiries should be classified as 0.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+69,"What's the point of this career if you're so stressed?
+jw, I'm about to graduate soon and it's between this and general software dev","0
+
+This input discusses hypothetical future stress and is asking about a career decision before entering the field (""I'm about to graduate soon""). The poster is not discussing their own current or past experience with work-related burnout/stress in cybersecurity, but rather asking a general question about stress in the career as they consider their options. This falls under the category of hypothetical situations that should not be labeled as 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+70,"What do I even do now that my cloud environment is sufficiently locked down?
+I work in a cloud native environment on an internal security team. Ive been here for a few years, so Ive had a lot of time with the team to get things right. Now, nothing happens. Outside of rare project based work, nothing happens. Cloud environments because of their config profile deployments have made the place pretty air gapped. The only thing that happens now is people visit naughty websites. I sit there all day bored out of my mind. I wonder if Im just not being creative enough?
+
+We even recently had our environment assessed by a third party and penetration tested. Its all greens. 
+
+Do I just move on now? Being bored at work is horrible","1
+
+The poster is discussing their current work situation where they feel bored and unfulfilled in their cybersecurity role. They describe sitting ""all day bored out of my mind"" and state that ""being bored at work is horrible."" This represents work-related stress/burnout as they are expressing dissatisfaction with their current professional circumstances and questioning whether to ""move on."" The boredom and lack of engagement they describe is a form of work-related mental health",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+71,"I have created the world's greatest puzzle. . . and it's all yours for the taking AMA
+Some of you out there know, and some don't
+
+Hi I am Ronald Ratliff, and as of Now I have one of the most anticipated books in America getting ready to come out, not only that.
+
+**But I am also running a contest to fill a seat that happens to come with, 111 Bitcoins to whomever can get the answer out of said book starting on January 3rd, 2025 and will be running until January 3rd, 2032, 3pm Arizona Time.**
+
+There is a group of people out there that will announce the Winner on X , myself included if and when they find it before then.
+
+I have also presented this challenge to Barron Trump, as a Son of an amazing man myself I love puzzles and I am sure he will too. I would be incredibly amazed if he could figure it out before you all lot. Because Not even I have the answer ;) It's Hidden within. 
+
+So, scallywags you have time to prepare. I am confident once my book releases its probably going to get leaked everywhere anyways. . . . so good luck.
+
+: Here's all ya get about the contest:
+
+:
+
+My book is meant to attract attention, to someone who never wanted it. So If I get to introduce myself to the world and present the world with the greatest puzzle ever created. I would be willy wonka of the darkweb.  
+Sounds like a fitting title
+
+All you need to play is this : You will need a highlighter , or highlighting tool for the ebook. a lot of prerequisite technical understanding, and most likely a mental illness just like the rest of us. You are not Alone.
+
+You have until January 3rd, 2025 to prepare for the start of the event.
+
+The event will conclude via My or another member of the Arizona Alliance if and when the time is right.
+
+No your not getting hints. godspeed and good luck
+
+:
+
+I am the god dam willy Wonka of the web and I can't wait to see who claims this among many other treasures whilst telling an amazing story about my life and raising money for a good cause.
+
+I cant wait to see what tomorrow holds, Ask me anything.  
+[Ron Ratliff III on X: ""My heart is overwhelmed with joy I cannot find the words to express yet. @joerogan @joeroganhq Having exclusive rights to the worlds best puzzle will entertain me for a lifetime. I hope you enjoyed my Manuscript. Thank you all for your support I will NOT let you down. https://t.co/5i4Ihy0Sqk"" / X](https://x.com/Rourobourous/status/1856747335604183466)","0
+
+This input does not discuss work-related burnout or stress. The poster is promoting a puzzle contest and book release, describing themselves as excited and joyful about their project. There is no mention of burnout, work-related stress, or mental health issues related to their professional cybersecurity experience. The reference to ""mental illness"" is made in a general, hypothetical context about puzzle solvers, not about the poster's own work-related mental health experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+72,Google: Stop Burning Counterterrorism Operations,"0
+
+The input ""Google: Stop Burning Counterterrorism Operations"" appears to be a headline or title about Google and counterterrorism operations. The word ""burning"" here is used in a context unrelated to work-related burnout or mental health stress. This is not a personal discussion by the poster about their own experience with work-related burnout or stress in cybersecurity. Instead, it appears to be referencing some kind of operational or policy issue involving",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+73,"Cybersecurity Sector and changing cannabis stigmas?
+Afternoon everyone,
+
+So I currently use cannabis not because it's “cool” , “fun” , or “rad” but for actual medical reasons vs taking a combined 10 medications as a injured veteran. I am using as a means to an end as I know the field isn't exactly open to its use even if legal for state use and even if it was hypothetically accepted federally or lowered as planned. 
+
+So my question is what is the current climate or policy structure that you have witnessed over the last year or so? As previously stated I worked federally so I already know its going to be a minimum year full stop for any positions with public trust, clearances, or contracts with the government / healthcare.","0
+
+The input discusses cannabis use and its potential impact on cybersecurity career opportunities, but does not describe the poster's own experience with work-related burnout or stress. While the poster mentions being an injured veteran using cannabis for medical reasons, they are asking about industry policies and climate regarding cannabis use rather than discussing burnout or work-related stress in their cybersecurity career.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+74,"Easiest GRC role?
+Which industry/role/job title within GRC has least amount of responsibilities with the least amount of stress?
+
+I heard GRC within financial institutions is never busy. I also heard government GRC positions don’t so shit but then I heard the opposite, that they’re super busy all the time so I’m not sure.
+
+Obviously I am lazy as fuck and have no passion for this stuff and I’m just looking for which role pays pretty well with very little responsibility.
+
+Any suggestions?","0
+
+The poster is asking hypothetical questions about future job opportunities and which GRC roles might have less stress, rather than discussing their own current or past experience with work-related burnout or stress. They are seeking information about potential roles they might pursue, not describing their own mental health experiences related to burnout or work stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+75,"First day!
+Guys, I started working at the cybersecurity firm Crowdstrike. Today is my first day. Four hours ago, I pushed major code to production. I am so proud of myself!","0
+
+The input describes someone's first day at work and their pride in pushing code to production. There is no mention of burnout, stress, or any negative mental health impacts related to work. The poster is expressing positive emotions about their accomplishment rather than discussing work-related burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+76,Online AI Mental Health and Addiction Treatment Provider Exposed Patient Data,"0
+
+This input is about a data breach or security incident involving an AI mental health provider exposing patient data. The poster is not discussing their own work-related burnout or stress - they are simply reporting on a cybersecurity incident/news story. This falls under the category of ""No work-related burnout/stress"" as it does not involve the poster discussing their own mental health experiences related to work.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+77,"Seeking Guidance on Transitioning from SOC to Threat Intelligence
+Hi everyone,
+
+I’ve been working as a SOC analyst for the past 4 years and recently joined a Big 4 firm about 3 months ago as an L2 analyst, supporting a large client. While it’s been exciting in some ways, I’m really struggling to adapt here.
+
+Most of my teammates are already familiar with the tools and processes since they’ve been part of this project for a while. I, on the other hand, feel like I’m constantly playing catch-up. I haven’t been given access to all the tools yet, and just when I start to get a grip on something, there’s a new tool or process thrown into the mix. It’s overwhelming, and no matter how much I try, I feel like I’m not learning or contributing as much as I should be.
+
+In my previous role with an MSS project, my tasks were mostly ticket-based, and the client-side team handled the resolution. I wasn’t directly working for a single client or communicating with end users, which, I realize now, has made the learning curve here even steeper.
+
+On top of it, the rotational 24/7 shifts have been tough to handle. My previous job had fixed early morning shifts, which worked well for me, but this setup is really starting to take a toll. I honestly feel so overwhelmed at times that I’m considering quitting, even though this company was once my dream place to work and the pay is great.
+
+That said, I’ve been thinking about moving away from SOC altogether and transitioning into roles like Threat Intelligence or Threat Hunting. I feel like these fields align better with my skills and interests, but I’m not sure how to start or what the roadmap looks like. Also, most cybersecurity job postings I see on LinkedIn seem to require 24/7 availability, and I wonder if that’s just the reality of the industry or if there are better options out there.
+
+If anyone here has moved from SOC into Threat Intel or similar roles, I’d love to hear how you did it. Any advice, guidance, or even sharing your own experience would really help me right now.","1
+
+The poster is discussing their own current work-related stress and burnout. They explicitly state they are ""struggling to adapt,"" feel ""overwhelmed,"" mention that the work is ""taking a toll,"" and even say they are ""considering quitting"" due to feeling ""so overwhelmed."" They describe feeling like they're not contributing enough, having difficulty with the learning curve, and struggling with the 24/7 shift schedule. This clearly represents work-related burnout/stress",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+78,"Would 70 hours be enough to prepare for a FAANG interview for a security engineer position?
+Please let me know if it isn't okay for me to post this here! None of my friends are in the same field so I'm resorting to posting about it. Basically, I have an upcoming FAANG interview next week and I'm nervous about it. I want to know study everything. I actually had the past 4-5 days off and I wanted to put in 30-40 hours of work but that didn't pan out. By the end of today, during the course of 5 days, I would have put maybe around 25 hours into studying, which is basically nothing. I wanted to do 10 hour days. One of the days, I actually wasted because I was anxious about something completely irrelevant and petty (which I beat up myself pretty bad over). 
+
+I have the rest of today, and several days off during the week to study (including next weekend), so I want to put in 50 hours of studying during the course of this week. In total, before the interview next week, I would like to have put 70 hours into studying. I have a list of topics I'd like to study that seemed to relate to the job posting and I'm just taking notes for it. I will also be practicing interview questions (got a bunch of questions I found from different resources online that I can pull from), and I want to go over a couple coding-related stuff as well. I'm nervous. I've had 3.5 years of full-time experience in the field (and an additional one year as an intern). I'm upset at myself that I wasted time during the past few days and I'm hoping I can play catch up this week, so I'll be able to go in completely prepared. It's a phone interview. I'd appreciate any other tips if you guys got any! I've been super stressed all week and it doesn't help that I tend to procrastinate when I'm feeling this way.","1
+
+The poster is discussing their own current work-related stress and anxiety about an upcoming FAANG interview for a security engineer position. They explicitly state ""I've been super stressed all week"" and describe being ""nervous"" and ""anxious"" about the interview preparation and process. They also mention procrastinating due to feeling stressed, which indicates they are experiencing work-related stress in the present related to their cybersecurity career advancement. This is their personal experience with stress related to",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+79,"Questionnaire for college work
+Hi if possible can you please fill in this questionnaire for my college work (IK its lazy but cba)
+
+https://docs.google.com/forms/d/1KTmamnqPrgYifUn91aVEsbq4gbM5Ncr4zhn3BdE\_ZR4","0
+
+This input is about a college student asking others to fill out a questionnaire for their academic work. There is no discussion of the poster's own work-related burnout or stress in cybersecurity. The poster is not discussing their personal experience with burnout or stress related to their professional life - they are simply requesting help with a college assignment.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+80,"Is it imposter syndrome or am I genuinely incompetent ?
+Hi.
+
+For context : 24M, computer science student. I work as a sysadmin+firewall admin, do inventory management, access management, write policies, and provide tech support. I started this as the first job out of college, kept getting more responsibilities and eventually got here.
+
+I want to be a pentester. I am working towards OSCP, on the way, I decided to make a stop and get PJPT (because I like TCM's teaching method and delivery plus, thought of it as a step between noting and OSCP). 
+
+When I watch the lectures or practice labs at THM or HTB, I get stuck in all sorts of unusual places. Sometimes I miss anonymous FTP logins, sometimes I miss UDP ports while scanning the target. Other times, I can smoothly capture the flag by exploiting cron jobs. Sometimes I mess up on simple configurations with Linux, forget commands and flags. Mess up python syntax, forget powershell commands, and the list goes on. I get angry with me and feel like starting from scratch (doing A+, Sec+ etc)
+
+I do THM mostly before bed, after a day of working full time and caring for my grandmother. Sometimes I tell myself that I am plain tired and thats it, but I feel like thats an excuse I am relying too much on. 
+
+I am applying for jr pentest roles and I am not getting any interviews, this makes me think that maybe I am not good enough. Maybe this field isnt for me. However, I dont want to give up on me, I feel like I can do this. But I also feel like I am lost. 
+
+How do I know if I am genuinely not good enough for this or I am just overly attached to my mistakes ? 
+
+I want to understand if  I am wasting my time trying to learn stuff that I am not going to be good enough to do. Should I be focusing on some other domain ?","1
+
+The poster is discussing their own current work-related stress and burnout. They describe feeling frustrated with their performance, getting ""angry with me,"" feeling lost, and questioning whether they should give up on their career goals. They mention working full time while also caring for their grandmother, which adds to their stress. The poster is experiencing self-doubt about their competence in their current role and future career aspirations in cybersecurity, which constitutes work-related burnout/stress",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+81,The outage continues,"0
+
+The input ""The outage continues"" is too brief and lacks context to indicate work-related burnout or stress. It appears to be a simple statement about a technical outage without any discussion of the poster's own mental health, burnout, or work-related stress experiences. There is no mention of how this outage is affecting the poster personally or causing them stress/burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+82,"anyone w/ mental illness (ie. bipolar disorder) pursuing or have a career in cybersecurity
+I am exploring a career change, and having doubts whether to pursue cybersecurity. I'm wondering if it is viable and reasonable for someone with a mental illness to puruse and be successful academically and professional in the field of cybersecurity.","0
+
+The input discusses hypothetical concerns about pursuing a career in cybersecurity with a mental illness, but does not describe the poster's own current or past experience with work-related burnout or stress. The poster is exploring a potential career change and expressing doubts about whether to pursue cybersecurity, which falls under hypothetical/future circumstances rather than discussing their own past or present work-related burnout/stress experience in cybersecurity.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+83,"Advice Needed - 10+ Years Experience
+Greetings fellow nerds. I've found myself in a peculiar position - I have 10+ years of IT / InfoSec experience, am currently doing GRC / Consulting work, have my CISSP, Sec+, etc. and yet I can't seem to land an interview for the life of me.
+
+My current company is pretty decent overall. Great people and culture, okay salary, ""unlimited"" PTO (that's not even real, I don't know how that term even flies anymore), and I do get to work remote. Problem is that I am either bored to tears on days with minimal work or I am working 60+ hour weeks with travel, onsite consulting, etc. and not much balance in between. It's affecting my personal happiness and relationships, I'm getting burnt out, and I don't like where this is headed. I'm starting to dread the daily mundane nature of my work that I once had such a genuine interest in. I still love parts of it, but man, it just doesn't have the flair it once did.
+
+Since the beginning of the year, I have applied to somewhere near 200 positions that are local / onsite or remote for a vast range of industries. I've been spending a lot of time prowling LinkedIn, ZipRecruiter, Indeed, InfoSec Jobs, TrueUp, USAJobs, and countless random software / startup companies that I am attracted to hoping that one day I find my next stepping stone. I've had ONE phone interview between all of this, for an underpaid position, that turned out to be a flop. They literally told me that the position no longer exists and they don't have the budget for it. I have received countless ""Thanks for applying..."" emails with zero luck and it's beginning to feel like I took a wrong turn somewhere or luck is not on my side. I understand that the economy isn't amazing and this is an extremely saturated market in mid-2024, but am I missing something? I'm at the point of picking up a local IT / SysAdmin job just to have a more exciting change of pace while the InfoSec industry figures itself out. Am I crazy? 
+
+Apologies for the long rant here, but thanks for reading. And to the newcomers in the industry - don't be scared by these posts. We'll all find our spot eventually, and I wish you luck in your endeavors.","1
+
+The poster is discussing their own current work-related burnout and stress. They explicitly state they are ""getting burnt out,"" mention that work is ""affecting my personal happiness and relationships,"" describe ""working 60+ hour weeks,"" and express that they ""don't like where this is headed"" and are ""starting to dread the daily mundane nature"" of their work. This is a clear discussion of their own present experience with work-related burnout in cybersecurity,",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+84,"How do you deal with cliques in this industry?
+Just a general question for anyone experiencing a glass ceiling at work. How did you deal with it as a newcomer to the cyber field? Any tips on how to overcome feelings of inadequacy or burnout?","1
+
+The input discusses the poster's own experience with feelings of inadequacy and burnout in their cybersecurity workplace. They are asking for advice on how to overcome these feelings, indicating they are currently experiencing work-related burnout/stress as a newcomer dealing with workplace dynamics (cliques and glass ceiling). This is about their present personal experience with burnout in their professional cybersecurity environment, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+85,"Russian hackers attack Texas water facility
+https://amp.cnn.com/cnn/2024/04/17/politics/russia-hacking-group-suspected-texas-water-cyberattack","0
+
+The input is simply a news headline and link about a cyberattack on a Texas water facility by Russian hackers. There is no discussion of work-related burnout or stress, and the poster is not discussing their own mental health experiences related to their cybersecurity work. This is just sharing news content about a cybersecurity incident.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+86,Two Out of Three Cybersecurity Professionals Are Burnt Out,"0
+
+This input appears to be a headline or title referencing a statistic about cybersecurity professionals experiencing burnout in general. It is not a personal account of the poster discussing their own work-related burnout or stress experiences in the past or present. Instead, it's presenting information about burnout rates among cybersecurity professionals as a group, which falls under the category of discussing burnout in a context unrelated to the poster's own mental health experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+87,"A Reckless Endeavor; Will I Ruin My Life? - unProfessional Student.
+I tried to use a throwaway, but was unable. Hopefully this doesn't bite me.
+
+Also, I read the FAQ and believe this is within the framework provided. (hopefully, as I really need this interaction)
+
+I am not here to be swayed away from this, nor will I be receptive to any attempt to add to the natural fear I already feel about recent and future events in my life. With that out of the way, I come here asking for any advice, tips, tools, secrets.. anything you have that will help me with what I am about to divulge below.
+
+I want to start this by saying thank you, truly.
+
+I currently have a full time job that I am dissatisfied with. I make enough money to support myself and my family, but at 31 years old, it is starting to feel truly dead-end. This feeling has been growing for some time of course, as most things do, and it is now to a crown.
+
+Around a month and some days ago, I was lying in bed, incredibly ill. I was having fever dreams between episodes of Charmed, and for some reason or another began to ruminate on a recent experience in the workplace. My company, along with thousands of others, got caught in the CDK Global ransomware event. It was chaos like I have never seen, and it fascinated me. From there, I began to think about other things that have happened in the workplace, such as vendor imposters attempting to get pay card information, smart-key cloning and vehicle theft, invoice fraud, etc.
+
+Somehow, this left me with a business idea. Before I could think further, I'm researching what business structure to use, legal interests surrounding the type of work, market research relative to the field, etc. I reached out to a few businesses I have working relationships with and I'm sitting here now with a two week trial run lined up that starts in a week. At the end of this run I will compile and present all data I have collected. If they like what they see, I will be drawing up a contract and officially serving my first client on January 1, 2025.  I have already selected my LLC name and DBA. My mission statement is cemented and I have my presentation materials nearly finalized. I have the forms to register as a foreign entity in the home state of my prospective client as well as my domestic paperwork. I'm fully in, and still reaching out to other businesses. I am stupid, but something is forcing me to keep doing this. I'm in deep, and I can't go back now. I have to keep going forward, failure be damned.
+
+The business venture is pretty straightforward. It focuses on the human side of security. Specifically social engineering and risk-management. It will operate as a monthly service, with opt-in/out programs suited for the businesses needs. Throughout the month, my business will try to collect information from the company through various means such as phishing, phone calls, fake invoices, on-site asset risks, after-hours penetration tests, etc. Through each action, data will be recorded and compiled into a report consisting of gross risk, divided by category. Phone calls, photos of risked assets like keys, tools, documents will also be included. Positive reinforcement will be provided where the business does well, and training will be offered to individual new-hires and groups of existing employees when needed or requested.
+
+So of course, with my reckless charge into starting a business in a field I have no business being a business owner in, I enrolled into school. I will be attending SNHU for a BA in Cybersecurity with a concentration in Data Analysis. I am fully aware that this is an incredibly demanding career path intellectually. I fully understand that I have no understanding. I am a blank slate. The only advantage I have for myself is that I've been playing with computers since I was a single-digit child. I have very little programming experience aside from HTML/CSS and a crappy language called Blitz+ that I used to make a b-tier Pong clone. I am fairly good at math because I don't just memorize formulas, I learn why they work, which helps me retain the ideas behind what different types of data reflect. I know that this line of work is something I am capable of doing, and feel I may enjoy.
+
+When I was in my early twenties, I had no idea what I was doing, and so I let my life stagnate. The last 10 years has been a blur, but something has stirred in me and I can't stop it. I don't have any interest in stopping it, either. I have never been this motivated nor this scared before. It is like something awoke in me. Maybe it is because I went on a diet and got healthy this year, or because I had an idea and some took me seriously. Whatever it is, I have no interest in walking away, so if you can support me in my struggle to be more than I am today, share with me what you can.
+
+  
+I will be forever grateful, more than you may realize.
+
+
+
+Thank you,
+
+  
+DA.","0
+
+The input describes someone who is dissatisfied with their current job and is starting a new cybersecurity business venture while enrolling in school. While they mention being ""dissatisfied"" with their current job, they are not discussing work-related burnout or stress related to their own mental health. Instead, the focus is on their entrepreneurial plans, business idea, and future aspirations. The dissatisfaction mentioned is more about career stagnation and lack of fulfill",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+88,Would taking the EJPT enough to get a job or being a part time bug hunter?,"0
+
+The input is asking a hypothetical question about whether taking the EJPT certification would be sufficient to get a job or work as a part-time bug hunter. This is discussing future/hypothetical career possibilities rather than the poster's own current or past experience with work-related burnout or stress. There is no mention of burnout, stress, or mental health issues related to their work experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+89,"Staying motivated to learn
+How do you all stay motivated to keep learning? I have a few certs already along with accounts on HTB and THM. Lately I just haven’t been able to find the motivation after work to learn. I feel burned out to the point that I just don’t want to deal with hard problems outside of work. How do you all stay motivated or get back into the learning mindset?","1
+
+The poster is describing their own current experience with work-related burnout that is affecting their ability to learn and engage with cybersecurity-related activities outside of work. They explicitly state ""I feel burned out to the point that I just don't want to deal with hard problems outside of work,"" which indicates they are experiencing burnout related to their work that is impacting their professional development and motivation to continue learning in their cybersecurity career.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+90,"does the grind ever stop?
+kinda feeling mentally exhausted with everything I've learned so far. everything was cool and exciting at first but now it just feels like I'm forcing myself to learn for no reason... I don't even work in the industry, I don't think I'll be able to work there anytime soon with how shitty the tech industry is right now. just feel like moving to the woods and becoming a lumberjack now, y'know?","0
+
+The poster is discussing feeling mentally exhausted from learning cybersecurity material, but they explicitly state ""I don't even work in the industry"" and ""I don't think I'll be able to work there anytime soon."" This indicates they are not currently experiencing work-related burnout or stress from actual employment in cybersecurity. Instead, they are describing study fatigue and general discouragement about future prospects in a hypothetical/aspirational context, which according to the",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+91,"How do you all stop thinking about work and start studying the important knowledge?
+Every time I want to study, I end up working on my work projects. How do you tell yourself that you should study things outside work?","1
+
+The poster is discussing their own current experience with work-related stress/burnout. They describe being unable to separate work from personal time, as they find themselves working on work projects even when they intend to study other things. This indicates an unhealthy work-life balance and mental preoccupation with work that is characteristic of work-related stress/burnout in their present situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+92,"How to Wing It Like a Pro: Tales from CyberHamm, Story 3: How to Not Blow Your Job Interview (and…","0
+
+The input appears to be just a title about job interview advice/tales, with no content discussing the poster's own work-related burnout or stress experiences. It seems to be about general advice or stories rather than the author discussing their personal mental health struggles with work-related burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+93,"What particular job in cybersecurity would you not touch with a 10ft pole?
+For clarification, this particular job would be on the bottom of your list of desired jobs by a longshot. You would be significantly stressed, depressed, and lemon zest’d if you worked this role. And of course, why?","0
+
+This input is asking a hypothetical question about what cybersecurity jobs others would avoid due to potential stress or burnout. The poster is not discussing their own past or present experience with work-related burnout or stress. Instead, they are soliciting opinions from others about hypothetical job roles that would cause stress or burnout. According to the definition, hypothetical situations should not be labeled as 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+94,"What should you do if you feel like a Brent in Phoenix project? My team is under manpower and everyone keep tossing tasks to us.
+Seems like we are the skinny dudes who need to raise extra weights","1
+
+The input describes a current work situation where the poster is experiencing being overwhelmed with tasks due to understaffing (""My team is under manpower and everyone keep tossing tasks to us""). The reference to being ""the skinny dudes who need to raise extra weights"" indicates they are feeling overburdened and stressed about their current work situation. This represents work-related stress that the poster is personally experiencing in the present, which fits the definition for classification 1.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+95,"Cyber Public Health
+I’ve been reading more about cyber public health and I’m pretty interested. It’s described as an emerging field that’s “a new take on cybersecurity that applies lessons from public health to cyber.” Does anyone know of jobs or organizations that will allow me to combine my cybersecurity and public health skills?","0
+
+The input is asking about career opportunities that combine cybersecurity and public health skills. The poster is inquiring about jobs in an emerging field called ""cyber public health"" but is not discussing any personal experience with work-related burnout or stress. This is a career exploration question rather than a discussion of their own mental health or burnout experiences in their current or past work situations.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+96,"might backfire
+https://youtu.be/S6uoq-8jOl0","0
+
+The input only contains a YouTube link with the phrase ""might backfire"" and no text content discussing work-related burnout or stress. There is no indication that the poster is discussing their own experience with burnout or work-related stress in cybersecurity. Without any substantive text content related to the classification criteria, this falls under option 0.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+97,Master Git & GitHub: From Everyday Tasks to Deep Waters [Next-gen interactive e-book],"0
+
+The input is simply a title/advertisement for an educational resource about Git & GitHub. There is no discussion of work-related burnout, stress, or mental health issues. The poster is not sharing their own experience with burnout or stress in cybersecurity or any other professional context.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+98,"What questions to ask at the end of interview for Junior SOC Analyst Round 2
+Follow up to my last post, I have a few questions drafted up but I want to show that I am eager to know more and to learn more if I get the role. Ill paste my drafted questions below, let me know what you think!
+
+What is the compensation for the Job? (I know the range on the listing but want to know more specifics)
+
+Do you anticipate log fatigue from analysts and how do you deal with it?
+
+Is there anything internally that is done to keep analysts up to date on current trends?
+
+What are the next steps in the interview process?","0
+
+The input discusses hypothetical questions for a job interview, not the poster's own experience with work-related burnout or stress. The poster is asking about potential future situations (like log fatigue) in a hypothetical context as interview preparation, rather than discussing their current or past experience with burnout/stress in their professional life.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+99,Passed at 175 on the first attempt!Check out this video I made: Tips for Mastering the exam on your first attempt 📖🧠,"0
+
+The input is about passing an exam and sharing study tips. There is no discussion of work-related burnout, stress, or mental health issues. The poster is celebrating a success and offering advice about exam preparation, which does not fall under the category of work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+100,"What Do You Like and Dislike About Your Job in Cybersecurity? Here’s My Experience as a Developer
+Hi everyone! This post is for you to share what you love and what you don’t about working in cybersecurity. I’ll start by giving you my perspective from the world of software development.
+
+I’ve been working as a software developer for 3 years now, and after going through a tough consultancy job, I’m now at a good company where the work is pretty chill, and the salaries are decent. However, despite these advantages, I’m starting to feel increasingly bored. What frustrates me the most is the feeling that projects never end. No matter what I accomplish in a day, there’s always something left to do, and the next day, I have to pick up right where I left off. This creates a sense of “dread” because I know I’ll be facing the same issue tomorrow, and when I solve it, the cycle repeats. There’s never a day where I feel mentally clear and satisfied because everything’s wrapped up. That lack of closure makes the days feel endless.
+
+On the flip side, there are good things too. The satisfaction of completing a project when everything goes well is an emotional high. But over time, even that doesn’t seem like enough for me anymore.
+
+I’d love to hear about your experiences in cybersecurity. What are your days like? Do you feel the same monotony, or is it different? Cybersecurity has always intrigued me, and I’m seriously considering making the switch.
+
+What’s your take on it?","0
+
+The poster is a software developer discussing their own work experience and feelings about their current job, but they are not working in cybersecurity. They are asking others about their experiences in cybersecurity because they are considering a career switch. The burnout/stress described is related to software development work, not cybersecurity work. Additionally, this is more of a hypothetical inquiry about cybersecurity rather than the poster discussing their own past or present experience with work-related burnout",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+101,"I have a hard time saying what’s in my head…
+I feel that I have so much knowledge in my head but I have a hard time expressing or explaining what’s in there if that makes sense. I study and have passed several exams and got many certifications and I know the content. But if someone came up to me and asked me something I would struggle to tell them what’s that something is. Anyone else struggle with this??","0
+
+The input describes a communication or articulation challenge where the person has difficulty expressing their knowledge verbally, despite having studied extensively and passed certifications. This is about a cognitive/communication skill issue rather than work-related burnout or stress. The poster is not discussing mental health impacts from work stress, burnout symptoms, or workplace-related emotional exhaustion. They are describing a specific difficulty with verbal expression of their technical knowledge.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+102,"Hi guys, great to be here, i feel like home over here.much love🖤","0
+
+The input is a simple greeting/welcome message expressing positive feelings about joining the community. There is no discussion of work-related burnout, stress, or any mental health issues related to the poster's professional cybersecurity experience. This falls under the category of ""No work-related burnout/stress"" as it doesn't contain any content related to burnout or stress in either work or non-work contexts.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+103,"Tips and Takeaways, passing ISC2 CCSP Exam in 2024!","0
+
+The input is about passing an ISC2 CCSP exam and sharing tips/takeaways about the certification process. This is focused on professional development and certification achievement rather than discussing work-related burnout or stress. There is no mention of the poster's own mental health, burnout, or work-related stress experiences in the past or present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+104,Professionals of reddit how do you keep up with new tech and refresh your old knowledge.,"0
+
+The input is asking a general question about how professionals keep up with technology and refresh knowledge. There is no discussion of work-related burnout or stress, either from the poster's own experience or in any other context. This is simply a question seeking advice about professional development and staying current with technology.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+105,"Dilemma: Is now a good time to change jobs?
+Evening all, 
+
+Currently working for a good company in financial services. Good pay, people, manager; however the culture has gone massively down hill, no progression whatsoever, the demands are sky high causing extreme context switching and stress - to a point that I ended up in hospital recently and its highly likely related to work related stress; so when I was sitting there in the hospital ward, I decided I must move on.
+
+Got offered a role today by a bigger company, pay is slightly less but I am negotiating to get at least the same; clear challenges with less areas to focus on so I'm hoping that equates to less stress and context switching, although slightly more travel.
+
+I've been with my current employer for nearly 10 years, so I am a little anxious about moving on. I will lose my RSUs, but that's fine, I just can't handle the extreme context switching - I feel like Im not delivering quality as I don't have the time to focus properly, and that is becoming a vicious circle.
+
+I'd like to hear from the good people of reddit, whether now is a good time to switch jobs in Cyber, and what you think of my situation, any thoughts, or questions are welcome, thank you","1
+
+The poster is discussing their own current work-related stress that has become so severe it led to hospitalization. They explicitly mention ""extreme context switching and stress"" and ""work related stress"" as ongoing issues in their present situation. This is a clear case of the poster discussing their own work-related burnout/stress in the present, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+106,"Volunteer opportunities for mental health in the security industry
+I’m interested in volunteering with a US-based nonprofit working to address mental health specifically in the security industry. 
+
+Any recommendations?","0
+
+The input is asking for recommendations about volunteer opportunities related to mental health in the security industry. The poster is not discussing their own work-related burnout or stress experiences, but rather seeking information about how to volunteer to help others with mental health issues in the field. This falls under the category of not discussing their own burnout/stress experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+107,Best Buy Geek Squad Agents ‘Going Sleeper’ After Mass Layoffs,"0
+
+This input is discussing layoffs at Best Buy Geek Squad, which is not related to cybersecurity professionals experiencing work-related burnout or stress. The text appears to be a news headline about layoffs affecting Geek Squad agents, but it does not involve the poster discussing their own personal experience with work-related burnout or stress in cybersecurity. It's about a general situation at a retail technology support service, not the poster's own mental health or burn",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+108,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out","1
+
+The poster is directly stating their personal experience of being burnt out from working at a SOC (Security Operations Center) for almost a year. This clearly falls under work-related burnout/stress as they are discussing their own current mental health situation related to their cybersecurity job.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+109,I've started thinking about suicide because of a page Facebook that has been defaming me and posting my pictures for the past two consecutive years,"0
+
+The input describes personal distress and mental health struggles related to cyberbullying/defamation on social media, but does not discuss work-related burnout or stress in a cybersecurity professional context. The situation described is about being a victim of online harassment rather than experiencing workplace burnout or job-related stress in the cybersecurity field.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+110,"How do you keep yourself updated and unskilled?
+How do you all keep yourself constantly updated and tbh also keep upskilling yourself? 
+
+I know it depends on what field of cybersecurity one is in, but how do you do it? Is it exhausting to continuously read about new threats/ new bugs/ new breaches/ regulations and also upskill yourself according to it? 
+
+Looking for some tips and insights (newbie here)","0
+
+The input is asking for general advice and tips about staying updated and upskilling in cybersecurity. The poster is asking hypothetical questions about whether continuous learning might be ""exhausting"" but is not discussing their own current or past experience with work-related burnout or stress. They identify as a ""newbie"" seeking insights, rather than someone experiencing burnout themselves. This falls under hypothetical situations and general advice-seeking rather than personal experience with work-related burnout",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+111,"Storytime...
+What has the biggest Fvckup/Outage you have been involved with in a work situation and why was it avoidable?","0
+
+The input is asking for hypothetical stories about work situations from others, not discussing the poster's own work-related burnout or stress. The poster is soliciting stories from the community about outages and mistakes, which falls under hypothetical/general discussion rather than the poster discussing their own mental health experiences with work-related burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+112,"Need experienced opinions on how cybersecurity stressors are unique from other information technology job stressors.
+I am seeking to bring in my academic background of psychology and neuroscience into cybersecurity (where i am actually working - don't know why). 
+
+In planning a research study, I would like to get real lived-experience comments on what do you think the demands that cause stress are unique to cybersecurity compared to other information technology jobs? More importantly, how do the roles differ. So, please let me know your roles as well if okay.  You can choose between 1) analyst and 2) administrator to keep it simple. 
+
+  
+One of the things I thought is false positives (please do let me know your thoughts on this specific article as well). [https://medium.com/@sateeshnutulapati/psychological-stress-of-flagging-false-positives-in-the-cybersecurity-space-factors-for-the-a7ded27a36c2](https://medium.com/@sateeshnutulapati/psychological-stress-of-flagging-false-positives-in-the-cybersecurity-space-factors-for-the-a7ded27a36c2)
+
+Using any comments received, I am planning to collaborate with others in neuroscience to conduct a quantitative study.
+
+  
+Appreciate your lived experience!","0
+
+This input is asking for opinions and experiences from others for research purposes, but the poster is not discussing their own work-related burnout or stress. They are seeking information from others to conduct a study about cybersecurity stressors in general, which falls under the category of hypothetical/research situations rather than the poster's own past or present experience with work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+113,"I need you guys to yell at me, scare me...
+Tomorrow is my graded project, Friday is my hundred question test. I'm freaking out. Tell me I need to do this. Yell at me, focus me. I require negative reenforcement. I'm a 20 year cyber vet and for whatever reason, this one scares me.","0
+
+The input describes test/exam anxiety and fear about academic performance in what appears to be an educational setting. The poster is asking for motivation regarding a ""graded project"" and ""hundred question test,"" which are academic assessments, not work-related burnout or stress. While the person mentions being a ""20 year cyber vet,"" the stress they're describing is specifically about academic performance and testing, not about their professional work environment or job responsibilities.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+114,Test your skills,"0
+
+The input ""Test your skills"" is a brief phrase that does not discuss work-related burnout or stress. It appears to be either a general statement, instruction, or possibly a title/heading, but contains no content related to the poster's own experience with burnout, stress, mental health, or workplace issues in cybersecurity or any other field.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+115,Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database,"0
+
+This input is about a cybersecurity incident involving an unsecured database at a mental health care firm, not about the poster's personal work-related burnout or stress. It appears to be a news headline or report about a data breach/security vulnerability, which falls under the category of ""No work-related burnout/stress"" as it doesn't involve the poster discussing their own mental health experiences related to work burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+116,"Hmm  this seems big...
+[https://x.com/bukastillo](https://x.com/bukastillo)
+
+  
+So sorry for you fiat guys hope you dont get drained","0
+
+The input is a brief social media post with a link and a comment about ""fiat guys"" getting ""drained."" This does not discuss work-related burnout or stress related to the poster's own mental health in cybersecurity. The context appears to be about cryptocurrency/financial matters rather than workplace burnout, and there's no indication the poster is discussing their own work-related stress or burnout experience.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+117,"Which tool in your stack you hate the most?
+I’ll start…
+
+I *hate* **QRadar** (Cortex XSiam or whatever).
+
+It’s not that it doesn’t work, but man, navigating that interface feels like trying to solve a Rubik's Cube blindfolded while someone is asking you 17 unrelated questions. The rules are confusing, the alerts are vague, and half the time it feels like it’s just guessing at what’s happening. Debugging anything is an exercise in patience—and despair.
+
+What’s your pick?","0
+
+This input is asking about tools that cybersecurity professionals dislike or find frustrating to work with, but it's not discussing the poster's own work-related burnout or stress related to their mental health. While the poster expresses frustration with QRadar, this is more of a technical complaint about a specific tool rather than a discussion of personal burnout or work-related stress affecting their mental health. The tone is more conversational and seeking others' opinions about probl",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+118,"Carrier Outages - Internet Circuits affected now too?
+Just lost connection…","0
+
+The input is about a technical issue (carrier outages and lost internet connection) and does not discuss work-related burnout or stress related to the poster's mental health. It's a brief technical report about connectivity problems, not a discussion of personal burnout or work-related stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+119,"To those who ""got out"": What are you doing now and do you like it?
+With so many trying to break into security, I am curious to hear from those who managed to break out. What are you doing? Do you like it? Do you miss the grind? Etc.","1
+
+This input discusses work-related burnout/stress in cybersecurity. The poster is asking about people who ""got out"" of cybersecurity and mentions ""the grind,"" which implies they are experiencing or have experienced work-related stress/burnout themselves. The phrase ""break out"" suggests escaping from a difficult work situation, and asking if people ""miss the grind"" indicates the poster is dealing with their own current work-related stress in cybersecurity and",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+120,"Technical-Managerial Disconnect
+How do others deal with the disconnect that tends to grow when management doesn't have time to hear trends/issues? Say it's a busy week, like holiday season, for instance.
+
+I find that being succinct is difficult for me depending on the situation, but it's ever prescient when I do communicate to management, yet still find myself getting shut down in meetings or told to take it offline.
+
+Is this just a common issue everywhere?","0
+
+The input describes workplace communication challenges and frustration with management, but does not discuss work-related burnout or stress related to the poster's own mental health. The poster is asking about a common workplace issue (technical-managerial disconnect) and seeking advice on communication strategies, rather than expressing personal burnout or stress symptoms.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+121,No one’s ready for this,"0
+
+The input ""No one's ready for this"" is too brief and vague to determine if it relates to work-related burnout or stress. It doesn't contain any specific discussion of the poster's own mental health, work experiences, burnout, or stress in cybersecurity. Without clear context indicating personal work-related burnout or stress, this falls into the category of no work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+122,The War on Passwords Is One Step Closer to Being Over,"0
+
+The input ""The War on Passwords Is One Step Closer to Being Over"" appears to be a title or headline about password security technology/trends. It does not contain any discussion of work-related burnout or stress, nor does it involve a poster discussing their own mental health experiences related to their cybersecurity work. This is simply a statement about cybersecurity technology developments, not about personal burnout or stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+123,"Can I have social life as SOC Analyst?
+(Serious Answers Only)","0
+
+The input is asking a hypothetical question about whether it's possible to have a social life while working as a SOC Analyst. This is not discussing the poster's own past or present experience with work-related burnout or stress. Instead, it's asking about a potential future scenario or general possibility, which falls under the category of hypothetical situations that should not be labeled as 1 according to the guidelines.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+124,Exorcise Mystery Processes with Task Manager!,"0
+
+This input is about using Task Manager to manage computer processes, which is a technical/operational topic unrelated to work-related burnout or stress. The poster is not discussing their own mental health, burnout, or stress experiences in their cybersecurity work - they appear to be sharing a technical tip or solution about process management.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+125,"What did you guys do to not become overwhelmed?
+I am sorry if this is not the correct place to post this, I’m just looking for some insight. I’m doing the Google Certification for cybersecurity and am hoping to land some kind of entry level job but am becoming very overwhelmed by the amount of knowledge I’m trying to memorize all at once. Does anyone have any tips? I need a career change and this feels like a field I would really enjoy doing. I’m just having a hard time convincing myself it will be worth it.","0
+
+The input describes someone who is currently studying for a Google Cybersecurity Certification and feeling overwhelmed by the learning process. This is about educational stress and concerns about future career prospects, not work-related burnout or stress from actual job experience. The person is not yet working in cybersecurity and is discussing hypothetical future situations (""hoping to land some kind of entry level job"") rather than discussing their own past or present work-related burnout/stress experience in the",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+126,"Burnout
+I have been feeling burnt out for a while now. Was really hoping that the feelings would go away over the holiday break, but they haven't fully.
+
+I should be more grateful to have the role that I do. The people are nice, they let me work hybrid (mostly from home, few days in office here and there), and I feel more or less appreciated for the things I do.
+
+On the other hand, it's hard to think of the last time I had a low-key day where I wasn't working on an active project and could catch up on learning. I guess there were one or two days here and there over the past 2-3 months. As I finish my ongoing project, I can see the next one(s) coming in the pipeline, and I feel dread.
+
+I am fairly certain that other people are not working on anything, or at least are getting much more downtime, and this makes me feel bitter. Some projects are vastly different than others and require learning so many new things in short periods of time that I feel like I am lost and drowning. Some projects have many stalls caused by client issues, then they flip out and try to rush us through the actual work.
+
+I can't easily leave because postings for similar roles ask for several years experience and certifications that I don't have. I don't even confident in my abilities anymore to actually apply and interview elsewhere.
+
+Rant over.. guess I was wondering if anybody is feeling the same way.","1
+
+The poster is clearly discussing their own current work-related burnout and stress. They explicitly state ""I have been feeling burnt out for a while now"" and describe ongoing workplace stress including overwhelming project loads, lack of downtime for learning, feeling bitter about workload distribution, and experiencing dread about upcoming projects. They also mention how this burnout is affecting their confidence and ability to seek other employment. This is a direct discussion of their personal, present experience with work-related burn",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+127,"I had a stroke, wrote a book, and blame the industry, lets change it AMA","0
+
+The input mentions having a stroke and writing a book, but does not discuss work-related burnout or stress related to the poster's own mental health experience. While it mentions blaming ""the industry,"" there is no clear indication that the poster is discussing their own work-related burnout or stress in the past or present. The post appears to be more about a medical event (stroke) and subsequent book writing rather than workplace burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+128,"Is Cybersecurity a depressing Job?
+My family’s been talking about Cybersecurity and they’ve said things like
+ ""its the worst job""
+ ""You’re sitting behind a screen for hours and some people have committed suicide cause the job is so depressing "" 
+""I could never do bachelor of cybersecurity its the worst bachelor degree"" 
+""there’s this guy who did bachelor of cybersecurity cause his parents forced him to because of the pay and he said things like, it was so boring that he was a average/smart person but would intentionally fail the class and dont pay attention""
+ ""What a bad Job"" 
+and more that I wouldn’t want to mention. I am quite young but those around my age already all figured out what they wanna be even years before, all i knew was ""I dont know"" I had a plan b which was if i never found out my dream then I’ll be a lawyer if i liked it not. But recently i found an interest in Coding, Cybersecurity, Hacking, Deep/Dark Web and those stuff but now that my family are like making fun of it and calling it horrible things im rethinking my decision. It does definitely makes me feel bad that I’d have to force myself onto a different path i dont want to go, after finding what i really love but I gotta say i live in a very judgmental family, if you say something ""wrong"" be ready to relive it as much as possible and emotions isnt even a real thing. I’m trying to not change my mind but I don’t know.
+(And I clearly haven’t told them that i wanna be in Cybersecurity cause that’ll make everything worse. I may delete this post too after a while maybe)","0
+
+The input discusses the poster's family's negative opinions about cybersecurity as a career and the poster's uncertainty about pursuing it due to family pressure. While the family mentions depression and suicide in relation to cybersecurity work, the poster is not discussing their own personal experience with work-related burnout or stress. Instead, they are sharing secondhand information and seeking advice about whether to pursue cybersecurity as a career path. This falls under hypothetical/future circumstances rather than the",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+129,"CISA put it all in one place
+first I thought this should go on starting career advice, as the news is about educational material for security clinics. but it seems like I got the wrong flair on it. :D Hope this time it\`s fine, since I really think there\`s some interesting, useful stuff in there. If not, I\`ll just let it go.   
+\---
+
+there\`s an incident response plan template, a guide for small orgs, a ”request a cisa speaker” form for schools, and cybersecurity-based threat vector scenarios - for different industries, including healthcare - to exercise on.
+  
+I thought it was nice to know about it:
+  
+
+  
+https://www.cisa.gov/resources-tools/resources/resources-cybersecurity-clinics","0
+
+The input discusses CISA educational resources and materials for cybersecurity training, including incident response templates and threat scenarios. The poster is sharing informational content about available resources rather than discussing their own work-related burnout or stress experiences. There is no mention of personal mental health struggles, workplace stress, or burnout in relation to their own cybersecurity work.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+130,"Job confusion
+My background: Network and Application Pentester
+Experience: 4 years
+Future Goal: Red Teamer
+
+8 months ago, i switched from an organisation in my own country and came to Dubai and joined an organisation in dubai. They pays me well but the issue is intially i had to manage Application security along with Network VA, But now here i am stuck more in VA and they also gave me designation of VA specialist. As i more engaged in VA related task, i am feeling like my offensive skills are rusting. I am also preparing for OSCP certification.
+
+The issue is neither i am enjoying the work nor i feel connected with VA tasks. causing me anxiety like i am wasting my time just because i am getting good money than my previous organization.","1
+
+The poster is discussing their current work situation where they feel disconnected from their job tasks, experiencing anxiety about wasting time, and not enjoying their work. They explicitly state ""neither i am enjoying the work nor i feel connected with VA tasks, causing me anxiety"" which indicates work-related stress and dissatisfaction with their current professional situation. This represents their own present experience with work-related stress in cybersecurity, not a hypothetical situation.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+131,"Managers and above, how often do you work 40+ hours?
+The expectation at my current position is to be working 40+, more like 50, hours a week. My workload is heavy as a manager. I personally refuse to work late nights and weekends especially since my salary is under 130k. Because of this, I’m not behind, but I’m certainly not on top of every thing either. 
+
+I’m at a crossroads to whether I want to continue down the management path, or step back and go back into engineering. 
+
+Is this how most management positions are? Should I expect to lose weekends and evenings with my family to peruse a management career? Or could it be this company and this position? Looking for your personal experiences, thanks!","1
+
+The poster is discussing their current work situation as a manager, describing heavy workload, expectations to work 50+ hours per week, and the stress of deciding between continuing in management or returning to engineering. They're expressing concerns about work-life balance and the impact on time with family. This represents work-related stress and burnout related to their current professional situation and mental state regarding their career path.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+132,"What does a job in Cybersecurity actually imply? walk me through a normal day at the office
+So, I am torn between studying Computer Science or Cybersecurity.
+
+What does a Cybersecurity engineer actually do in a normal work day?","0
+
+The input is asking for general information about what cybersecurity professionals do in their daily work routine. The poster is a student trying to decide between Computer Science or Cybersecurity and is seeking to understand the typical job responsibilities and daily activities of cybersecurity engineers. This is not discussing their own work-related burnout or stress experiences, but rather asking for informational/educational purposes about the field in general.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+133,"Healthcare in the crosshairs
+https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/amp/","0
+
+The input is simply sharing a news article link about a cyberattack on Change Healthcare. There is no discussion of personal work-related burnout or stress by the poster. This appears to be sharing information about a cybersecurity incident in the healthcare sector, but does not contain any content related to the poster's own mental health, burnout, or work-related stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+134,"Regret as professional cyber security engineer
+What is your biggest regret working as cyber security engineers?","0
+
+This input is asking a hypothetical question to others about their regrets, rather than the poster discussing their own work-related burnout or stress experience. The poster is soliciting information from others about their regrets, but is not describing their own past or present burnout/stress situation. According to the definition, hypothetical situations and when the poster is not discussing their own experience should be classified as 0.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+135,"Limit available up time to infrastructure (Cybersecurity approach)
+I have been suggesting working hours for our datacenter such we can decrease our exposure to threat actors with less ""working hours"".  Has anyone used this approach and can provide their experience with the practice?","0
+
+The input discusses a hypothetical cybersecurity approach about limiting datacenter working hours to reduce threat exposure. The poster is asking about others' experiences with this practice, but there is no indication that they are discussing their own work-related burnout or stress. This is a technical question about cybersecurity practices rather than a personal discussion about mental health or burnout experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+136,"For those who work a pen test job, would you say you have a good work life balance?","0
+
+This input is asking a hypothetical question to others about their work-life balance in penetration testing jobs. The poster is not discussing their own personal experience with work-related burnout or stress in the past or present. They are seeking information from others about their experiences, which falls under the category of hypothetical situations that should not be labeled as 1 according to the guidelines.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+137,"Are you judged for your age at work?
+This is a question for both good and bad judgments.","0
+
+The input is asking a general question about age-related judgment in the workplace. It does not discuss the poster's own experience with work-related burnout or stress, either in the past or present. Instead, it's a hypothetical/general inquiry directed at others about their experiences with age discrimination at work, which falls outside the scope of work-related burnout/stress classification.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+138,"More than 80% cybersecurity professionals in India suffering from burnout, claims report; and why it is d
+Is it?","0
+
+The input appears to be a headline or title of a report about cybersecurity professionals in India suffering from burnout, followed by an incomplete question ""Is it?"". The poster is not discussing their own personal experience with work-related burnout or stress. Instead, they are referencing a general report/statistic about burnout in the cybersecurity industry and asking a hypothetical question about it. This falls under the category of discussing burnout in a context unrelated to",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+139,"Neurodiversity
+Any neurodivergent/ADHD folks in the industry here? How has your career been going and how have your condition(s) affected your work performance?","0
+
+The input is asking about neurodiversity and ADHD in general terms, seeking information from others about their experiences. The poster is not discussing their own work-related burnout or stress, but rather asking a broad question about how neurodivergent conditions affect work performance in the industry. This falls under the category of not discussing their own burnout/stress experience in the past or present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+140,"The Rough but Rewarding Path of Self-Studying Cybersecurity
+Hey r/Cybersecurity! Long-time lurker, first-time poster here. I wanted to share my experience and some advice for those embarking on the journey of self-studying cybersecurity.
+
+## The Challenge
+
+Let's be real: starting your cybersecurity journey can feel like trying to drink from a firehose. The field is vast, constantly evolving, and can be overwhelming at first. You might find yourself lost in a sea of acronyms, struggling to understand complex concepts, or feeling like you're always three steps behind.
+
+But here's the thing: **every single professional in this field started exactly where you are now.**
+
+## The Mindset
+
+1. **Embrace the struggle**: Each challenge you face is an opportunity to learn and grow. The frustration you feel when tackling a difficult concept? That's your brain expanding.
+
+2. **Consistency over intensity**: It's better to study for 30 minutes every day than to burn out with 8-hour cram sessions.
+
+3. **Build a foundation**: Start with the basics. Networking, operating systems, and programming fundamentals are your building blocks.
+
+## The Path
+
+1. **Start with the CompTIA trifecta**: A+, Network+, and Security+. These certs will give you a solid foundation.
+
+2. **Hands-on practice**: Set up a home lab. Break things. Fix them. Repeat.
+
+3. **Dive into resources**: 
+   - Platforms like TryHackMe and HackTheBox
+   - Books: ""The Web Application Hacker's Handbook"" and ""The Hacker Playbook"" series
+   - YouTube channels: NetworkChuck, John Hammond, David Bombal
+
+4. **Join the community**: Engage in forums like this one, join Discord servers, attend local meetups or virtual conferences.
+
+5. **Specialize**: Once you have a grasp of the basics, dive deeper into areas that interest you (e.g., network security, malware analysis, pen testing).
+
+## The Reality Check
+
+You will feel lost. You will question if you're cut out for this. You will have moments where nothing seems to make sense.
+
+But then, something magical happens. You'll solve a CTF challenge that seemed impossible a month ago. You'll explain a complex concept to someone else and realize how far you've come. You'll look back and be amazed at your progress.
+
+Remember: **Every lesson learned is knowledge gained**. Your journey might be rough, but it's also incredibly rewarding.
+
+To those just starting: Welcome to one of the most exciting, challenging, and important fields out there. You've got this!
+
+Veterans of the field: What advice would you add for our newcomers?","0
+
+This post is discussing the general challenges and rewards of self-studying cybersecurity, but it does not describe the poster's own experience with work-related burnout or stress. While the post mentions that people ""might find yourself lost"" and ""will feel lost"" and ""will question if you're cut out for this,"" these are presented as hypothetical situations that learners may face during their studies, not the poster's personal experience with work-related burnout or stress in",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+141,"Advice on leaving Cybersecurity
+I've recently come to terms with the fact this career isn't for me. I've been alienated, discriminated against, and burnt out after 7 years. The corporations I've worked for don't care about mental health. I've worked more than I feel is necessary. I'd like to know if anybody here has left Cybersecurity for something else, and how you were able to make that shift. I feel it's best I part ways, but am really not sure how or where to go.","1
+
+The poster is discussing their own work-related burnout and stress in cybersecurity. They explicitly mention being ""burnt out after 7 years"" and describe negative workplace experiences including alienation, discrimination, and mental health issues related to their cybersecurity career. They also mention working ""more than I feel is necessary"" which indicates work-related stress. This is clearly about their personal past and present experience with burnout in their cybersecurity profession, not a hypothetical",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+142,Incident Response for Generative AI Workloads: A Structured Approach by AWS,"0
+
+The input is simply a title of what appears to be an AWS document or resource about incident response for AI workloads. There is no discussion of personal burnout, work-related stress, or any mental health concerns. It's just a technical resource title with no personal context or experience shared by a poster.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+143,Career change? 31 year life crisis,"Looking at this input, I need to determine if it discusses work-related burnout/stress related to the poster's own mental health experience.
+
+The input ""Career change? 31 year life crisis"" is very brief and doesn't contain any explicit discussion of:
+- Work-related burnout or stress
+- Mental health issues related to work
+- Specific experiences with job responsibilities, workplace environment, or professional life in cybersecurity
+- Personal past or present experiences with burn",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+144,"I think I blew my last interview
+Hello everyone,
+
+I’ll get straight to the point, so basically i’ve been interviewing for this company and things had been going really well up until today, i’ve had 2 interviews and they both went amazing.
+However today, on the 3rd and last interview, which i was told there wasnt really gonna be a “technical questions” component because that was on the 2nd interview. 
+I was suddenly asked a few questions and i just froze, like everything i’ve been studying disappeared from my brain.
+Worst part is after the interview ended everything came Back to me and i suddenly knew how to answer the questions.
+Im not used to freeze under pressure, and this is not something that normally happens to me, but i have no idea what happened in that moment, but my mind just forgot everything.
+I think ill need a miracle to get the job now, even after the first 2 interviews being Good ones.
+Has this happened to any of you guys before? How did you deal with it?","0
+
+The input describes interview anxiety and performance issues during a job interview, but does not discuss work-related burnout or stress related to the poster's own mental health in their current or past work experience. The poster is discussing a specific interview situation where they froze under pressure, which is about job-seeking stress rather than workplace burnout or work-related mental health issues from their professional experience in cybersecurity.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+145,What are the problems in your life you’d pay to solve?,"0
+
+This input is asking a general question about problems people would pay to solve, without any specific mention of work-related burnout or stress in cybersecurity. The poster is not discussing their own experience with work-related burnout or stress in the past or present. This appears to be a hypothetical or general inquiry rather than a personal account of burnout/stress related to their cybersecurity work.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+146,"What's the Job Title for this line of work?
+I am looking to help close the gap in the talent shortage in cybersecurity. I am considering returning to school to obtain a degree in Law and Technology to have a more solid background. As I consider school, does anyone know what type of job title this type of work would be? It wouldn't necessarily be a recruiter, but maybe a workforce analyst? 
+
+  
+For my context, I currently administratively support a cyber education program but am looking to pivot into the field full-time.","0
+
+The input discusses the poster's consideration of returning to school and exploring career options to help with cybersecurity talent shortage, but does not mention any current work-related burnout or stress. The poster is asking about job titles for future work they're considering, which falls under hypothetical/future circumstances rather than discussing their own past or present experience with work-related burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+147,Help with a field someone who has a mental challenge (schizophrenia) can get into in cybersecurity,"0
+
+The input is asking for advice about career options for someone with a mental health condition, but it does not discuss the poster's own work-related burnout or stress experiences in cybersecurity. This appears to be a hypothetical or third-person inquiry about career guidance rather than a personal account of burnout or work-related stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+148,"Ctf challenge help
+When the air air is more polluted, let's refrain from cracking the crackers.
+
+This hint contains the password to vir machine any ideas","0
+
+This input is about a CTF (Capture The Flag) challenge where someone is asking for help with a hint/clue to find a password. There is no discussion of work-related burnout or stress related to the poster's own mental health experiences. This is a technical question about solving a cybersecurity puzzle/challenge, not about personal burnout or workplace stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+149,"Preparing for My First 48-Hour CTF – Feeling Nervous!
+Hey everyone,
+
+I recently got a chance to participate in a 48-hour pentesting evaluation challenge as part of a recruitment process for a Security Analyst position on Thursday. This will be my first-ever CTF-like experience, and to be honest, I’m nervous.
+
+I’ve tried CTFs before but have never been successful in completing any of them. This makes me a bit anxious about how well I’ll perform, especially since this test seems quite critical to move forward in the hiring process. The tasks will involve multiple areas like web, mobile, and network security, and I’ll need to take screenshots of each solved task to submit as proof.
+
+I’m hoping this challenge will be a good learning experience no matter what the outcome is. Any advice on how to approach a 48-hour exam or handle pressure during such challenges would be greatly appreciated! Also, if you’ve been through something similar, I’d love to hear about your experience and how you prepared for it.
+
+Wish me luck! I’ll do my best to make it through and learn as much as I can.Thanks for reading and for any tips you can share!","0
+
+The input describes someone preparing for a future CTF challenge as part of a job recruitment process. While the poster mentions feeling nervous and anxious, this is about a hypothetical/future situation (the challenge is happening ""on Thursday"") rather than discussing their own past or present work-related burnout or stress from actual job responsibilities. The nervousness described is related to test anxiety for an upcoming evaluation, not burnout or stress from current work experience in cybersecurity.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+150,"Job Stress
+Hi Everyone,
+  
+
+  
+I'm doing a college paper on the effects and working in the Tech Industry for my Psych class
+  
+
+  
+Feel free to message me if you'd like to jump on a 5 minute call, or want to give me the answers privately
+  
+
+  
+But if not, I was hoping any of you could answer some of these questions.
+  
+
+  
+It would greatly help me:
+  
+
+  
+1. What is frustrating (or annoying) you right now with your stress level?  
+
+2. What have you been told to do in the past that hasn't worked?  
+
+3. If you could work out 1 problem around stress with a therapist, what would that be?  
+
+4. What is 1 thing you have experienced while working with stress that you wish more people talked about/had more support around
+  
+5. If you could have less stress, what would that look like?
+  
+6. What is the missing piece for your life to get to less stress?
+  
+7. What do you find most annoying about your stress levels
+  
+Additional questions (if you're brave):
+  
+1. Is there a story about stress that you never want to experience again
+  
+2. What do you find annoying about stress and engineering? If you could choose 1 thing about stress and control it 100%, what would that be
+  
+3. If you went to a therapist, and got a call for free, What is the one question you would ask
+  
+4. What is your goal with controlling stress? What would change for you if this was achieved  
+
+  
+Thank you sooo much!!
+  
+If you are stressed, maybe your answers will help others in the same position","0
+
+This input is asking hypothetical questions for research purposes about stress in general tech industry work. The poster is not discussing their own personal experience with work-related burnout or stress in cybersecurity. They are a student conducting research and asking others to share their experiences, which falls under the category of hypothetical situations that should not be labeled as 1 according to the guidelines.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+151,"Do anyone feeling lost when they start ?
+Hi everyone, i am a student who just wanna learn, but when i see the amount of subject im just lost , doesn't know how to start and just don't do anything. I don't know my level either i just don't know what to do.
+
+My main idea right now is to create a lab and try some basic attacks like mitm ... but idk maybe i have better things to do before that.
+
+I see IT world like a game and I really enjoy but yeah if someone have the same issue when they start how do you fix it ? 
+
+I made plenty of online classes like hack the box rootme etc etc but yeah idk haha 
+
+My text wasn't clear but what i like is to pentesting 
+
+Sorry for my bad english.","0
+
+The input discusses a student feeling overwhelmed about learning cybersecurity and not knowing where to start. This is about academic/learning confusion and feeling lost as a beginner, not about work-related burnout or stress from professional experience. The poster is describing educational challenges and seeking guidance on how to begin their studies, which does not meet the criteria for work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+152,"Tired and can't get job
+Hey everyone sorry for my bad English
+I was studying cyber security for about 4 years since last year in high school
+My focus is to be soc analyst and become threat hunter
+Every time I apply for a job they reject me because I'm still in university ""one year and half left"", in my country I can't work until I graduate
+This made me tired because I need money to live well 
+I can't study anymore or practice
+I am so tired and upset and I don't know what to do","1
+
+The poster is discussing their own current experience of being tired and upset due to work-related stress in their cybersecurity career journey. They express feeling tired from repeated job rejections and financial stress related to their professional aspirations in cybersecurity (specifically wanting to be a SOC analyst and threat hunter). This represents present work-related stress and burnout related to their cybersecurity career path and job search struggles.",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+153,"Learning management
+Hi there,
+
+Just to know and share some tips, how many times do you take for learning new things per day / week, and what’s your favorite method (book, videos, etc.)?","0
+
+This input is asking for general advice and tips about learning methods and time allocation for studying. The poster is not discussing their own work-related burnout or stress experiences, but rather seeking information about learning strategies from others. This falls under hypothetical/general discussion rather than the poster sharing their own past or present burnout/stress experiences.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+154,Inside The Outages: A Dangerous Null Pointer Exception Deployed On Friday,"0
+
+The input is simply a title about a technical issue (null pointer exception deployed on Friday). There is no discussion of work-related burnout or stress, and no indication that the poster is discussing their own mental health experiences related to work. This appears to be about a technical outage/incident rather than personal burnout or stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+155,"Which SMB industries are serious about cybersecurity?
+I've noticed that some industries, like healthcare in certain regions, aren't as serious about cybersecurity, often due to budget constraints, lack of tech resources, or other reasons. For example, in the US, healthcare is generally seen as a challenging sector for cybersecurity professionals, with numerous posts discussing the struggles they face:
+
+Sources:
+
+1.  [https://www.reddit.com/r/cybersecurity/comments/ut9epf/anyone\_here\_work\_on\_the\_cybersecurity\_side\_of/](https://www.reddit.com/r/cybersecurity/comments/ut9epf/anyone_here_work_on_the_cybersecurity_side_of/)  
+2.  [https://www.reddit.com/r/cybersecurity/comments/1alxv4d/healthcare\_security\_is\_a\_nightmare\_heres\_why/](https://www.reddit.com/r/cybersecurity/comments/1alxv4d/healthcare_security_is_a_nightmare_heres_why/)  
+3. [https://www.reddit.com/r/cybersecurity/comments/uf9n7l/want\_to\_get\_out\_of\_healthcare\_is\_cybersecurity/](https://www.reddit.com/r/cybersecurity/comments/uf9n7l/want_to_get_out_of_healthcare_is_cybersecurity/)
+
+However, I've noticed that cybersecurity emphasis seems to vary widely by industry and even by country. For instance, healthcare in certain European countries might take cybersecurity much more seriously. I’d love to get insights from the community:
+
+Which countries and SMB industries (especially beyond healthcare) are prioritizing cybersecurity?","0
+
+The input is asking a general question about which industries and countries prioritize cybersecurity. While the poster references some Reddit posts about healthcare cybersecurity challenges, they are not discussing their own personal experience with work-related burnout or stress. Instead, they are seeking information and insights from the community about industry trends and priorities regarding cybersecurity across different sectors and regions. This is an informational/research-oriented post rather than a personal account of burnout or work-related",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+156,"Reddit down in major outage blocking access to web, mobile apps","0
+
+This input is about a technical outage affecting Reddit's services. It does not discuss work-related burnout or stress related to the poster's own mental health experiences in cybersecurity. It's simply reporting on a technical incident/outage, which falls under the category of ""No work-related burnout/stress.""",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+157,novice tries picoctf,"0
+
+The input ""novice tries picoctf"" does not contain any discussion of work-related burnout or stress. PicoCTF is a cybersecurity competition/educational platform, and this appears to be simply referencing someone new attempting the challenges. There is no mention of mental health, workplace stress, job responsibilities, or burnout in any context. This falls under the category of content unrelated to work-related burnout/stress.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+158,Trilogy Media [full video in description] #nomore #scammer #motivation full video in description,"0
+
+This input appears to be a title or description for a video content, likely related to scammer awareness or anti-scam content. It does not discuss work-related burnout or stress in cybersecurity, nor does it relate to the poster's own mental health experiences with burnout in a professional context. The content seems to be about media/video content rather than personal experiences with work-related stress or burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+159,"Hacker Turned CISO. Fired Multiple Times. Quality Episode
+I've been into this podcast from the start. The host is Scottish. Greg Van Der Gaast is on the pod talking about some crazy shit, hacking a nuclear facility and getting a job offer after it lol. Also, Leadership moves. Burnout. Being fired and how cyber needs to change into the business outcomes logic, which makes sense. 
+
+[https://youtu.be/dFPzI8bSiM8?si=MXfR8F3k-hGMSyFJ](https://youtu.be/dFPzI8bSiM8?si=MXfR8F3k-hGMSyFJ)","0
+
+The input is discussing a podcast episode where someone else (Greg Van Der Gaast) talks about burnout and career experiences. The poster is not discussing their own work-related burnout or stress - they are recommending/describing content about someone else's experiences. This falls under the category of not discussing their own experience in the past and present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+160,"ECB Cyber Stress Test
+Hello. Thank you for existing. Does anyone know any details about the 2024 cyber stress test being administered by the European Central Bank on its 107 supervised banks? Is the questionnaire being used publicly available?
+
+Thanks","0
+
+The input is asking about a specific regulatory stress test conducted by the European Central Bank - this is a technical/regulatory inquiry about a cybersecurity assessment tool, not a discussion of personal work-related burnout or stress. The poster is seeking information about a questionnaire for a formal regulatory process, which falls under the category of ""stress used in a context unrelated to work or mental health"" (in this case, it's about financial/regulatory stress testing, not psychological stress",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+161,CrowdStrike Windows Outage - What Happened and What to Do Next,"0
+
+The input is simply a title about a technical incident (CrowdStrike Windows Outage) and does not contain any discussion of work-related burnout or stress. There is no mention of the poster's personal mental health experiences, workplace stress, or burnout situations. This appears to be a technical/informational post title rather than a discussion about personal work-related stress or burnout.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+162,"I am burnt out and need advice
+Let me start off with saying that I am a person with ADHD and currently work as a Security Architect.
+
+For the past few months I cannot handle my job. I feel burnt out, I feel like everything I do is boring and monotonous. I do the same things every day and I no longer want to expand my knowledge at work. I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it. I was considering starting with pentesting but with ADHD it is incredibly hard as any obstacle just stops me from trying. 
+
+I start reading about ethical hacking, pentesting, programming and I get excited but the moment I try it, I just get bored of it instantly.
+
+Currently I feel like maybe I cannot do any other job correctly or perhaps that I am not made for this job or even that I will end up jobless without any perspectives. 
+
+Is there anyone here that can advise, suggest or share tips? I am already seeing psychiatrist and therapist and this hasn't helped much.","1
+
+The poster is clearly discussing their own current work-related burnout and stress as a Security Architect. They explicitly state ""I am burnt out,"" ""I cannot handle my job,"" and describe feeling that ""everything I do is boring and monotonous"" in their current work role. They are discussing their present mental health struggles directly related to their cybersecurity job, not hypothetical situations or burnout in general contexts. This fits the definition of work-related burnout/",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+163,"Cybersecurity and Public Health
+I’m currently working in public health and although I enjoy it, I don’t really enjoy the area I specialize in, which would be mental health promotion and suicide prevention. I’ve been interested in Cybersecurity for a bit and was wondering if there are any areas in the field that would let me utilize my public health background as well? Thanks in advance!","0
+
+The input discusses the poster's current work in public health and their interest in potentially transitioning to cybersecurity. While they mention not enjoying their current specialization area, this is not a discussion of work-related burnout or stress related to their own mental health. The poster is asking about career opportunities that would combine their public health background with cybersecurity, which is a career exploration question rather than a discussion of burnout or work-related stress they are experiencing.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+164,"Psychological Minefields
+Is this something one should expect anywhere (but potentially more so in cyber)? First rodeo with narcissistic personalities, being disregarded, not included, and overtalked in meetings when asked a question, rampant credit stealing. 
+
+Had expected the workaholism, but the others are quite new. Not new to IT, despite being addressed behaviors seem to continue... Curious of any first hand experience and personal takes","1
+
+The input describes the poster's direct personal experience with workplace stress and psychological challenges in their cybersecurity role. They mention experiencing narcissistic personalities, being disregarded, excluded from meetings, being talked over, and credit stealing - all work-related stressors affecting their mental health. The poster is discussing their own current workplace situation (""First rodeo"", ""Had expected"", ""quite new"") rather than hypothetical scenarios, which clearly falls under work-related burnout/",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+165,XZ Utils Rundown: What We Learned and What To Do Next,"0
+
+The input ""XZ Utils Rundown: What We Learned and What To Do Next"" appears to be a title or heading about a technical topic (XZ Utils, which relates to a software vulnerability/backdoor incident). There is no discussion of work-related burnout, stress, or mental health issues. The text does not contain any personal experiences or discussions about the poster's own burnout or work-related stress in the past or present.",0,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
+166,"I’m beyond burnt out
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.","1
+
+The poster is clearly discussing their own current work-related burnout and stress as a senior information security manager. They explicitly state they are ""beyond burnt out,"" ""so close to total burnout it's unreal,"" and describe ongoing workplace conflicts and stress that are affecting their mental health. They mention wanting to quit and constantly second-guessing themselves due to workplace issues. This is a clear example of someone experiencing and discussing their own present work-related burnout in cybersecurity",1,Few-Shot_Claude-Sonnet,claude-sonnet-4-20250514
