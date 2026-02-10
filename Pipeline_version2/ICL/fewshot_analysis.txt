@@ -1,0 +1,28 @@
+ Overall Performance:
+   Accuracy:  0.7176 (71.76%)
+   Precision: 0.3208
+   Recall:    0.5862
+   F1-Score:  0.4146
+\ Sample Counts:
+   Total samples:        170
+   Valid predictions:    170
+   Parsing errors:       0
+
+ Confusion Matrix Breakdown:
+   True Positives (TP):  17  (Correctly identified burnout)
+   True Negatives (TN):  105  (Correctly identified no burnout)
+   False Positives (FP): 36  (Incorrectly labeled as burnout)
+   False Negatives (FN): 12  (Missed burnout cases)
+
+ Confusion Matrix:
+                  Predicted No (0)  Predicted Yes (1)
+   Actual No (0):         105              36
+   Actual Yes (1):         12              17
+
+
+   ERROR ANALYSIS
+======================================================================
+Total misclassifications: 48
+
+ False Positives: 36 (Predicted burnout, actually not)
+ False Negatives: 12 (Missed burnout cases)
