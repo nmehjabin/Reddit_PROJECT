@@ -29,7 +29,7 @@ Few-shot example taken label 1 = 20
 #Bert Topic
 ->   ran on 188 data points 
 
-================================================== 
+
 LABEL DISTRIBUTION IN TRAINING DATA: 
 ================================================== 
 label 
@@ -41,14 +41,14 @@ Class 1: 49 samples
  
 Number of unique labels: 2 
  
-================================================== 
+
 CLASS WEIGHTS (to handle imbalance): 
 ================================================== 
 Class 0 weight: 0.6763 
 Class 1 weight: 1.9184 
 (Higher weight = model penalized more for getting it wrong)
 
-================================================== 
+
 PREDICTION RESULTS: 
 ================================================== 
 Predicted class 0: 108 samples 
