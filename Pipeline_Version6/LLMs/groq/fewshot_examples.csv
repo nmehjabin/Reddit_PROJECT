@@ -1,0 +1,534 @@
+id,text,similarity_score,label
+1d4e1w6,"Yo im not doing mentally well at all
+I work at a big tech company and i have ""those thoughts"" often. im not even a big wig or the senior guy on the team. i feel like i barely learn real *applicable* stuff here. idc to learn about something in some random ass prez and then forget about it the next couple days. i sound like a bitch but the job is almost too cushy. things move extremely slow like kms slow. i just want to feel **fulfillment** like i did when i worked on a small team, but fuck that pay tho. i came from a ""we need you now"" environment, where i actually mattered. now im just floating in the sea of this behemoth company, lost.",0.390517473220825,1
+1bttlm5,"Is it imposter syndrome or am I genuinely incompetent ?
+Hi.
+
+For context : 24M, computer science student. I work as a sysadmin+firewall admin, do inventory management, access management, write policies, and provide tech support. I started this as the first job out of college, kept getting more responsibilities and eventually got here.
+
+I want to be a pentester. I am working towards OSCP, on the way, I decided to make a stop and get PJPT (because I like TCM's teaching method and delivery plus, thought of it as a step between noting and OSCP). 
+
+When I watch the lectures or practice labs at THM or HTB, I get stuck in all sorts of unusual places. Sometimes I miss anonymous FTP logins, sometimes I miss UDP ports while scanning the target. Other times, I can smoothly capture the flag by exploiting cron jobs. Sometimes I mess up on simple configurations with Linux, forget commands and flags. Mess up python syntax, forget powershell commands, and the list goes on. I get angry with me and feel like starting from scratch (doing A+, Sec+ etc)
+
+I do THM mostly before bed, after a day of working full time and caring for my grandmother. Sometimes I tell myself that I am plain tired and thats it, but I feel like thats an excuse I am relying too much on. 
+
+I am applying for jr pentest roles and I am not getting any interviews, this makes me think that maybe I am not good enough. Maybe this field isnt for me. However, I dont want to give up on me, I feel like I can do this. But I also feel like I am lost. 
+
+How do I know if I am genuinely not good enough for this or I am just overly attached to my mistakes ? 
+
+I want to understand if  I am wasting my time trying to learn stuff that I am not going to be good enough to do. Should I be focusing on some other domain ?",0.26898169517517,1
+1ajw61e,"For those who work a pen test job, would you say you have a good work life balance?",0.417222917079925,1
+1gduly2,"Burnout rant
+I've been studying all things IT/cyber for over a decade now. And not just amateurishly clicking around forums and doing a few boxes. I mean utterly pathologically and obsessively researching; building systems and networks, breaking into them, patching them, re-writing them; trying to cram as many years of experience as possible in as little time as possible. Over and over again, a never ending cycle of deep-dives and retracting back to the basics to make sure my foundations were solid, and back to more deep-dives.
+
+Basic networking, linux/windows sysadmin skills (i.e package management, scripting, Infra-as-code, etc), ICS/SCADA, radio manipulation, embedded systems, automotive security, malware dev, Appsec, DevOps, DFIR, GRC, and so on. I'd pick a certification and read every study guide I could find online for it, knowing damn well I'd never be able to pay for it. I'd implement the concepts in a home lab to solidify everything I've learned.
+
+And after a decade of learning, meanwhile applying for jobs and rewriting my resume over and over again... I've virtually gotten nowhere. I've worked for two different start-up companies that dissolved due to marketing failures, and the one established company i worked for (an MSP) had to let me go after a few months because they lost a big client. Ever since that one MSP let me go (which I'll re-iterate, was through no fault of my own), I've been stuck working in the food industry, factories and gas stations.
+
+The worst part of it all, is that my obsession compelled me to at least try getting into the same buildings as the people who had the jobs that I wanted, which only led me to look through a proverbial glass ceiling, wishing I could be on top. An example is working at a food place on Fort Meade. I got to meet and talk to cybersecurity professionals all the time, if only in passing. For 2-3 minutes while they would wait for an order, I'd get to listen to them about what they do (albeit in a filtered way; clearances on the line and all). But at the end of the day, while I waited for the bus to go back home, all I could think is I would never get there. But I kept on pushing through anyways... for years even after that.
+
+I worked at a gas station in Baltimore, where I also got to meet DB admins and SOC analysts as well... again, only in passing. Job after job, I'd find myself talking with highly skilled and intelligent professionals that I admire, only to feel a paradoxical rising resentment as time passed. I worked so fucking hard to be where they are, only to be the cashier that gave them their lunch and cigarettes.
+
+As far as I know, no resume has ever gotten past an ATS and into a real person's inbox, and if it did, it was probably for a ghost job.
+
+I'm just done, man. Pretty sure I'm just going to pivot to a career that plays to my other strengths like engineering, neuroscience or chemistry. Those student loans are gonna be real easy on my bank account. /s",0.306971430778503,1
+1d8jnhu,In-memory sleeping technique using threads created in suspended state and timers that work with the ResumeThread function after context is set for execution. Each workers has its own stack and no need to modify the list of valid indirect call targets in CFG. Use case: Swappala with Reflective DLL,,1
+1evyk4q,"The Rough but Rewarding Path of Self-Studying Cybersecurity
+Hey r/Cybersecurity! Long-time lurker, first-time poster here. I wanted to share my experience and some advice for those embarking on the journey of self-studying cybersecurity.
+
+## The Challenge
+
+Let's be real: starting your cybersecurity journey can feel like trying to drink from a firehose. The field is vast, constantly evolving, and can be overwhelming at first. You might find yourself lost in a sea of acronyms, struggling to understand complex concepts, or feeling like you're always three steps behind.
+
+But here's the thing: **every single professional in this field started exactly where you are now.**
+
+## The Mindset
+
+1. **Embrace the struggle**: Each challenge you face is an opportunity to learn and grow. The frustration you feel when tackling a difficult concept? That's your brain expanding.
+
+2. **Consistency over intensity**: It's better to study for 30 minutes every day than to burn out with 8-hour cram sessions.
+
+3. **Build a foundation**: Start with the basics. Networking, operating systems, and programming fundamentals are your building blocks.
+
+## The Path
+
+1. **Start with the CompTIA trifecta**: A+, Network+, and Security+. These certs will give you a solid foundation.
+
+2. **Hands-on practice**: Set up a home lab. Break things. Fix them. Repeat.
+
+3. **Dive into resources**: 
+   - Platforms like TryHackMe and HackTheBox
+   - Books: ""The Web Application Hacker's Handbook"" and ""The Hacker Playbook"" series
+   - YouTube channels: NetworkChuck, John Hammond, David Bombal
+
+4. **Join the community**: Engage in forums like this one, join Discord servers, attend local meetups or virtual conferences.
+
+5. **Specialize**: Once you have a grasp of the basics, dive deeper into areas that interest you (e.g., network security, malware analysis, pen testing).
+
+## The Reality Check
+
+You will feel lost. You will question if you're cut out for this. You will have moments where nothing seems to make sense.
+
+But then, something magical happens. You'll solve a CTF challenge that seemed impossible a month ago. You'll explain a complex concept to someone else and realize how far you've come. You'll look back and be amazed at your progress.
+
+Remember: **Every lesson learned is knowledge gained**. Your journey might be rough, but it's also incredibly rewarding.
+
+To those just starting: Welcome to one of the most exciting, challenging, and important fields out there. You've got this!
+
+Veterans of the field: What advice would you add for our newcomers?",0.258040368556976,1
+1bos6in,"Work/life balance tips?
+Hey cybersec community. I know there is a huge breadth of professionals here from IR folks working weekends, security engineers on call 24/7, GRC folks who close their laptops at 5 PM every day, and pen testers who do bug bounties for fun at 10PM on a Saturday. 
+
+Acknowledging that we have different abilities and appetites to leave work at work, what are some of your personal habits to manage your time appropriately, and make time for life outside of work? 
+
+What are some ways you’ve continued to advance your career while maintaining a work life balance that keeps loved ones happy?",0.400415301322937,1
+1ba500o,"What's your plan B? (burnt out and and about to walk)
+I've fantasized about walking away from the industry for quite some time, but it's always just been therapy. What's your plan for when you just say F'it and flip the CISO the bird on your way out the door? I seriously think I'm just going to tend bar. There's no technology, and everyone loves you when you hand them a cold beer!",0.331189930438995,1
+18wuhvk,"How do you peeps handle burnout and frustration?
+I work for a MSSP, recently due to various things like Performance Reviews (happy with the ratings but not the compensation) and workload, i have been feeling down.. 
+
+I used to love being busy, used to love being swamped, these days - i am not confident, feeling really uncomfortable and unprepared. End of the day - i feel guilty for being unproductive…
+
+How do you handle this?? Is this just me? 
+
+Sorry if this is the wrong forum!!!! Feel free to delete of not in compliance",0.471548497676849,1
+1eqpykj,"Advice on leaving Cybersecurity
+I've recently come to terms with the fact this career isn't for me. I've been alienated, discriminated against, and burnt out after 7 years. The corporations I've worked for don't care about mental health. I've worked more than I feel is necessary. I'd like to know if anybody here has left Cybersecurity for something else, and how you were able to make that shift. I feel it's best I part ways, but am really not sure how or where to go.",0.311325907707214,1
+1hg5old,"Seeking Guidance on Transitioning from SOC to Threat Intelligence
+Hi everyone,
+
+I’ve been working as a SOC analyst for the past 4 years and recently joined a Big 4 firm about 3 months ago as an L2 analyst, supporting a large client. While it’s been exciting in some ways, I’m really struggling to adapt here.
+
+Most of my teammates are already familiar with the tools and processes since they’ve been part of this project for a while. I, on the other hand, feel like I’m constantly playing catch-up. I haven’t been given access to all the tools yet, and just when I start to get a grip on something, there’s a new tool or process thrown into the mix. It’s overwhelming, and no matter how much I try, I feel like I’m not learning or contributing as much as I should be.
+
+In my previous role with an MSS project, my tasks were mostly ticket-based, and the client-side team handled the resolution. I wasn’t directly working for a single client or communicating with end users, which, I realize now, has made the learning curve here even steeper.
+
+On top of it, the rotational 24/7 shifts have been tough to handle. My previous job had fixed early morning shifts, which worked well for me, but this setup is really starting to take a toll. I honestly feel so overwhelmed at times that I’m considering quitting, even though this company was once my dream place to work and the pay is great.
+
+That said, I’ve been thinking about moving away from SOC altogether and transitioning into roles like Threat Intelligence or Threat Hunting. I feel like these fields align better with my skills and interests, but I’m not sure how to start or what the roadmap looks like. Also, most cybersecurity job postings I see on LinkedIn seem to require 24/7 availability, and I wonder if that’s just the reality of the industry or if there are better options out there.
+
+If anyone here has moved from SOC into Threat Intel or similar roles, I’d love to hear how you did it. Any advice, guidance, or even sharing your own experience would really help me right now.",0.253210455179214,1
+1fchbkh,"does working at a soc cause burnout?
+been working at a soc for almost a year and im already burnt out",0.524754106998443,1
+1gdqpjt,"Frustrated with being an intern, despite feeling like a full-timer.
+I'm going to sound an ungrateful SOB (and probably get some flack for it) to all those who have yet to secure internships or any cyber related position but....
+
+I HATE being an intern. Don’t get me wrong, I’m beyond grateful to even have a position in today’s job market, but the title feels like a punch in the face considering the effort I’m putting in. I’ve worked hard, get regular praise from colleagues for my work, and they genuinely value what I bring to the team. But somehow, it feels like I'm playing the ""intern"" game wrong.
+
+There’s not much expected of you as an intern. They say you’re mostly there to learn, but how can I stand around and just learn all day? Well, obviously no sane person in my field would do that. I didn’t just shadow. I took on tasks, tackled incident response, got brought into projects, and became skilled at so many different technologies.
+
+After six months, I felt ready for a full-time position. I was balancing school, getting certifications, and putting in real work every day to drive and make change. Of course, this is not up to me to decide when I’ll get an offer.
+
+My company acknowledged my interest in going full-time, yet gave me the “after you graduate” talk. Due to “legal” and “tax” reasons, they said I had to stay an intern until I finish my degree in May 2025. My only thought was - *are you serious?* But really? Shouldn’t I decide how much I can handle as a student?
+
+  
+I suspect there's more to the story -  probably about budgets, but the official explanation feels like another punch in the face.
+
+Then there’s school. My experience on the job has taught me more about cybersecurity in 14 months than my degree has in almost four years. 
+
+The irony is that many of my colleagues don’t even have degrees in cyber. They came from different fields, took a cert or two, and got the job. Yet here I am, balancing school, getting certifications, and building real work experience—only to be told I still need the piece of paper before I can move forward.
+
+Anyone else been in this position? How do you view the “intern” title in a positive light? And what’s the right work ethic for an intern? For me, I keep feeling like I need to match full-timers. I feel I have so much value to provide, but providing that value as an intern doesn't feel right.
+
+*And yes, I am applying to other places, and I will continue to do so...*",0.281118750572204,1
+19cu9aa,"This job market is weird
+I’ve worked in cybersecurity basically my whole life. I’ve never really even had to try for a job they always found me. I got laid off in April and I feel like I’m radioactive. 
+
+Even at companies where I have inside referrals I can’t even get a call back. Anyone else find off this too? Is this just a slump because of the mass layoffs that will right itself in a year anyone else seeing this. 
+
+Fwiw 20+’years experience at FAANG companies .",0.301155745983123,1
+1bm1xun,"Top 10 Most Tedious Tasks in Cybersecurity
+Spending time on manual and tedious work is the most frustrating aspect of a cybersecurity job. Understanding these tedious tasks can help organizations increase employee retention and job satisfaction by automating or reallocating these tasks. 
+
+What are your most tedious and boring ones? Audit Process, Writing Policies, Log analysis, Meetings, Vulnerability results consolidation? etc. 
+
+Please click on the survey link below:
+
+[Top 10 Most Tedious Tasks in Cybersecurity](https://www.cyvidia.ai/post/10-most-tedious-tasks-in-cybersecurity)
+
+&#x200B;",0.287122786045074,1
+1cg4mcz,"Stress in Tech Jobs
+Hi,  I'm doing a research paper for my psych class about stress in tech professions.  I would love to speak with someone over the phone.  But I understand you may be too busy for that.  
+
+  
+If anyone could answer a few questions, I'd greatly appreciate it
+
+  
+1)  What causes you stress?
+
+  
+2)  How would you feel if there was less stress in your job?  Is there an ideal outcome you'd want?
+
+  
+3) What's stopping you from getting help for your stress?
+
+  
+4) What have you done that has worked/hasn't worked when it comes to stress management?
+
+  
+5)  If there's anything else you'd like to mention about this topic, I'd greatly appreciate it
+
+  
+Thanks again.  I feel people are often struggling with mental health, so maybe your anonymous answers might help someone else out there know they aren't alone",0.617340147495269,1
+1bwwk0b,Best Buy Geek Squad Agents ‘Going Sleeper’ After Mass Layoffs,,1
+1bzynxl,"i have a question
+so my question is why is it so hard today to have people work for you today i own a cyber security and it support company its called SAS IT CYBER SECURITY AND IT SUPPORT AND ITS SO hard to people to keep people and trust them and from leaking info  hard to trust now and days",0.284756302833557,1
+1hpsyyq,"How do you find the time?
+Since I've seen that there are actually legit people in this sub, I gotta ask you this.
+
+How in the world do you find time for research? I get so burned out from work, all while trying to balance my time so my long-term relationship doesn't fail because of me spending 16+ hours in front of a screen every day... And I also want to have time to hang out with my friends IRL. Do you sacrifice any of the above?
+
+Does your work give you research time? 30+ days of PTO?
+
+I am in my late 20s and already feel like I'm reaching my limit. Do I just take some breaks and then get back to the grind? I find myself needing more than 2 hours to read a 9 page whitepaper.
+
+How do you do it?",0.252119898796081,1
+1gz0lwt,"What’s the most time-consuming task you face when managing SIEM alerts
+I’ve been working with Elastic and I’m curious what challenges are standing out the most for you when it comes to managing alerts?
+
+* What tasks take up the most time or just really frustrate you?
+*  How do you usually deal with these issues? Any tools or workarounds you’ve found helpful?
+* If there’s one feature or tool you wish your SIEM had to make your life easier, what would it be?
+
+I’m just trying to get a better understanding of what people are dealing with day-to-day.",0.258127093315125,1
+1bcfvnu,"Genuine feedback
+Need honest opinion and guidance please.
+
+I started as the ONLY security person for my organization and since day one I was handed a CPU, couple monitors, mouse and keyboard. I was just thrown in the mix of 5-30year organizational knowledge experienced people. No one seems to know what needs to happen, all the network team everyone gets direction from one person their manager and he has a very big influence across the department.
+
+I am lost!!!! What do I need to do? Everyone is in their own “business” come in the morning and run into their cubicles or offices. I have no clue or guidance not even a tiny bit.
+
+When a detection is triggered or a new CVE is announced I go through it; and I vet the threat intel we get every week. Support for end users, phishing attacks. Threat hunting.
+
+I simply don’t get time to do anything else.
+
+The organization has no security policy and procedures, no playbooks. Nothing in place and more so no one is willing to talk and collaborate, it’s like walking into a zombie house and everyone is beating their head at the desk. Some even watch videos or fall asleep at their desk.
+
+I need help! What would’ve you done if you were instead of me? How would you go about it? I need to implement a security program and all the good stuff within it.
+
+Looking forward to your feedback. Thanks",,1
+194p7ss,"Another “Is cybersecurity Bootcamps worth it” post
+Edit 3: This post has gotten close to 50% upvote rate, bunch of shares and a good number of views. Maybe something that might give another person some help. I'm going to give a quick summary here so others looking up the same thing might get some insight, as well for my own reference. Thanks again for all the comments, suggestions, and help!
+
+**Generalization of the outlook I got about bootcamps.**
+
+* ""Save your money"", ""It's not worth the money.""
+* There are free resources that provide the same amount of content and might be more up to date than what you would find in a bootcamp 
+* Difficult industry to break into and a very saturated field 
+* Cybersecurity is ""several rungs up the IT ladder"", not really an entry level thing in most cases. Lots of knowledge is needed in the IT field as a whole. 
+* Programming bootcamp per say, is more directed to a specific skill, as ""cyber security"" is a vast array of accumulated knowledge 
+* Most people who have taken a bootcamp say it's not worth it 
+* Some who've taken a bootcamp say it worked, but I noticed this was a number of years ago 
+* Some good boot camps but a lot are subpar or even scammy 
+* Make sure if you do a bootcamp, do one that offers assistance getting a job 
+* A degree will give you more knowledge and more options as a whole 
+* Use transferrable skills as a direction so as to not have a fully cold start when in the interview process 
+* Networking and connections are super important
+
+&#x200B;
+
+**Comment that I found kind of wrapped up the general consensus.**
+
+* u/jc16180 ""Any guided training that provides structure will always be helpful. But for the amount of money they charge? No.""
+
+&#x200B;
+
+**Hypothetical pipeline. Some people say it takes years, others got lucky.** 
+
+* Experience, work in IT field while getting certs 
+* Security+ knowledge , Google cert (gives a discount to the security+), IMB or equivalent 
+* Analyst/secops 
+* Work into engineering
+
+&#x200B;
+
+**Resources** 
+
+* Hackthebox.com and tryhackme.com have courses, are up to date, and are interactive 
+* WGU.com offers online degrees 
+* John Strands pay what you can antisyphontraining.com/pay-what-you-can/ 
+* NGOs that may help
+
+&#x200B;
+
+Edit 2: Thanks to everyone that took their time and commented! I really do appreciate all the info and didn’t expect to get so much! Thanks again!
+
+I need a job that can be done remote and provide flexible hours all the while to pay enough for medical bills and rent in/move out of California. Unfortunately this kind of a job everyone wants as it would be nice, but its something I need due to my limitations. The allure of promised work with my resume collecting dust is some good bait for these boot camps hahaha. Basically it sounds like I need to be looking at actual entry level jobs instead of the false “entry level” cybersecurity job. I’ll see what I can do getting a help desk IT job and get experience/certs at the same time. Sounds like if I go the degree route though I’ll definitely need a bachelors to be able to compete. Honestly I dont think I have it in me and I dont think I can afford the time. Think my real option is to wait for the DOR to get back to me or if there is some other assistance for the disabled. Hopefully there’s another route I have missed.
+
+Once again thanks for all the comments and a good dose of reality from people who have actually done these boot camps and who work in the industry.
+
+Edit: wow this got approved in my sleep hahaha. Thanks for all the replies, I’m just starting to go through them
+
+Hey!
+
+I apologize for redundancy but wanted to ask the same question but with some personal context.
+
+I recently became disabled and after some years I’m getting back on my feet. The repercussions of my disease though is my current profession and a lot of other career fields are not an option. After a lot of deliberation, considering my age, a career in something more digital seems like the best option. On the waiting list to talk to the department of rehabilitation.
+
+I’m not looking to make serious bank or anything but just get a job really haha. There’s a lot of positive reviews about boot camps but many posts and videos about how they aren’t worth it. I’m not a Luddite but I definitely need to learn the basics.
+
+In a case like I’m in, would a bootcamp be a more worth while endeavor? Spending 2+ years for an associates or bachelor would be tough in my position due to time, but if it’s drastically more worth while then I’ll have to consider it.
+
+Would love to know if anyone has some sage advice or suggestions. Thanks!",,1
+1et9d00,"Which areas of our industry have a balance between work and health? Or at least those that come closest.
+For example, we know very well how unhealthy working in a SOC can be, as it disrupts sleep cycles. I think you get my point.",0.437822580337524,1
+1cw86t0,"Is cyber security stressful?
+Does the field of cybersecurity have more stress than other fields?",0.421269387006759,1
+1d8lmw3,"Let's take out the pessimimism
+Hey y'all I've been seeing a lot of pessimistic stuff in the this subreddit. I'm a uni student getting a bachelor's degree in cyber security tbh I got into it because it felt cool it still does .. but seeing all the negative comments in here makes me feel weird .. so can you guys tell me what you love about your work, does working in this field make you happy and satisfied, like the urge to get better all that shi.. isn't it exciting and fun?? I mean I do understand too much work can cause burnouts and stuff but all that like by taking breaks can be fixed right ?",0.394339114427566,1
+1fvsur8,"Burnt out SOC Analyst - ready to quit
+Without delving into too much detail, over the past 3 years I’ve grown to watch my SOC ( US-based) lay-off analysts, reducing the number to just one analyst per day/night for 10 clients with an unmanageable workload.
+
+Given that this is not a unique experience, I was wondering if anyone else has just walked away from their SOC job with nothing else lined up. Alternatively, feel free to share your SOC trauma experiences!",0.283080697059631,1
+1cd4xcq,"Job Stress
+Hi Everyone,
+  
+
+  
+I'm doing a college paper on the effects and working in the Tech Industry for my Psych class
+  
+
+  
+Feel free to message me if you'd like to jump on a 5 minute call, or want to give me the answers privately
+  
+
+  
+But if not, I was hoping any of you could answer some of these questions.
+  
+
+  
+It would greatly help me:
+  
+
+  
+1. What is frustrating (or annoying) you right now with your stress level?  
+
+2. What have you been told to do in the past that hasn't worked?  
+
+3. If you could work out 1 problem around stress with a therapist, what would that be?  
+
+4. What is 1 thing you have experienced while working with stress that you wish more people talked about/had more support around
+  
+5. If you could have less stress, what would that look like?
+  
+6. What is the missing piece for your life to get to less stress?
+  
+7. What do you find most annoying about your stress levels
+  
+Additional questions (if you're brave):
+  
+1. Is there a story about stress that you never want to experience again
+  
+2. What do you find annoying about stress and engineering? If you could choose 1 thing about stress and control it 100%, what would that be
+  
+3. If you went to a therapist, and got a call for free, What is the one question you would ask
+  
+4. What is your goal with controlling stress? What would change for you if this was achieved  
+
+  
+Thank you sooo much!!
+  
+If you are stressed, maybe your answers will help others in the same position",0.566179275512695,1
+1cpv5kn,"Can you answerre these two Q's about burnout in cybersecurity?
+The concept of cybersecurity practitioners hitting burnout is a popular one among various media outlets, mostly because it sounds scary. We know we need cybersecurity, but the people who are doing it - day in and day out - end up facing burnout.
+
+My view is that most of these articles and media stories are specifically about SOC analysts who run into the wall of alert fatigue, which is a very real issue.
+
+For those of you that are still here (and have not completely abandoned the industry), I have 2 questions...
+
+1. What, other than alert fatigue, do you feel is leading to a sense of burnout among cybersecurity practitioners?
+
+2. What do you feel would help to solve the problem of burnout among cybersecurity practitioners? (If you are the one who is feeling burned out, what do you feel is making YOU feel the most burned out?)",0.468180358409881,1
+190upfp,"Taking an extended leave
+If burnout was a destination I’d have to turn around and drive back to it because I’m whatever comes after that and before death. 
+
+I’ve been in the field for over 24 years (but still in my early 40s) so it’s the only job I’ve ever had. Lots of personal stuff to unpack but whatever. Left pretty much the worst company during the layoffs, and got conned into a new job that had “great wlb” (it’s a global 24 hour IR role, lol)
+
+Anyway long winded way of saying, I need to take a year off, and just let my brain fix itself. This economy is one of the worst I’ve seen and I’m low key terrified I won’t be able to be hired when I return.  
+
+Anyone done something similar? Advice? Solidarity?",0.411515235900878,1
+1dokjdp,"I am burnt out and need advice
+Let me start off with saying that I am a person with ADHD and currently work as a Security Architect.
+
+For the past few months I cannot handle my job. I feel burnt out, I feel like everything I do is boring and monotonous. I do the same things every day and I no longer want to expand my knowledge at work. I don't want to take on new tasks as it all feels similar to me and isn't motivating enough to continue with it. I was considering starting with pentesting but with ADHD it is incredibly hard as any obstacle just stops me from trying. 
+
+I start reading about ethical hacking, pentesting, programming and I get excited but the moment I try it, I just get bored of it instantly.
+
+Currently I feel like maybe I cannot do any other job correctly or perhaps that I am not made for this job or even that I will end up jobless without any perspectives. 
+
+Is there anyone here that can advise, suggest or share tips? I am already seeing psychiatrist and therapist and this hasn't helped much.",0.305119663476943,1
+1dcfy3b,"Tired Working on Cybersecurity
+Hi Cybersecurity members!
+
+Just want to venting out, im working on cybersecurity area just because this is what i took when i was on university..
+
+and it was an 8 years ago.. 
+
+Currently im feel tired of this area, almost every single day i need to catch up with the current cybersecurity news. As security consultant, i need to working together with customer.
+And if there are some issue and related to the security solution that i design or suggest to them, i feel guilty and impact to the my personal daily life. i always overthinking about that situation and thinking im not good enough for them.
+
+especially if there is pressure from customers, I will keep thinking about it until I can't sleep.
+
+I have sometimes thought about stopping working in this area, but I need money hahaha ​​if I move to another area this is all I can do....
+
+
+Wishing to you guys, what happens in your work dont make it to impact your personal life or your mental. :)
+
+Happy Monday!",,1
+1bnzqvz,"New to cybersecurity personal struggles.
+How do u deal with “FOMO” and time urgency like I wanna learn everything as fast possible and achieve and be the best, I know it’s not possible but I can’t shake off that feeling. I can’t even rest cause I feel like I need to be learning. Or doing something or else I’ll go backwards. Also the information overload 
+And not knowing where and what to learn and focus on. Like I have to be on overdrive while having the sense of urgency that I have to finish it fast. It’s all overwhelming.",0.374895006418228,1
+1fod6yf,"Feeling stuck in my learning process as a pentester.
+I started my learning process three years ago in cyber security and every day I learn something new and I enjoy the process. Lately I spent 3 months solving machines and challenge labs for the OSCP Exam day and night, but I did not pass the exam on my first trial.
+
+Now I am back to solving machines on HTB and I learned to follow a methodology but it doesn´t always work and eventually I give up and look for a writeup, and as soon as I do I realize how easy it was and that I just needed to try harder.
+
+I feel like I am in an endless loop and my darkest thoughts tell me that maybe this field is not for me.",0.326602578163147,1
+1g5ehqp,"What to do all day?
+Hi All,
+
+I’m in the opposite situation that I typically see on this reddit page and online. It is insanely slow at my job. I mean, very slow. On average we get about 2-3 security incidents a day that are known false positives. 
+
+Theres 15 of us on my team. 11 people are policy makers, whereas 4 of us are technical/IR. I’m someone who likes to stay busy, and keep going, however theres not enough work to go around. What can I do all day? I always try to excel in my daily tasks and take on new projects wherever I can. I typically knock them out faster and more accurately than my coworkers.
+
+My current tasks:
+- security incidents
+- EASM
+- threat hunting
+
+What I do daily/ try to in my (lots of) free time:
+- study (THM/Youtube on John Hammond or others)
+- news articles
+
+I’m still quite new to the security scene, and the lack of work is not helping me learn really, at all. I always ask for tasks and things to do, however, the ‘policy makers’ don’t have the time to incorporate me. 
+
+What are some things I can learn/work on?
+
+Note: 
+- I have 2 years IT, <1 security. 
+- Company is ~20,000 people
+- i’m comfortable with phishing
+- I just built a SIFT vm to mess around with
+
+Any feedback is greatly appreciated. My boss(es) know I am eager and wanting to learn, however, my boss(es) are not security, so, they don’t have tasks they can give me. Theres also no one who could be my mentor,",0.264149814844131,1
+1g4a7ot,"Burn out among Cybersecurity leaders at a frustrating high.
+In a world of high powered AI and evolving threat actors; cyber security leaders are facing significant amounts of burnout and stress. Anyone experienced this as well?
+
+[https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/](https://www.forbes.com/sites/tonybradley/2024/10/15/the-cybersecurity-burnout-crisis-is-reaching-the-breaking-point/)",0.437536269426345,1
+1fdw53a,"Work/life balance in cybersecurity.. is there really such a thing?
+Hey folks.. I am about to move from a Coordinator to a management role within Cybersecurity. It’s been a tough couple of years honestly. Huge projects, impossible deadlines, big demanding incidents, GRC, compliance and the never ending VM cycle.. found it very difficult to find that sweet spot in between work and life.. was wondering if y’all might have some tips and tricks to balance this shit out..",0.287251353263855,1
+1b77nwh,"Confusion explosion and Burnouts
+Hey Everyone, a guy working as a senior appsec engineer at a SaaS Company from india... Let me quick you give intro about my background 
+
+My Timeline
+
+- Started as CTF player in 2016 
+- Made into Bugbounties from 2017 
+- Made enough money and quit bugbounty in 2021 to learn something new 
+- In 2021, Joined a fintech company based in pune as a Senior Analyst and started managing bugbounty management.. Like onboarding applications, Budget allocation kind of program management role 
+- Unfortunately it didn't last long... Due to family problem where I was in the situation I need to quit because I need to travel around 2,000 kms every week to take care of my parents as I was leaving away from them
+- Immediately and blindly joined this SaaS company based in Chennai... Now part of AppSec team 
+
+
+Problems that I'm facing 
+
+- After joining the SaaS Company, again started in VAPT role... Nowadays I literally hate this alot especially doing the same stuff again and again...I really loved doing job in fintech Company because of new role and new responsibilities 
+- After joining the SaaS Company, analysed their security posture gave them ideas on improving the security posture...Because the posture is really bad and Made a presentation... Discussed for 2 hrs and at the end of meeting... They told it won't work out and improvement idea which I made it was based on SaaS security posture
+- So, eventually I left the idea and Made a decision that we have a bounty program... So left the pentest on web, APIs, Mobile behind and started focusing on new things which I didn't learn or experience in the past.. Chosen cloud native security part to start out with Kubernetes and Docker pentesting...Learned it and management told to focus on the VAPT... It really sucks 
+
+
+Sometimes the people talk behind my back... Which is obviously hurt my feelings and can't focus on my tasks or even learning... Kind of become monkey minded person... 
+
+
+How to overcome this situation ?",0.284830331802368,1
+1exp797,"What’s your biggest frustration?
+What’s your biggest frustration with Management, business or non-security people? Work related frustrations 😅",0.391080349683761,1
+1ayx0xi,"What did you guys do to not become overwhelmed?
+I am sorry if this is not the correct place to post this, I’m just looking for some insight. I’m doing the Google Certification for cybersecurity and am hoping to land some kind of entry level job but am becoming very overwhelmed by the amount of knowledge I’m trying to memorize all at once. Does anyone have any tips? I need a career change and this feels like a field I would really enjoy doing. I’m just having a hard time convincing myself it will be worth it.",0.488959729671478,1
+1fcb095,"Modern Red Teaming Roadmap
+Hello all, I commented on a post a few months ago about a a modern red teaming roadmap. A number of people have messaged me about sharing this information and I cant respond to you all alas I will post it here for anyone interested. 
+
+  
+**Disclaimer:** I don't have all the answers and in the grand scheme of things i'm not really that good. What is contained below is my opinion which has been formed from red teaming over the last decade or so and having been lucky enough to see a number of top teams conduct some big tests and how things have changed over time.
+
+  
+**A couple of important principles:**
+
+1) Evasion is a lot harder, defences are layered and in many cases defences / detections are not immediately visible. Act accordingly. You will need to write your own tooling. Get competent at native programming / reverse engineering and research the internals of your target operating systems.
+
+2) The detection perimeter now extends to all of your internet infrastructure. You **MUST** have covert attack infrastructure which is resilient to analysis by those with access to core internet backbone net flow data. I won't name the company here but this is a commercially available service and will get you caught.
+
+3) As a team / member of a team you will need to invest much more heavily in research and development of your tooling. In the last 3 years I have not witnessed a successful engagement that used cobalt strike including heavily customised versions of it. it will get you caught.
+
+4) The threat intel is often very poor. Commercial entities are incentivised to attribute detected attacks to <insert authoritarian state here> because it makes them seem a lot more competent than they actually are. Take it with a pinch of salt. Even better learn about conducting your own operations to gather the relevant intelligence you need for you organisation. If you're interested I can cover some of this stuff in another post.
+
+5) Aspire to be a threat actor first then a red teamer second. A real APT has operational goals, has an economic cost to conducting operations and cant ask to be legged up when they do something stupid. You're not in a race to get to the operational goal. Take your time, take acceptable risks. Understand the impact you are having on the target. Think sniper in a ghille suit stalking your target.
+
+6) Stop trying to emulate threat actors. It's a load of rubbish , invented by someone trying to sell gullible people something they don't need. If anyone presents themselves as an authority on <insert nation state group / apt group here> ask them their background. If 1) it doesn't include a significant proportion of time in their countries bonne fide intelligence service 2) They have worked directly with that group, ignore everything they have to say. The operational cyber world is very clandestine and APT groups are probably actually lots of different entities that have been misattributed. People come and go, have different ways of doing things, leadership changes. just because fire eye says something is apt29 and that's how they work does not mean 1) It is actually them 2) They will ever operate like that again. We are selling ourselves short if we think the adversaries we are up against are that naive. They aren't. These places are organised to ensure the left hand doesn't know what the right hand is doing. Someone next door doesn't know what's happening one room over. Someone at fire eye probably doesn't know either. Remember that and read the threat intel see things you think are interesting but take with a pinch of salt.
+
+7) Get your head into the research and keep your finger on the pulse. Actors will weaponised high quality public research and use in their operations. You should too.
+
+8) Embrace automation. Do you need 2 weeks standing up your attack infrastructure for every job? How many times do you do it a year? How long would it take to automate?
+
+9) Work as a team. No one is infallible. We all make mistakes. Embrace a learning mentality individually and as a team. Do after action reviews. What could you have done better. Leave your egos at the door.
+
+10) If you are on an internal red team then as a team you need to streamline your ability to test. The game we play is a matter of small details. Military operations are about having the right people in the right place at the right time with the right equipment to exploit a vulnerability in the disposition of an enemy force. Cyber isn't much different. Trust me a competent attacker that has your organisation in their crosshairs is probably doing continuous reconnaissance on your internet facing presence and likely has alerting configured should something relevant be discovered. If it takes you 6 months to get permission to test the smallest thing then that's probably too late. Continuous RT or GTFO. 
+
+  
+**Building a Strong Foundation of Relevant Skills**
+
+I will break these down into Operator Skills and Capability Development skills. Capdev is the intersectionality between pure reverse engineering / research and software engineering. Examples include categorising an EDR software to understand how it works and then building a capability to defeat that technology.
+
+  
+**Operator Skills:**
+
+1) Manual testing skills ( I really like OSCE3 for this ) yes it's not bleeding edge but it forms a good foundation to build on.
+
+2) Active Directory - You are probably going to find yourself in Active Directory environments. Learn about how they work. How to attack and defend them; CRTO, CRTO2, CRT(P,E,M).
+
+3) Cloud Hybrid Environments: A lot of places are using hybrid on premises and cloud based architectures. Learn about how you can abuse the access from one to the other and visa versa. CARTP, CARTE are good. Cyberwarfare labs has some courses as does S2 security (Ultraviolet Cyber ). There's probably more.
+
+More specialist Red Team Operator Courses:
+
+1) Heard good things about Rogue Labs.
+
+2) SpectreOps course is good. Highly recommend.
+
+3) BlackHills etc etc.
+
+4) In the future I might have a course you can attend.
+
+  
+**Research Skills:**
+
+1) You probably need to learn about how EDRs work. Matt Hand has a great book. James Foreshaw has just released a book about Windows Security internals. Ask Santa nicely for both.
+
+2) Learn some reverse engineering. By first learning how to forward engineering in assembly. I cannot begin to describe how often I'm looking at assembly code. I know it sounds obvious but sometimes you just gotta look. And if you can look at how it's actually implemented vs how they think it's implemented well you might get lucky.
+
+3) Learn some modern exploit development. If you find a binary exploit like in OSCP / OSCE in a modern environment it's probably a honey pot or you are in the wrong target. People who can afford red teaming tend to have good enough security that they don't leave free float ftp server on the perimeter. Modern exploit development is quite different from the good ol days. [pwn.college](http://pwn.college), opensecuritytraining, ret2systems, offensive con etc are good. Try and replicate and analyse previous interesting modern vulns.
+
+**The E shaped and T shapes of Offensive Security Specialisation**
+
+You will probably need to decide at some point if you want to be a T shaped offensive security engineer or an E shaped one. 
+
+  
+T shapes have a strong foundation of broad relevant skills and a deep expertise in a single area. Maybe you're an AD wizard, you're great at windows exploit dev, you can find and weaponise deserialisation bugs in your sleep, etc etc. Don't feel the need to be absolutely amazing at it all because you cant. just concentrate on what you want to get good at and add value to your team as a team member. 
+
+  
+E shapes have the same broad fundamental base of knowledge but have expertise in 3 or so areas. This expertise is still deep but it's not as deep as an T shaped. Im probably an E shaped engineer. Pretty good at EDR Evasion and Capdev, AD, and attack inf. But I'm not finding sexy web bugs and I'm ok with that.
+
+A red team should really be made up of a couple of E's with different skills and supported by some Ts. High performing teams tend to adopt this structure almost evolutionarily.
+
+**Specialist Training**  
+Once you get to a certain level of maturity you're going to want to seek out very specialist training. My teams have sent people to OffensiveCon pretty much every year. There are others but I cant list them all here.
+
+  
+**Finding you own answers to your own questions**
+
+A lot of the time you will probably have to just work shit out for yourself. Build a lab that is representative   , poke, prod, play, see how things respond. Did they align with your original hypothesis? Rinse and Repeat.
+
+Hope you found it interesting and feel free to like, share, comment etc below. :-). This obviously doesn't cover the physical side which is quite a big topic in itself. 
+
+Any questions I will try my best to either answer myself / find someone in my network whose opinion I trust on the matter.
+
+Thanks",,1

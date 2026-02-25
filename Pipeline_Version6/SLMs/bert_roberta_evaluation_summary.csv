@@ -1,0 +1,9 @@
+Approach,Model,Accuracy,Precision,Recall,F1,N
+Few-Shot-CoT_BERT,bert-base-uncased,0.3475,0.3475,1.0,0.5157,236
+Few-Shot-CoT_RoBERTa,roberta-base,0.3475,0.3475,1.0,0.5157,236
+Few-Shot_BERT,bert-base-uncased,0.3475,0.3475,1.0,0.5157,236
+Few-Shot_RoBERTa,roberta-base,0.3475,0.3475,1.0,0.5157,236
+Zero-Shot_RoBERTa,cross-encoder/nli-roberta-base,0.411,0.361,0.9024,0.5157,236
+Zero-Shot-CoT_RoBERTa,cross-encoder/nli-roberta-base,0.3602,0.3365,0.8659,0.4846,236
+Zero-Shot_BERT,cross-encoder/nli-MiniLM2-L6-H768,0.5169,0.3491,0.4512,0.3936,236
+Zero-Shot-CoT_BERT,cross-encoder/nli-MiniLM2-L6-H768,0.4534,0.3058,0.4512,0.3645,236

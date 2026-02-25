@@ -1,0 +1,1614 @@
+index,text,raw_output,predicted_label,approach,model
+1,"Invitation to Participate in Research Study on Burnout in IT Professionals
+Hello Everyone,
+
+I hope this message finds you well. I am a master's student currently working on my thesis.
+
+My research focuses on understanding the impact of different work environments (traditional office, work-from-home, and hybrid models) on burnout among IT professionals. My goal for this study is to better understand how various work arrangements affect stress levels, job satisfaction, and overall wellbeing in the IT industry.
+
+Your participation is completely voluntary, and all your responses will be kept confidential. The survey will take approximately 10-15 minutes to complete. No compensation will be provided for participation.
+
+**Survey link:** [https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV\_eDm0Xa4cuc2CMzY](https://qualtricsxmrry69jhkb.qualtrics.com/jfe/form/SV_eDm0Xa4cuc2CMzY)
+
+Thank you for considering my request.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+2,"Dealing with feeling stuck in the security field
+### Opening Statement
+
+In argument theory, there's a concept of a false dichotomy. Within a false dichotomy, we assess that things can be good or bad. It's time to leave or stay. I'm burned out or I'm passionate. It's a natural human decision tree method, which makes decisions binary and - in some cases- that's easier than having options. (Un)fortunately, life is rarely so binary - despite our careers literally being about ones and zeroes.
+
+I've been a community member here for a while across different accounts. On a given day, you'll see at least one post about ""HoW dO I bEcOmE a L33T H@xor wItHOuT DoInG mY oWn ReSeArCh?"" and it's balanced out with ""How do I get out?"". If it weren't so frequent that we see the same two posts day in and day out, it would be funny.
+
+The goal of this post is to provide you options to assess what's in the decimal points between 1 and 0, and hopefully some of the tricks and strategies will help you.
+  
+### Tricks to be discussed:
+
+- Challenge the status quo
+- Diversify your value streams
+- Intra-preneurship [Not a typo]
+
+### Why Me?
+
+Before I start, I want to give my obligitory ""why does my opinion matter?"". Brutally honest - it doesn't. This is just some more text in the world that's repeating great things others have said before. Ego inflating - I've launched and sold a successful security start up, worked for fortune 5 companies, and I'm an ex-lifeguard at the YMCA.
+
+### Disclaimers
+
+I'm not a mental health professional and the advice I'm giving should be taking with that in mind. There are mental health challenges, temporary or chronic, that may be associated with thoughts of being trapped into a situation. This advice is intended to be taken broadly and with a slab of salt.
+
+### Challenge the Status Quo
+
+I have yet to be in a single business where the processes were perfect, everything worked like a well oiled machine, and it was sunshine and rainbows. If you have a workplace like this, and you're reading this article, kindly go climb a tree. This is for the rest of us who live on earth.
+
+With the status quo often comes things like routine, manual tasks that offer minimal value. There are standing meetings that don't make sense. There are boundaries that you aren't allowed to cross, even though the fix is right in plain sight. It can entrap you into a box of function that feels self defeating in many ways. On the other hand...
+
+The status quo may come with such disorganized chaos that nothing is getting done. Everyone complains about issues all the time, but nothing is getting done about any of them. The backlog (if there even is one) is so long and out of date that the thought of prioritizing and executing it requires mental stamina that only tibetan monks have attained. It's crazy out there.
+
+In either situation, I find that a lot of people stuck in the status quo feel helpless to change things and don't feel like they have options. Depending on the company, that may be true, but there are some things to try before giving up.
+
+In any situations where you are challenging the status quo, it needs to be done with respect for why the tape (or chaos) is there. The best way to justify doing what you see as important is to understand the biggest pain points in the business and tackling them. This means talking with your management and other stake holders to see what's bothering them.
+
+Once you have a good sense of the boundaries and challenges that exist, you can start to put together a strategy for dealing with them. Most boundaries are there for good reasons, but sometimes they need to be adjusted. This is where a proof of concept comes into play. Often times when I have an idea for a change, the most effetive way to get support is to put something in a decision maker's hand that shows the change. This could be a script, or a diagram, or a spreadsheet; it just needs to show the value you're bringing.
+
+#### An anecdote --
+
+Once upon a time, I worked at a large utility company and I'm pretty sure the entire thing was built with red tape. I've never spent more time or energy on documentation and process than I did at that organization, so it definitely fell into the first status quo definiton. While my time there was cut short by a certain pandemic, I was quite successful in my role ther and still have many good relationships from the role.
+
+What helped me succeed in the role was doing what I knew needed to be done rather than waiting for a process to complete. The project needed a script built and the devs were busy? I wrote one. We needed to parse and analyze 16GB of logs a day and I had a 6th gen U processor to do it with? Time to learn rust. We needed a business primer on MFA methods? I crafted one. We needed a financial projection for different solutions? I built it.
+
+Instead of being constrained to what my job title was, I actively filled gaps and drove success. I prioritized the biggest pain points and allowed the noisy red tape to whine in the background unless it really was urgent. Along the way, I built the relationships with key people in the organization who also wanted change but needed help showing the path forward.
+
+On the flipside, I had a colleague who was such a rule follower, he genuinely struggled in his role. On top of that, his manager was quite strict in his persuit of delivery. For months I watched the colleague flail about, until one day I snapped at him. 
+
+I pointed out that he wasn't likely going to be perfect at attaining all the written expectations for his role given the amount of tape. In that situation, demonstrating value by completing work was more important than being perfect at following the red lines. When he let go of trying to do everything by the book, and focus on getting things done he felt more empowered to do his job and was actually recognized for it. The manager who had been overbearing came to be trusting instead.
+
+### Diversify your value streams
+
+Originally, I had this section titled for income streams, but I realize that was a single minded approach. In reality, a lot of the times we feel stuck because we don't have other engagements in our lives. Those could be side hustles, hobbies, or community work but they should all be something that keeps you engaged in something else. This (then) excludes mindless activities that lead to less fulfillment, such as watching TV.
+
+Now, I'm not attacking watching TV. There's a time and place for sitting in front of the screen and getting lost in a story or catching up on the news. However, activities like this or doom scrolling have been demonstrated to do little for our motivation and sense of fulfillment. In fact, at too much exposure they can demotivate and defalte our sense of self.
+
+For me, I have found the freelancing keeps me well engaged. I get to learn and solve different problems, often for temporary clients so nothing to long or boring after a period of time. I've also donated a lot of time to local non-profits to support their IT and provide teaching to those who want to get into the field. All these activities are outside of my work hours and keep me engaged by forcing my focus onto other activities for a while. 
+
+Note on the excuse of having families: I have one. Four kids, a disabled wife, and all the extras that brings. As the single income earner for the family, I do a lot to keep them taken care of, but I still make time to play Minecraft with the kids, build legos, build camp fires, etc. with them. Most of my side work is done early morning or after the kids go to bed.
+
+### Intra-preneurship
+
+Now, some of you don't want to or aren't allowed (by your employment agreement) to seek externaml work. In any case, I highly recommend at looking in your business and seeing if there are opportunities for you to take on responsibilities that align with your career goals and business need. With the exception of large enterprises (and even they have these gaps), there's more hats to be worn than people to fill them. Any start up people know this too well.
+
+In the small-medium business category, if you really need a change of pace but like the people you're with, speak up. Create a business case for the change and demonstrate how you could make a difference in that area. You may find that you're able to build your own brand within the organization as the person who brings positive change. With the reputational growth comes increased trust and opportunity to change the status quo, drive value, and make a fulfilling career of your own chosing within the organizatoin construct. 
+
+If you want to learn more about this specific topic, David Bet Patrick wrote a great book ""5 Steps Ahead"" that covers this and more. I recommend it.
+
+### In Closing
+
+These are just three techniques for fighting your sense of being trapped or stuck. Each of them allows you to create a decimal point between ""should I stay or go"" leading to options like:
+
+- 0.0: Leave
+- 0.2: Attempt Intraprenuership
+- 0.5: Challenge the status quo
+- 0.8: Diversify Value Steams
+- 1.0: Stay
+
+Good luck out there, and remember that jobs are a major factor in life and they aren't going to make you personally fulfilled 100% of the time. It's not any company's job to make you happy as an employee; and HR is there to make sure you're productive. This is all as it should be. Your fulfillment and happiness is largely depenent on your ability to control your response to situations. These strategies will help, and there are many others to choose from as well.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+3,"How are you doing guys?
+Is this cybersecurity stuff stressing you out or is it just me?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+4,"Hey folks, for those of you working right now, what’s the toughest situation you’ve faced on the job, and how did you handle it?
+Same as title.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+5,"How did you overcome burnout?
+So I've been in a big tech cybersecurity job for 6 months now and I busted my butt to get here, accumulating 23 certifications over the last 3 years. 
+
+Recently I've found I just don't have the motivation to study... I've hit a brick wall and I'll find myself doing anything to avoid it. 
+
+How did you overcome burnout?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+6,"Teams outage due to “networking issue” making for a quiet afternoon, literally.
+It’s been an eerily quiet few hours without the constant barrage of pings…  Hope no one is having an actual security incident right now while their primary comms channels are down without other plans in place🥲",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+8,"Challenges in Tabletop exercises?
+We run regular tabletop exercises in our company, my main objective is to raise top management awareness for strategic challenges in information security.
+Yet,  I find them sometimes to time consuming for the output we generate. Management is made aware of some problems. We write a report and then nothing happens till the next time.
+That's a bit frustrating and I am wondering if I approach the problem from the wrong side.
+
+Whats your approach to them? 
+How often do you run them, if you run them at all?
+Do you use a third party to prepare?
+ Does it make a difference in impact on top management or does the report just land at your desk?
+
+Maybe you have some other resources to share to make the process more efficient?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+9,"Facebook, Instagram, WhatsApp hit by massive worldwide outage",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+10,"Do you have a different mentality between pentesting and CTFs or is it just me?
+When doing stuff like CTFs when I get stuck on something I sometimes just freely throw payloads at it to see what sticks and go from there. However when I'm stuck on something at work, I'm much less inclined to do so obviously, to not risk breaking anything, and I always have în the back of my mind that there may be something if I fuzzed hard enough, although I do try things manually.
+
+Is it just me with a different mentality at work vs CTFs? Or is this just impostor syndrome?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+11,"Table top exercise scenarios for Saas cloud-based productivity suites
+Need to put together an exercise, been looking online through CISA and just other general ideas. 
+
+Want to make a specific exercise for this topic that can be used to train for incident response and contingency planning 
+
+What’s a good topic to use for this ?
+
+What other general questions should be discussed in this exercise?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+12,A new report finds employees dealing with ransomware suffered PTSD symptoms and major health issues like strokes. Orgs with better wellbeing were more resilient.,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+13,"Facebook, Instagram down during outage; thousands affected",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+14,"SOC analysts, how stressful is your role?
+I would like to know about how stressful the job USUALLY is. I know it's broad and could vary...
+But in general I'd like to hear about people who work as a soc analyst, do you find yourself stressed at work often? 
+I'd love to hear how things unfold in this career.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+15,"If you could start fresh today as a do over, what would you do?
+In this day and age how would y’all restart y’all’s career? Looking for tips 😅",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+16,"Live Box Walkthrough featuring the PG-Practice machine ""Exfiltrated,"" hosted by our Student Mentor, iKourosh in 30 Minutes",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+17,"I’m beyond burnt out
+I’m beyond burnt out
+
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+18,"How do you de-stress?
+My normal way to de-stress from work/life was to light up a bowl or from my pen but now that I’m seeing a few doors open in more serious security roles I gotta pass drug tests. Alcohol makes my joints flair up so that’s a no go for me. Any interesting hobbies that you’ve taken up?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+21,"SOC analyst - Weird Job Description!
+I just came across a job listing for SOC analyst which talks about allergies, physical reactions, bend, lift objects up to 20lbs etc (PS: I don't have any SOC analyst experience, correct me if I am wrong). Does these are actually required for SOC positions?
+
+""Physical Demands:  
+·The physical demands of the position described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.  **While performing the duties of this job, the employee is regularly required to sit, type, look at a computer for 2-3 hours at a time, stand, drive, reach, bend, lift objects up to 20lbs on occasion. The SOC Analyst I should expect and prepare for a variety environmental conditions and should report in advance any working conditions that he/she may believe will cause physical reactions, allergies, and/or air quality that may put them at risk ""**  
+
+
+&#x200B;",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+23,Deformation,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+24,"What's it like working in a Microsoft security role?
+I came across some job postings. For those who have worked or are working there, how is it? such as work-life balance etc?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+25,"How Complex is your Environment?
+Is my architecture too complex or am I still too new?
+
+I have been here in my role for a year and still don’t know the complete infrastructure in terms of which tools cover what, etc.
+
+Of course I know the general architecture from the edr, cnapp, siem, ingestion methods we use, etc.
+
+However, when attempting and failing to query server logs in our SIEM from an activity picked up by our other tooling because it won’t have an agent installed and nobody knows why. From there having to check some random logs ingested from what feels like the 10th engine/tool that don’t pick things up properly, etc.
+
+Either I’m too stupid to figure out my environment from the actual architecture/setup or it’s just overly complicated and not setup properly / not enough effort has gone into fixing it. We have tooling which covers different parts of our infrastructure with some overlapping and others not. It’s confusing as fuck and I’m frustrated everyday.
+
+It feels like I need to know the tool implementations inside and out to figure out why it isn’t working and what other method and tool to try and use. It’s hard to do my job when I can’t trust my engineers to have it configured properly.
+
+Is this normal? Or should I know this by now?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+26,"Weaknesses of a SOC?
+Hey guys, So how can a SOC get bypassed? We all know the strenghts, but what are the Weaknesses?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+27,"Burnout - CS Career Questions
+I've been in the cyber security field for two years, and I've had good performance reviews but I am not sure if it is the career for me. In the past year I've had to spend a lot of time studying for and earning the SSCP and re-earning the Security+.
+
+A lot of my free time is gradually getting eaten up by this job.
+
+Things that are eating up my free time:
+
+1.) Having to study for and earn Linux+ before the year is out. This is done after 5PM and on weekends.
+
+2.) Having to earn a Splunk certificate before the year is out. This is also done after 5PM and on weekends.
+
+3.) Becoming an expert on Application Security. In addition to working on the other two other requirements from my job listed above, I've been told I should be studying and absorbing information on AppSec. So, I've been doing that too - off hours, as requested.
+
+4.) Return to office. I'm now losing at least an hour a week of personal time from the commute to the office. More days will be required soon too, from what I've been told as we're said the goal is to get everyone back in 5 days a week. 
+
+5.) Getting late night calls when alerts go off.
+
+6.) Getting more and more tasks assigned to me that can only be done after hours and on weekends (running scans, validating changes work, and so on).
+
+
+
+I'm not 100% sure this is the career path for me if this is going to be the next 20 years of my life, and that's fine. I don't know if I should try to look for other cyber security jobs at other companies, or if this is par for the course in the field and I need to adjust my study plan to migrate into something else career wise.
+
+  
+Can you provide me with honest input? I'm okay with being told I'm not cut out for this line of work. I just feel like bit by bit I'm losing the ability to spend time with my family and friends, and I'm even seeing a mental health counselor at this point too because I'm so miserable.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+28,"Got a Junior SOC Engineer Position – Feeling Overwhelmed, Need Advice
+Hey everyone, I recently started as a Junior SOC Engineer about a month ago, I'm learning a lot on the job and making progress but kind of slowly, I'm also feeling a bit overwhelmed. Before this role, I was mainly focusing on SOC Analyst tasks, so most of my knowledge is in analysis.
+
+Now, in my new position, my daily tasks include working with SOAR, ticketing systems, and SIEM 
+
+What areas should I prioritize learning to become better at the engineering aspects of the role? Also, are there any good courses or resources you’d recommend? 
+
+Thanks in advance for any advice!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+30,"How do you handle burnout as a senior security engineer?
+Context: my manager is pushing me hard to take on staff responsibilities, which I have been pushing back on for the last 12 months. I am not interested in handling political aspects that come with the staff role. This has caused severe burnout and is making me hate the work and my manager. I have started looking for roles outside, but wondering if this community has any tips.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+31,Operation PowerOFF shuts down 27 DDoS-for-hire platforms,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+32,"What does ""a day in the life of"" looks like in your cybersecurity job??
+I was wondering what a regular day's work in cybersecurity looks like on a day-to-day basis around the world. Whether it be GRC role, cybersecurity engineering, cybersecurity architecture, etc... Are you happy with what you get to do? Any non-cybersecurity related tasks you had to take onto apart from the ones from your role?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+35,Power outage worldwide,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+36,"Keeping motivation to grow and learn in busy mess SOC
+What advice do you have for someone in the following situation?
+  
+
+  
+I work for MSSP, I am 50/50 analyst/engineer when it comes to tasks, dealing with alert queue 1/3 of week and rest I can focus on engineering projects..some projects I inherited where there is need to revive cisco netsec platforms like ngips or stealthwatch cause its not working and we have licenses - this part is daunting for months now cause I am dependent on other infra teams so going very slowly. Automation part of projects is open to me as well, but I was never developer, just fw admin so kinda struggling to enter here too.
+  
+
+  
+Team is weirdly fractured as there's EU culture half with slow but quality approach and then US part where baking fast and shipping is priority (the fruit of that can be seen in every upgrade and deployment breaking our pipeline once a week).
+  
+
+  
+Both parties have in common non-documentative approach and non-existent patience to mentor and explain holistically how things are configured, non-standard nature differentiating across customers etc. , no proper sharing of how they build stuff, just referencing you to go and check. Tribal knowledge, kinda elitism where if you dont know their interpretation of basic knowledge in developing then they cannot be bothered to guide you. Management is not making any changes cause why endanger delicate working vehicle. Rather in the end of listening to such just cover the problem with joke and problem stays the same.
+  
+
+  
+This is something which drives me nuts and turns off any motivation to learn something properly - I have serious problem to grow and I am just type that values sharing, documentation and caring for each other when it comes to creating something..I find very little of that and not sure what mindset to adapt in order to progressively grow and be content with bits of knowledge I acquire and sleep well everyday.
+  
+
+  
+tldr; how to stay motivated and not burn out while working with team of people having multitudes of knowledge and no characteristics of being a mentor that holds the hand.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+37,"Cybersecurity Analyst US/ Europe
+Hello,
+
+I am a Cybersecurity Analyst with a master's degree in cyber, I moved to the US from North Africa 6 years ago,
+I worked everything except IT jobs.. I couldn't land an IT job, I have severe anxiety and forget a lot and recently diagnosed with ADHD so every interview is a nightmare to me, which impacted my health more and more.
+
+I have a small car and I finally got a good place where to live  with not very expensive rent but I feel that I have no energy anymore and I am very depressed.
+
+I am planning to go back to my country and take some rest and try to start again from over there to look for a job in Europe or maybe come back here but it is like I am going to start everything again from scratch and I am very scared of that.
+
+I am lost and can't even decide because of my health problems.
+
+What is the best move in my case?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+38,100% Placement Assistance,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+39,CrowdStrike: Tech firm sued by shareholders over IT global outage,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+40,Meltdown What Meltdown? Southwest Flew On Time All Day,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+41,"Being burnt out within the first 6 months
+Started as a cloud security engineer 6 months ago at this new company which is shockingly under resourced which has resulted me doing the work of 3 people. We're hiring in all the wrong areas and don't have enough people doing actual work however higher-ups are completely blind and can't see this. On top of this we have some douchbag clients and pretty much break everything we do for them.
+
+We have some great people and my manager is really supportive and I'd hate to leave at the drop of a pin but I feel exhausted. Do I wait for things to get better and more people to come in (they've been saying this l year but more people leave then join) and take the load off or do I pack my bags and look elsewhere?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+42,"Burnout in cybersecurity
+Hey all,
+
+I've been working in cybersecurity for several years now, mainly across the energy sector in some very large enterprise environments. I have always been on the blue team side of things and have spent a considerable amount of time grinding at each employer; continuous learning through obtaining many certs, attending conferences, and striving to be a high performer in the workplace by taking on as much work as I could so I'd be recognized as somebody of importance and value to the org. I want to be someone people can trust and depend on to get things done. 
+
+Through this, I found myself reaching the top of the pay scale as an individual contributor at my current org with a few years and transitioned into a cyber management role over a year ago. I was not necessarily prepared for this. I had no prior management experience and I did not really have a mentor, or a boss willing to share their knowledge with me.
+
+Within the last 6 months I'm feeling so incredibly burned out. It's to the point where I don't care if I get fired/laid off. In fact, I long for it. All I think about is work, how much is one my plate and how much I can't stand it. Even when I am productive I get no enjoyment or fulfilment out of it. None of the projects interest me and it's so hard to push through. 
+
+What are some things I can do to get myself out of this? I've taken time off to try and ""recharge"", yet I come back feeling worse and filled with existential dread. I'm very grateful for my career, but it is weighing very heavily on me. Any advice from those that have experienced this?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+44,"Passed the CCSP
+Took the exam today -> Passed it!
+
+150 questions. It was difficult but I didn't take the full 4 hours. I finished in about 2.5 hours.
+
+I struggled with the legal portion of the exam - never my strong suite, but the data protection, infrastructure security, and cloud concepts were easier. 
+
+If I had to offer a piece of advice:
+
+Read the entire question and all the answers at least 2 times -- read every word! I had some questions where I would think that the answer was A, but I re-read the question and saw one word that I didn't notice before and I changed my answer to B. Every word matters! The questions are purposely written to make you think it through - it's not as easy as question -> answer. There are multiple right answers, and you have to find the best one.
+
+My studying XP might be different than yours - I got the book/test bundle and read through the CSA guide. Some might need more, some might need less - but I recommend the official Sybex book bundle -- well written and it goes over most of the topics on the exam.  Took me about a month to finish it and understand the concepts.
+
+I'm not a video learner - I need to read, so I didn't do any video based courses.
+
+Oh, and remember to get a good night sleep before -- underrated IMO.
+
+Good luck!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+45,"Discussion thread: Actionable advice to mitigate burnout
+In 2022, a study by Yerbo found over 40% of tech workers have felt burnout and were ready to quit.
+  
+
+  
+My issue with burnout articles is they tend to offer vague suggestions and end with a sales pitch. Honestly the key is in the Serenity Prayer
+: accept the things you cannot change, be brave enough to change what you can, and be wise enough to know the difference.
+
+Start with Root Cause: Mayo Clinic, Kaiser Permanente, and Greater Good say the top causes of burnout are:
+  
+·       Perceived lack of control
+  
+·       Lack of clear expectations of you or the role
+  
+·       Heavy workloads/Unreasonable deadlines
+  
+·       Poor relationships/Lack of support/Unfair treatment
+  
+·       Problems with work-life balance
+  
+
+  
+I will add ""A persistent stream of negativity"" to the pile.
+  
+
+  
+The good news is it can be manageable if we (and our leaders) are open, alert, and supportive. The bad news is you need to do much of the work yourself. 
+
+Retention is vital, and this is an opportunity to improve engagement, perception, and overall health. Please join me in putting actionable advice in the comments.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+47,"Tired Working on Cybersecurity
+Hi Cybersecurity members!
+
+Just want to venting out, im working on cybersecurity area just because this is what i took when i was on university..
+
+and it was an 8 years ago.. 
+
+Currently im feel tired of this area, almost every single day i need to catch up with the current cybersecurity news. As security consultant, i need to working together with customer.
+And if there are some issue and related to the security solution that i design or suggest to them, i feel guilty and impact to the my personal daily life. i always overthinking about that situation and thinking im not good enough for them.
+
+especially if there is pressure from customers, I will keep thinking about it until I can't sleep.
+
+I have sometimes thought about stopping working in this area, but I need money hahaha ​​if I move to another area this is all I can do....
+
+
+Wishing to you guys, what happens in your work dont make it to impact your personal life or your mental. :)
+
+Happy Monday!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+48,What lying on your resume sounds like…,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+49,"Psychological resilience training applications for cybersec roles?
+Is anyone familiar with MRT or other resilience training methods and using it to cope with the stress that comes with cybersecurity jobs? 
+
+If so how applicable and effective would you say it is? 
+
+If it's not effective or applicable, know why? 
+
+I'm looking for effective methods for helping cybersec peeps to avoid burnout.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+51,"Need a solid Project Sugg.
+With all these YouTube videos I’m getting option fatigue. I’m about to finish up with my WGU degree and feel like the labs they give you are cool but put in the real world I don’t think they translate much. I still feel as much as a newbie as I did when I started school Aug 2022. 
+
+And youtube has so many fluff tutorials that it’s hard to finish one that’ll really help gain that hands on experience 
+
+Suggestions?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+52,"Have you read Slow Productivity by Cal Newport? Do you think it is applicable to many of us here?
+As a security practitioner, we have to deal with the fast pace tickets and alerts. We don't spend time dwelling because of work overload.
+
+Here is an AI summary of the book:
+
+Cal Newport's ""Slow Productivity"" offers a new philosophy for achieving meaningful work without burnout, based on three key principles:
+
+1. Do fewer things: Newport advocates for reducing commitments and obligations to focus on what truly matters. This approach allows for better results by enabling workers to concentrate on high-value tasks rather than simply being busy.
+2. Work at a natural pace: Instead of constant urgency, Newport suggests giving important work the time it needs. This principle recognizes that humans are not wired for unceasing intensity, and that a more varied, natural pace leads to sustainable productivity in the long term. Strategies include making longer-term plans, doubling project timeline estimates, and introducing ""seasonality"" into work schedules.
+3. Obsess over quality: Newport emphasizes the importance of producing high-quality work, even if it means missing short-term opportunities. This focus on quality both demands and enables a slower pace, leading to more meaningful career results over time.
+
+The book argues that the modern approach to knowledge work, which often emphasizes constant activity and urgency, is unsustainable and ineffective. Instead, Newport proposes a more intentional and deliberate approach to work that aligns better with human nature and leads to more fulfilling and productive outcomes.""Slow Productivity"" challenges the culture of overwork and constant hustle, offering an alternative that aims to make work a source of meaning rather than overwhelm while still maintaining valuable output. By implementing these principles, Newport suggests that individuals can achieve better results, experience greater satisfaction in their work, and avoid burnout.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+53,"Are you affected by the Crowdstrike BSOD error?
+https://www.abc.net.au/news/2024-07-19/global-it-outage-crowdstrike-microsoft-banks-airlines-australia/104119960
+
+How has it been coping with the outage? Looking for some advice.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+54,"What does ""a day in the life of"" looks like in your cybersecurity job??
+I was wondering what a regular day's work in cybersecurity looks like on a day-to-day basis around the world. Whether it be GRC role, cybersecurity engineering, cybersecurity architecture, etc... Are you happy with what you get to do? Any non-cybersecurity related tasks you had to take onto apart from the ones from your role?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+55,"Are there any cybersecurity Jobs where you dont sit on your ass all day ?
+The title says it all haha.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+56,"Work life balance?
+Hows the work life balance in the cyber space? 
+I’ve been pursuing a job as a SOC analyst and this means I will be doing shift work, tied to a desk working alarms under some SLA. My current job gives me the freedom to come and go as I like please from the office. As long as my work is taken care of. But is not my passion or calling. Once a person gets out of the grind from the SOC, do they have more life work balance?  Between work, and constant learning to keep up with the industry. I wonder if there is time to enjoy the fruits of your labor.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+57,"Am I in continuous burnout or not suited for the corporate industry?
+I'm a 25-year-old with (only) 4 years of experience in the cyber industry, and I'm tired.
+I started from SOC, then moving to pentesting, and now I'm an ""advisor"", which basically means doing everything from alerts to software security.
+
+I've been job-hopping every 8-12 months, and I'm tired of managing tickets and random projects that make me sick of what I'm doing. I don't even know what to say when someone asks me ""What's your job like?”. I get that it's the usual day to day in IT, however I insist on it because my mental health is a roller coaster at every job, and it ends up where I waste a lot of time and energy.
+
+But when I'm working on OSINT projects during my free time, it's a completely different story. I'm an absolute OSINT and CTI geek, and I'm passionate about uncovering hidden information and piecing together complex puzzles, it’s a day and night situation.
+
+I've been searching for months for an OSINT position here (Canada), and to be honest, it's been years since I started looking, and I've come up empty-handed. I'm starting to wonder if I'll ever be able to turn my passion into a career, or if I'll be stuck in a job that doesn't fulfill me.
+
+And that question is starting to exhaust me.
+
+So do I really have to go through this long phase of boredom before I can find a job that I'm passionate about, or should I explore new horizons?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+58,Return Oriented Programming Buffer Overflow exploitation Part 1 - In Lab Exercise,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+59,"Tech Job Interviews Are Out of Control | WIRED
+Sounds familiar?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+61,What was the most concerning security event at your job that gave you an “Oh shit…” moment?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+62,Surviving the Trenches of Cyber Hiring: Tales of Triumph and Trial,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+63,"Employee Skills Assessment
+I’m looking to do a structured skills assessment and gap analysis for my teams. A few years back I came across one that appeared to have come from NIST but I cannot seem to google find it. It may have been something homegrown or altered. Anyone know of any spreadsheets or docs that would be a good starting point?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+64,"Regarding burnout: Understanding WHY is paramount
+(Posting by request.)  
+  
+Burnout and Impostor Syndrome will happen several times in a security career. While many ask about *how* to overcome it, the real question is *why* *does this happen?*
+
+IMO, the main reason is we have very demotivational work in a misunderstood field. Our field is powered by negativity, justified with skepticism, and influenced by those who don't work with us on a daily basis.
+
+We stop bad things from happening. An exciting day at work usually involves a crime, e.g., the organization we've been tasked with defending was attacked. A good day usually means our designs worked, but nobody noticed because they were able to do their jobs.
+
+Breaches are happening everywhere and nobody seems to get punished effectively for it. In fact, *some get jobs* - by the very government asking us to defend better - *because of it*.
+
+Tech is evolving faster than any other field, innovative companies are trying to adopt it a few months after initial release, and we need to be at least 3 months ahead of it, which means researching beta releases and conceiving the guardrails for something that may not even be a thing.
+
+On a personal relations level, we're not a fun group to work with. People don't like dealing with password changes, MFA, firewall rules that block them from uploading files to customers, mandatory email encryption, etc. because we get in their way.
+
+Audits ain't fun: It's not what you did, it's what you can prove you did. You have to back up every claim with documentation, logs, etc., that you typically don't think about unless you've failed an audit before. The auditors rarely know the ins and outs of how much effort it takes to meet compliance (regardless of what some will say, it is not easy) and they've got the ear of the BoD.
+
+Finally, there's the cost. Breaches are expensive, so we're expensive. It's not difficult to see why the CFO scrutinizes our expenses when there's not any revenue coming in from the cyber folks. As messed up as it sounds in this forum, it makes financial sense to weigh ""how much would the ransom cost?"" vs. ""how much do these 4 technologies to mitigate ransomware risk cost?""
+
+When we get out of our rhythm and look at our own situation it's easy to stare off and ask ""why do I bother doing this?"" ...and **that's** when the burnout starts.
+
+**So how do we counteract the above? By remembering the reason we wanted to do this in the first place. FIND YOUR WHY** (supporting your family? being on the edge of tech? protecting people?)**, print it, and use it for motivation.**
+
+And, for the love of all things holy, have a sense of humor about it. Laugh or you'll cry.
+
+The Simpsons did exactly that in ""[And Maggie Makes Three](https://en.wikipedia.org/wiki/And_Maggie_Makes_Three).""",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+65,"Is SOC manager a stressful job?
+I've seen some having drinking issue, family (divorce) issue...",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+66,"Future in cybersecurity
+I am thinking about majoring in Computer Security but I have a few doubts.  
+1. How is job security? Do I have to worry about mass layoffs or anything like that?  
+2.  How stressful is it? Do I have long work hours or overtime to worry about?  
+3. Is the workload manageable? Will I be overworked?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+67,What is this,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+68,"Mental Health Disorders in the Workplace
+Fellow Cyberspace Cadets and Guardians of the Grid!
+
+I seek your counsel on a matter that extends beyond our usual discussions of firewalls and encryption. In our high-stakes world of cybersecurity, how do mental health disorders affect our professional lives?
+
+Mental health issues can impact anyone, regardless of their profession. Do any of you struggle with mental health challenges such as anxiety, depression, or other disorders? Have you worked with colleagues who face these issues? I'm curious about how open people are about these struggles. Do you discuss them with your team, or do you prefer to keep them private?
+
+For those who are open about their mental health, do you inform your HR department about your condition? Has there been a time when you had to disclose this information to HR, perhaps because you needed to be admitted to a psychiatric hospital? If so, how did HR handle it? Did you feel supported or stigmatized?
+
+In professions like the police or military, there's often a strong stigma attached to mental health issues. Officers might fear that admitting to a mental health problem could jeopardize their career. Do you think our field of cybersecurity has a similar stigma? How would you feel if a coworker on your team was struggling with mental health issues? Would you be comfortable knowing a team member might have periods of instability, or would it make you uneasy?
+
+Beyond common conditions like anxiety and depression, what about more serious conditions like Borderline Personality Disorder (BPD), schizophrenia, or bipolar disorder? If a colleague disclosed they had one of these conditions, how would it affect your perception of their ability to perform in our high-pressure environment?
+
+For instance, imagine a scenario where a team member with bipolar disorder has mood swings that sometimes affect their ability to focus during critical security incidents. How would your team handle this? Would you support them, or would there be concerns about their ability to perform under pressure?
+
+Or consider a situation where someone had to take time off for treatment related to schizophrenia. Would your team be understanding and accommodating, or would there be whispers and doubts about their reliability?
+
+For those working as civilians for the Department of Defense (DoD), the situation can be even more complex. Civilians in DoD cybersecurity roles must pass a security clearance background check since these positions require handling information pertinent to national security. Many of us in these roles have served prior to becoming civilian employees, and if you've deployed or been around others who have, chances are you know someone with an acquired mental disorder, such as PTSD. PTSD can at times present symptoms not too different from BPD.
+
+Does collecting VA benefits for PTSD disqualify you from these roles? Does having any mental health disorder disqualify you, or do you or others you know successfully manage their conditions while performing these critical duties?
+
+Your insights and experiences would be incredibly valuable. How do we as a community balance the need for mental health support with the demands of our high-pressure jobs? Do you think there are ways to improve how our field handles these issues?
+
+Thank you in advance for your candid thoughts and shared experiences.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+70,"Week in Brief #47: Palo Alto Zero-Day Exploited, AI-Powered Malware, CISO Burnout, and the Value of Mentorship",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+71,Roast My resume,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+72,Which roles are the best for work-life balance ?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+73,"What's the point of this career if you're so stressed?
+jw, I'm about to graduate soon and it's between this and general software dev",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+74,"What do I even do now that my cloud environment is sufficiently locked down?
+I work in a cloud native environment on an internal security team. Ive been here for a few years, so Ive had a lot of time with the team to get things right. Now, nothing happens. Outside of rare project based work, nothing happens. Cloud environments because of their config profile deployments have made the place pretty air gapped. The only thing that happens now is people visit naughty websites. I sit there all day bored out of my mind. I wonder if Im just not being creative enough?
+
+We even recently had our environment assessed by a third party and penetration tested. Its all greens. 
+
+Do I just move on now? Being bored at work is horrible",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+75,"I have created the world's greatest puzzle. . . and it's all yours for the taking AMA
+Some of you out there know, and some don't
+
+Hi I am Ronald Ratliff, and as of Now I have one of the most anticipated books in America getting ready to come out, not only that.
+
+**But I am also running a contest to fill a seat that happens to come with, 111 Bitcoins to whomever can get the answer out of said book starting on January 3rd, 2025 and will be running until January 3rd, 2032, 3pm Arizona Time.**
+
+There is a group of people out there that will announce the Winner on X , myself included if and when they find it before then.
+
+I have also presented this challenge to Barron Trump, as a Son of an amazing man myself I love puzzles and I am sure he will too. I would be incredibly amazed if he could figure it out before you all lot. Because Not even I have the answer ;) It's Hidden within. 
+
+So, scallywags you have time to prepare. I am confident once my book releases its probably going to get leaked everywhere anyways. . . . so good luck.
+
+: Here's all ya get about the contest:
+
+:
+
+My book is meant to attract attention, to someone who never wanted it. So If I get to introduce myself to the world and present the world with the greatest puzzle ever created. I would be willy wonka of the darkweb.  
+Sounds like a fitting title
+
+All you need to play is this : You will need a highlighter , or highlighting tool for the ebook. a lot of prerequisite technical understanding, and most likely a mental illness just like the rest of us. You are not Alone.
+
+You have until January 3rd, 2025 to prepare for the start of the event.
+
+The event will conclude via My or another member of the Arizona Alliance if and when the time is right.
+
+No your not getting hints. godspeed and good luck
+
+:
+
+I am the god dam willy Wonka of the web and I can't wait to see who claims this among many other treasures whilst telling an amazing story about my life and raising money for a good cause.
+
+I cant wait to see what tomorrow holds, Ask me anything.  
+[Ron Ratliff III on X: ""My heart is overwhelmed with joy I cannot find the words to express yet. @joerogan @joeroganhq Having exclusive rights to the worlds best puzzle will entertain me for a lifetime. I hope you enjoyed my Manuscript. Thank you all for your support I will NOT let you down. https://t.co/5i4Ihy0Sqk"" / X](https://x.com/Rourobourous/status/1856747335604183466)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+77,Google: Stop Burning Counterterrorism Operations,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+78,"Cybersecurity Sector and changing cannabis stigmas?
+Afternoon everyone,
+
+So I currently use cannabis not because it's “cool” , “fun” , or “rad” but for actual medical reasons vs taking a combined 10 medications as a injured veteran. I am using as a means to an end as I know the field isn't exactly open to its use even if legal for state use and even if it was hypothetically accepted federally or lowered as planned. 
+
+So my question is what is the current climate or policy structure that you have witnessed over the last year or so? As previously stated I worked federally so I already know its going to be a minimum year full stop for any positions with public trust, clearances, or contracts with the government / healthcare.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+79,"Easiest GRC role?
+Which industry/role/job title within GRC has least amount of responsibilities with the least amount of stress?
+
+I heard GRC within financial institutions is never busy. I also heard government GRC positions don’t so shit but then I heard the opposite, that they’re super busy all the time so I’m not sure.
+
+Obviously I am lazy as fuck and have no passion for this stuff and I’m just looking for which role pays pretty well with very little responsibility.
+
+Any suggestions?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+81,"First day!
+Guys, I started working at the cybersecurity firm Crowdstrike. Today is my first day. Four hours ago, I pushed major code to production. I am so proud of myself!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+82,"Security Engineer burnout
+I have been struggling with burnout after accepting a ""promotion"" to senior security engineer (I'm the only engineer) around 2 years ago.
+
+I work at a small MSSP, 1 vCISO, 1 security architect, 1 engineer and 2 analysts that supports around 8 enterprises (in various sectors) with around 10k users total. All of the organizations use M365 (Office, Entra, Intune, Defender) and I am in charge and the main point of contact for all incidents and issues with any of our service (security related or not) and responsible for planning, deploying, updating, and supporting all configs and maintaining all documentation.
+
+This includes Defender for Endpoint, cloud apps, Identity, Sentinel, Azure, Admin portal, Intune, Entra ID, Cisco Meraki, Cisco endpoint protection, Carbon Black, MDR portal, logic apps automation, conditional access, and others.
+
+I also am in charge of our threat Analysts, assigning them responsibilities, creating and maintaining playbooks for them to follow, leading incident response, training them, and assisting with their day to day alert response (all alerts from the security tools are sent to our messaging tool for the analysts to review). On top of that I was tasked with redesigning and automating all analysts tasks and responsibilities with Sentinel.
+
+Along with that I am the person anyone calls when there are any issues with anything even remotely related to any of the above and really struggling with no support from Microsoft support or vendors.
+
+I was leading all meetings till I broke down and couldn't deal with the additional stress of architecting and pitching all of the above with the different enterprises IT admins and c suite, which can be very difficult when you are young and people do not respect your knowledge or opinion.
+
+My company has a security architect that does not want to deal with Microsoft products, leaving all of that responsibility to me.
+
+Am I crazy or is this an insane amount of workload for one person in a MSSP that is pushing all clients to full M365 for security? All enterprises are onboard with this but some admins and techs do not like Microsoft leading them to troubleshoot issues for 5 minutes before sending it to me.
+
+My main issue is the lack of support from the top levels of my org and the enterprises we service making all the above even more difficult to track and maintain configs and issues across 8 enterprises by myself.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+83,Online AI Mental Health and Addiction Treatment Provider Exposed Patient Data,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+85,"Would 70 hours be enough to prepare for a FAANG interview for a security engineer position?
+Please let me know if it isn't okay for me to post this here! None of my friends are in the same field so I'm resorting to posting about it. Basically, I have an upcoming FAANG interview next week and I'm nervous about it. I want to know study everything. I actually had the past 4-5 days off and I wanted to put in 30-40 hours of work but that didn't pan out. By the end of today, during the course of 5 days, I would have put maybe around 25 hours into studying, which is basically nothing. I wanted to do 10 hour days. One of the days, I actually wasted because I was anxious about something completely irrelevant and petty (which I beat up myself pretty bad over). 
+
+I have the rest of today, and several days off during the week to study (including next weekend), so I want to put in 50 hours of studying during the course of this week. In total, before the interview next week, I would like to have put 70 hours into studying. I have a list of topics I'd like to study that seemed to relate to the job posting and I'm just taking notes for it. I will also be practicing interview questions (got a bunch of questions I found from different resources online that I can pull from), and I want to go over a couple coding-related stuff as well. I'm nervous. I've had 3.5 years of full-time experience in the field (and an additional one year as an intern). I'm upset at myself that I wasted time during the past few days and I'm hoping I can play catch up this week, so I'll be able to go in completely prepared. It's a phone interview. I'd appreciate any other tips if you guys got any! I've been super stressed all week and it doesn't help that I tend to procrastinate when I'm feeling this way.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+86,"Questionnaire for college work
+Hi if possible can you please fill in this questionnaire for my college work (IK its lazy but cba)
+
+https://docs.google.com/forms/d/1KTmamnqPrgYifUn91aVEsbq4gbM5Ncr4zhn3BdE\_ZR4",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+88,The outage continues,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+89,"anyone w/ mental illness (ie. bipolar disorder) pursuing or have a career in cybersecurity
+I am exploring a career change, and having doubts whether to pursue cybersecurity. I'm wondering if it is viable and reasonable for someone with a mental illness to puruse and be successful academically and professional in the field of cybersecurity.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+90,"Advice Needed - 10+ Years Experience
+Greetings fellow nerds. I've found myself in a peculiar position - I have 10+ years of IT / InfoSec experience, am currently doing GRC / Consulting work, have my CISSP, Sec+, etc. and yet I can't seem to land an interview for the life of me.
+
+My current company is pretty decent overall. Great people and culture, okay salary, ""unlimited"" PTO (that's not even real, I don't know how that term even flies anymore), and I do get to work remote. Problem is that I am either bored to tears on days with minimal work or I am working 60+ hour weeks with travel, onsite consulting, etc. and not much balance in between. It's affecting my personal happiness and relationships, I'm getting burnt out, and I don't like where this is headed. I'm starting to dread the daily mundane nature of my work that I once had such a genuine interest in. I still love parts of it, but man, it just doesn't have the flair it once did.
+
+Since the beginning of the year, I have applied to somewhere near 200 positions that are local / onsite or remote for a vast range of industries. I've been spending a lot of time prowling LinkedIn, ZipRecruiter, Indeed, InfoSec Jobs, TrueUp, USAJobs, and countless random software / startup companies that I am attracted to hoping that one day I find my next stepping stone. I've had ONE phone interview between all of this, for an underpaid position, that turned out to be a flop. They literally told me that the position no longer exists and they don't have the budget for it. I have received countless ""Thanks for applying..."" emails with zero luck and it's beginning to feel like I took a wrong turn somewhere or luck is not on my side. I understand that the economy isn't amazing and this is an extremely saturated market in mid-2024, but am I missing something? I'm at the point of picking up a local IT / SysAdmin job just to have a more exciting change of pace while the InfoSec industry figures itself out. Am I crazy? 
+
+Apologies for the long rant here, but thanks for reading. And to the newcomers in the industry - don't be scared by these posts. We'll all find our spot eventually, and I wish you luck in your endeavors.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+91,"How do you deal with cliques in this industry?
+Just a general question for anyone experiencing a glass ceiling at work. How did you deal with it as a newcomer to the cyber field? Any tips on how to overcome feelings of inadequacy or burnout?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+92,"Russian hackers attack Texas water facility
+https://amp.cnn.com/cnn/2024/04/17/politics/russia-hacking-group-suspected-texas-water-cyberattack",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+93,Two Out of Three Cybersecurity Professionals Are Burnt Out,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+94,"A Reckless Endeavor; Will I Ruin My Life? - unProfessional Student.
+I tried to use a throwaway, but was unable. Hopefully this doesn't bite me.
+
+Also, I read the FAQ and believe this is within the framework provided. (hopefully, as I really need this interaction)
+
+I am not here to be swayed away from this, nor will I be receptive to any attempt to add to the natural fear I already feel about recent and future events in my life. With that out of the way, I come here asking for any advice, tips, tools, secrets.. anything you have that will help me with what I am about to divulge below.
+
+I want to start this by saying thank you, truly.
+
+I currently have a full time job that I am dissatisfied with. I make enough money to support myself and my family, but at 31 years old, it is starting to feel truly dead-end. This feeling has been growing for some time of course, as most things do, and it is now to a crown.
+
+Around a month and some days ago, I was lying in bed, incredibly ill. I was having fever dreams between episodes of Charmed, and for some reason or another began to ruminate on a recent experience in the workplace. My company, along with thousands of others, got caught in the CDK Global ransomware event. It was chaos like I have never seen, and it fascinated me. From there, I began to think about other things that have happened in the workplace, such as vendor imposters attempting to get pay card information, smart-key cloning and vehicle theft, invoice fraud, etc.
+
+Somehow, this left me with a business idea. Before I could think further, I'm researching what business structure to use, legal interests surrounding the type of work, market research relative to the field, etc. I reached out to a few businesses I have working relationships with and I'm sitting here now with a two week trial run lined up that starts in a week. At the end of this run I will compile and present all data I have collected. If they like what they see, I will be drawing up a contract and officially serving my first client on January 1, 2025.  I have already selected my LLC name and DBA. My mission statement is cemented and I have my presentation materials nearly finalized. I have the forms to register as a foreign entity in the home state of my prospective client as well as my domestic paperwork. I'm fully in, and still reaching out to other businesses. I am stupid, but something is forcing me to keep doing this. I'm in deep, and I can't go back now. I have to keep going forward, failure be damned.
+
+The business venture is pretty straightforward. It focuses on the human side of security. Specifically social engineering and risk-management. It will operate as a monthly service, with opt-in/out programs suited for the businesses needs. Throughout the month, my business will try to collect information from the company through various means such as phishing, phone calls, fake invoices, on-site asset risks, after-hours penetration tests, etc. Through each action, data will be recorded and compiled into a report consisting of gross risk, divided by category. Phone calls, photos of risked assets like keys, tools, documents will also be included. Positive reinforcement will be provided where the business does well, and training will be offered to individual new-hires and groups of existing employees when needed or requested.
+
+So of course, with my reckless charge into starting a business in a field I have no business being a business owner in, I enrolled into school. I will be attending SNHU for a BA in Cybersecurity with a concentration in Data Analysis. I am fully aware that this is an incredibly demanding career path intellectually. I fully understand that I have no understanding. I am a blank slate. The only advantage I have for myself is that I've been playing with computers since I was a single-digit child. I have very little programming experience aside from HTML/CSS and a crappy language called Blitz+ that I used to make a b-tier Pong clone. I am fairly good at math because I don't just memorize formulas, I learn why they work, which helps me retain the ideas behind what different types of data reflect. I know that this line of work is something I am capable of doing, and feel I may enjoy.
+
+When I was in my early twenties, I had no idea what I was doing, and so I let my life stagnate. The last 10 years has been a blur, but something has stirred in me and I can't stop it. I don't have any interest in stopping it, either. I have never been this motivated nor this scared before. It is like something awoke in me. Maybe it is because I went on a diet and got healthy this year, or because I had an idea and some took me seriously. Whatever it is, I have no interest in walking away, so if you can support me in my struggle to be more than I am today, share with me what you can.
+
+  
+I will be forever grateful, more than you may realize.
+
+
+
+Thank you,
+
+  
+DA.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+95,Would taking the EJPT enough to get a job or being a part time bug hunter?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+96,"Staying motivated to learn
+How do you all stay motivated to keep learning? I have a few certs already along with accounts on HTB and THM. Lately I just haven’t been able to find the motivation after work to learn. I feel burned out to the point that I just don’t want to deal with hard problems outside of work. How do you all stay motivated or get back into the learning mindset?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+97,"does the grind ever stop?
+kinda feeling mentally exhausted with everything I've learned so far. everything was cool and exciting at first but now it just feels like I'm forcing myself to learn for no reason... I don't even work in the industry, I don't think I'll be able to work there anytime soon with how shitty the tech industry is right now. just feel like moving to the woods and becoming a lumberjack now, y'know?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+98,"How do you all stop thinking about work and start studying the important knowledge?
+Every time I want to study, I end up working on my work projects. How do you tell yourself that you should study things outside work?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+99,"How to Wing It Like a Pro: Tales from CyberHamm, Story 3: How to Not Blow Your Job Interview (and…",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+100,"What particular job in cybersecurity would you not touch with a 10ft pole?
+For clarification, this particular job would be on the bottom of your list of desired jobs by a longshot. You would be significantly stressed, depressed, and lemon zest’d if you worked this role. And of course, why?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+101,"What should you do if you feel like a Brent in Phoenix project? My team is under manpower and everyone keep tossing tasks to us.
+Seems like we are the skinny dudes who need to raise extra weights",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+102,"Cyber Public Health
+I’ve been reading more about cyber public health and I’m pretty interested. It’s described as an emerging field that’s “a new take on cybersecurity that applies lessons from public health to cyber.” Does anyone know of jobs or organizations that will allow me to combine my cybersecurity and public health skills?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+103,"might backfire
+https://youtu.be/S6uoq-8jOl0",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+104,Master Git & GitHub: From Everyday Tasks to Deep Waters [Next-gen interactive e-book],1,1,Few-Shot-CoT_BERT,bert-base-uncased
+105,"What questions to ask at the end of interview for Junior SOC Analyst Round 2
+Follow up to my last post, I have a few questions drafted up but I want to show that I am eager to know more and to learn more if I get the role. Ill paste my drafted questions below, let me know what you think!
+
+What is the compensation for the Job? (I know the range on the listing but want to know more specifics)
+
+Do you anticipate log fatigue from analysts and how do you deal with it?
+
+Is there anything internally that is done to keep analysts up to date on current trends?
+
+What are the next steps in the interview process?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+106,Passed at 175 on the first attempt!Check out this video I made: Tips for Mastering the exam on your first attempt 📖🧠,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+107,"What Do You Like and Dislike About Your Job in Cybersecurity? Here’s My Experience as a Developer
+Hi everyone! This post is for you to share what you love and what you don’t about working in cybersecurity. I’ll start by giving you my perspective from the world of software development.
+
+I’ve been working as a software developer for 3 years now, and after going through a tough consultancy job, I’m now at a good company where the work is pretty chill, and the salaries are decent. However, despite these advantages, I’m starting to feel increasingly bored. What frustrates me the most is the feeling that projects never end. No matter what I accomplish in a day, there’s always something left to do, and the next day, I have to pick up right where I left off. This creates a sense of “dread” because I know I’ll be facing the same issue tomorrow, and when I solve it, the cycle repeats. There’s never a day where I feel mentally clear and satisfied because everything’s wrapped up. That lack of closure makes the days feel endless.
+
+On the flip side, there are good things too. The satisfaction of completing a project when everything goes well is an emotional high. But over time, even that doesn’t seem like enough for me anymore.
+
+I’d love to hear about your experiences in cybersecurity. What are your days like? Do you feel the same monotony, or is it different? Cybersecurity has always intrigued me, and I’m seriously considering making the switch.
+
+What’s your take on it?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+108,"I have a hard time saying what’s in my head…
+I feel that I have so much knowledge in my head but I have a hard time expressing or explaining what’s in there if that makes sense. I study and have passed several exams and got many certifications and I know the content. But if someone came up to me and asked me something I would struggle to tell them what’s that something is. Anyone else struggle with this??",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+109,"Hi guys, great to be here, i feel like home over here.much love🖤",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+110,"Tips and Takeaways, passing ISC2 CCSP Exam in 2024!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+111,Professionals of reddit how do you keep up with new tech and refresh your old knowledge.,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+112,"Dilemma: Is now a good time to change jobs?
+Evening all, 
+
+Currently working for a good company in financial services. Good pay, people, manager; however the culture has gone massively down hill, no progression whatsoever, the demands are sky high causing extreme context switching and stress - to a point that I ended up in hospital recently and its highly likely related to work related stress; so when I was sitting there in the hospital ward, I decided I must move on.
+
+Got offered a role today by a bigger company, pay is slightly less but I am negotiating to get at least the same; clear challenges with less areas to focus on so I'm hoping that equates to less stress and context switching, although slightly more travel.
+
+I've been with my current employer for nearly 10 years, so I am a little anxious about moving on. I will lose my RSUs, but that's fine, I just can't handle the extreme context switching - I feel like Im not delivering quality as I don't have the time to focus properly, and that is becoming a vicious circle.
+
+I'd like to hear from the good people of reddit, whether now is a good time to switch jobs in Cyber, and what you think of my situation, any thoughts, or questions are welcome, thank you",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+113,"Volunteer opportunities for mental health in the security industry
+I’m interested in volunteering with a US-based nonprofit working to address mental health specifically in the security industry. 
+
+Any recommendations?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+114,Best Buy Geek Squad Agents ‘Going Sleeper’ After Mass Layoffs,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+116,I've started thinking about suicide because of a page Facebook that has been defaming me and posting my pictures for the past two consecutive years,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+117,"Burnout
+I’m currently on vacation from work. For the first time in so long, I feel actual peace. My phone will not ring randomly from an OpsGenie on-call alert. I deleted Microsoft Teams so nobody can ping me when I am eating or after 5pm. I deleted Microsoft Outlook so I have no status update emails.
+
+I really liked my job, but I don’t think I am going to go back. I do not have another job lined up. I know that’s a bad idea, but I have enough in savings to feel comfortable quitting when I get back.
+
+My job used to be really cool. And then they fired half my team. And then the other half left because the company thought about outsourcing. I know you’re not supposed to be best friends with the people you worked with, but all the breaches we went through really bonded me to them. We worked awful hours to save the day and we made it happen time and time again.
+
+Now my company has a layoff every few months. I had a private conversation with of the VPs and he told me not to worry about the upcoming layoffs because “people just don’t know how to take it”. He was laid off right after them. They fired one of the few people telling everyone things were okay.
+
+I don’t want to use the word trauma, but my now ex-job has really messed with my head so many ways. I just want to enjoy Security again.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+118,"How do you keep yourself updated and unskilled?
+How do you all keep yourself constantly updated and tbh also keep upskilling yourself? 
+
+I know it depends on what field of cybersecurity one is in, but how do you do it? Is it exhausting to continuously read about new threats/ new bugs/ new breaches/ regulations and also upskill yourself according to it? 
+
+Looking for some tips and insights (newbie here)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+119,"Storytime...
+What has the biggest Fvckup/Outage you have been involved with in a work situation and why was it avoidable?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+120,"Need experienced opinions on how cybersecurity stressors are unique from other information technology job stressors.
+I am seeking to bring in my academic background of psychology and neuroscience into cybersecurity (where i am actually working - don't know why). 
+
+In planning a research study, I would like to get real lived-experience comments on what do you think the demands that cause stress are unique to cybersecurity compared to other information technology jobs? More importantly, how do the roles differ. So, please let me know your roles as well if okay.  You can choose between 1) analyst and 2) administrator to keep it simple. 
+
+  
+One of the things I thought is false positives (please do let me know your thoughts on this specific article as well). [https://medium.com/@sateeshnutulapati/psychological-stress-of-flagging-false-positives-in-the-cybersecurity-space-factors-for-the-a7ded27a36c2](https://medium.com/@sateeshnutulapati/psychological-stress-of-flagging-false-positives-in-the-cybersecurity-space-factors-for-the-a7ded27a36c2)
+
+Using any comments received, I am planning to collaborate with others in neuroscience to conduct a quantitative study.
+
+  
+Appreciate your lived experience!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+121,"I need you guys to yell at me, scare me...
+Tomorrow is my graded project, Friday is my hundred question test. I'm freaking out. Tell me I need to do this. Yell at me, focus me. I require negative reenforcement. I'm a 20 year cyber vet and for whatever reason, this one scares me.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+122,Test your skills,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+123,Therapy Sessions Exposed by Mental Health Care Firm’s Unsecured Database,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+124,"Hmm  this seems big...
+[https://x.com/bukastillo](https://x.com/bukastillo)
+
+  
+So sorry for you fiat guys hope you dont get drained",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+125,"Which tool in your stack you hate the most?
+I’ll start…
+
+I *hate* **QRadar** (Cortex XSiam or whatever).
+
+It’s not that it doesn’t work, but man, navigating that interface feels like trying to solve a Rubik's Cube blindfolded while someone is asking you 17 unrelated questions. The rules are confusing, the alerts are vague, and half the time it feels like it’s just guessing at what’s happening. Debugging anything is an exercise in patience—and despair.
+
+What’s your pick?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+126,"Carrier Outages - Internet Circuits affected now too?
+Just lost connection…",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+127,"To those who ""got out"": What are you doing now and do you like it?
+With so many trying to break into security, I am curious to hear from those who managed to break out. What are you doing? Do you like it? Do you miss the grind? Etc.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+128,"Technical-Managerial Disconnect
+How do others deal with the disconnect that tends to grow when management doesn't have time to hear trends/issues? Say it's a busy week, like holiday season, for instance.
+
+I find that being succinct is difficult for me depending on the situation, but it's ever prescient when I do communicate to management, yet still find myself getting shut down in meetings or told to take it offline.
+
+Is this just a common issue everywhere?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+129,No one’s ready for this,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+130,The War on Passwords Is One Step Closer to Being Over,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+131,"Can I have social life as SOC Analyst?
+(Serious Answers Only)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+132,Exorcise Mystery Processes with Task Manager!,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+134,"Burnout
+I have been feeling burnt out for a while now. Was really hoping that the feelings would go away over the holiday break, but they haven't fully.
+
+I should be more grateful to have the role that I do. The people are nice, they let me work hybrid (mostly from home, few days in office here and there), and I feel more or less appreciated for the things I do.
+
+On the other hand, it's hard to think of the last time I had a low-key day where I wasn't working on an active project and could catch up on learning. I guess there were one or two days here and there over the past 2-3 months. As I finish my ongoing project, I can see the next one(s) coming in the pipeline, and I feel dread.
+
+I am fairly certain that other people are not working on anything, or at least are getting much more downtime, and this makes me feel bitter. Some projects are vastly different than others and require learning so many new things in short periods of time that I feel like I am lost and drowning. Some projects have many stalls caused by client issues, then they flip out and try to rush us through the actual work.
+
+I can't easily leave because postings for similar roles ask for several years experience and certifications that I don't have. I don't even confident in my abilities anymore to actually apply and interview elsewhere.
+
+Rant over.. guess I was wondering if anybody is feeling the same way.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+135,"I had a stroke, wrote a book, and blame the industry, lets change it AMA",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+136,"Is Cybersecurity a depressing Job?
+My family’s been talking about Cybersecurity and they’ve said things like
+ ""its the worst job""
+ ""You’re sitting behind a screen for hours and some people have committed suicide cause the job is so depressing "" 
+""I could never do bachelor of cybersecurity its the worst bachelor degree"" 
+""there’s this guy who did bachelor of cybersecurity cause his parents forced him to because of the pay and he said things like, it was so boring that he was a average/smart person but would intentionally fail the class and dont pay attention""
+ ""What a bad Job"" 
+and more that I wouldn’t want to mention. I am quite young but those around my age already all figured out what they wanna be even years before, all i knew was ""I dont know"" I had a plan b which was if i never found out my dream then I’ll be a lawyer if i liked it not. But recently i found an interest in Coding, Cybersecurity, Hacking, Deep/Dark Web and those stuff but now that my family are like making fun of it and calling it horrible things im rethinking my decision. It does definitely makes me feel bad that I’d have to force myself onto a different path i dont want to go, after finding what i really love but I gotta say i live in a very judgmental family, if you say something ""wrong"" be ready to relive it as much as possible and emotions isnt even a real thing. I’m trying to not change my mind but I don’t know.
+(And I clearly haven’t told them that i wanna be in Cybersecurity cause that’ll make everything worse. I may delete this post too after a while maybe)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+137,"CISA put it all in one place
+first I thought this should go on starting career advice, as the news is about educational material for security clinics. but it seems like I got the wrong flair on it. :D Hope this time it\`s fine, since I really think there\`s some interesting, useful stuff in there. If not, I\`ll just let it go.   
+\---
+
+there\`s an incident response plan template, a guide for small orgs, a ”request a cisa speaker” form for schools, and cybersecurity-based threat vector scenarios - for different industries, including healthcare - to exercise on.
+  
+I thought it was nice to know about it:
+  
+
+  
+https://www.cisa.gov/resources-tools/resources/resources-cybersecurity-clinics",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+138,"Job confusion
+My background: Network and Application Pentester
+Experience: 4 years
+Future Goal: Red Teamer
+
+8 months ago, i switched from an organisation in my own country and came to Dubai and joined an organisation in dubai. They pays me well but the issue is intially i had to manage Application security along with Network VA, But now here i am stuck more in VA and they also gave me designation of VA specialist. As i more engaged in VA related task, i am feeling like my offensive skills are rusting. I am also preparing for OSCP certification.
+
+The issue is neither i am enjoying the work nor i feel connected with VA tasks. causing me anxiety like i am wasting my time just because i am getting good money than my previous organization.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+139,"Managers and above, how often do you work 40+ hours?
+The expectation at my current position is to be working 40+, more like 50, hours a week. My workload is heavy as a manager. I personally refuse to work late nights and weekends especially since my salary is under 130k. Because of this, I’m not behind, but I’m certainly not on top of every thing either. 
+
+I’m at a crossroads to whether I want to continue down the management path, or step back and go back into engineering. 
+
+Is this how most management positions are? Should I expect to lose weekends and evenings with my family to peruse a management career? Or could it be this company and this position? Looking for your personal experiences, thanks!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+140,"What does a job in Cybersecurity actually imply? walk me through a normal day at the office
+So, I am torn between studying Computer Science or Cybersecurity.
+
+What does a Cybersecurity engineer actually do in a normal work day?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+141,"Healthcare in the crosshairs
+https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/amp/",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+142,"Regret as professional cyber security engineer
+What is your biggest regret working as cyber security engineers?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+143,"Limit available up time to infrastructure (Cybersecurity approach)
+I have been suggesting working hours for our datacenter such we can decrease our exposure to threat actors with less ""working hours"".  Has anyone used this approach and can provide their experience with the practice?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+145,"Are you judged for your age at work?
+This is a question for both good and bad judgments.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+146,"More than 80% cybersecurity professionals in India suffering from burnout, claims report; and why it is d
+Is it?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+147,"Neurodiversity
+Any neurodivergent/ADHD folks in the industry here? How has your career been going and how have your condition(s) affected your work performance?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+149,"GRC Burnout
+There have been a few burnout posts on this sub, but this one pertains specifically towards GRC. GRC is a major portion of my job and I thought I was pretty good in this area, but lately compliance enforcement has been like scaling a wall covered in grease. Up until this point, I really liked my job and my company, but I think it may be time to start looking for new opportunities. Has anyone else been in a similar situation specifically with GRC?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+151,Incident Response for Generative AI Workloads: A Structured Approach by AWS,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+152,Career change? 31 year life crisis,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+153,"I think I blew my last interview
+Hello everyone,
+
+I’ll get straight to the point, so basically i’ve been interviewing for this company and things had been going really well up until today, i’ve had 2 interviews and they both went amazing.
+However today, on the 3rd and last interview, which i was told there wasnt really gonna be a “technical questions” component because that was on the 2nd interview. 
+I was suddenly asked a few questions and i just froze, like everything i’ve been studying disappeared from my brain.
+Worst part is after the interview ended everything came Back to me and i suddenly knew how to answer the questions.
+Im not used to freeze under pressure, and this is not something that normally happens to me, but i have no idea what happened in that moment, but my mind just forgot everything.
+I think ill need a miracle to get the job now, even after the first 2 interviews being Good ones.
+Has this happened to any of you guys before? How did you deal with it?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+154,What are the problems in your life you’d pay to solve?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+155,"What's the Job Title for this line of work?
+I am looking to help close the gap in the talent shortage in cybersecurity. I am considering returning to school to obtain a degree in Law and Technology to have a more solid background. As I consider school, does anyone know what type of job title this type of work would be? It wouldn't necessarily be a recruiter, but maybe a workforce analyst? 
+
+  
+For my context, I currently administratively support a cyber education program but am looking to pivot into the field full-time.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+156,Help with a field someone who has a mental challenge (schizophrenia) can get into in cybersecurity,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+157,"Ctf challenge help
+When the air air is more polluted, let's refrain from cracking the crackers.
+
+This hint contains the password to vir machine any ideas",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+158,"Preparing for My First 48-Hour CTF – Feeling Nervous!
+Hey everyone,
+
+I recently got a chance to participate in a 48-hour pentesting evaluation challenge as part of a recruitment process for a Security Analyst position on Thursday. This will be my first-ever CTF-like experience, and to be honest, I’m nervous.
+
+I’ve tried CTFs before but have never been successful in completing any of them. This makes me a bit anxious about how well I’ll perform, especially since this test seems quite critical to move forward in the hiring process. The tasks will involve multiple areas like web, mobile, and network security, and I’ll need to take screenshots of each solved task to submit as proof.
+
+I’m hoping this challenge will be a good learning experience no matter what the outcome is. Any advice on how to approach a 48-hour exam or handle pressure during such challenges would be greatly appreciated! Also, if you’ve been through something similar, I’d love to hear about your experience and how you prepared for it.
+
+Wish me luck! I’ll do my best to make it through and learn as much as I can.Thanks for reading and for any tips you can share!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+160,"Do anyone feeling lost when they start ?
+Hi everyone, i am a student who just wanna learn, but when i see the amount of subject im just lost , doesn't know how to start and just don't do anything. I don't know my level either i just don't know what to do.
+
+My main idea right now is to create a lab and try some basic attacks like mitm ... but idk maybe i have better things to do before that.
+
+I see IT world like a game and I really enjoy but yeah if someone have the same issue when they start how do you fix it ? 
+
+I made plenty of online classes like hack the box rootme etc etc but yeah idk haha 
+
+My text wasn't clear but what i like is to pentesting 
+
+Sorry for my bad english.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+161,"Tired and can't get job
+Hey everyone sorry for my bad English
+I was studying cyber security for about 4 years since last year in high school
+My focus is to be soc analyst and become threat hunter
+Every time I apply for a job they reject me because I'm still in university ""one year and half left"", in my country I can't work until I graduate
+This made me tired because I need money to live well 
+I can't study anymore or practice
+I am so tired and upset and I don't know what to do",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+162,"Learning management
+Hi there,
+
+Just to know and share some tips, how many times do you take for learning new things per day / week, and what’s your favorite method (book, videos, etc.)?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+163,Inside The Outages: A Dangerous Null Pointer Exception Deployed On Friday,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+164,"Which SMB industries are serious about cybersecurity?
+I've noticed that some industries, like healthcare in certain regions, aren't as serious about cybersecurity, often due to budget constraints, lack of tech resources, or other reasons. For example, in the US, healthcare is generally seen as a challenging sector for cybersecurity professionals, with numerous posts discussing the struggles they face:
+
+Sources:
+
+1.  [https://www.reddit.com/r/cybersecurity/comments/ut9epf/anyone\_here\_work\_on\_the\_cybersecurity\_side\_of/](https://www.reddit.com/r/cybersecurity/comments/ut9epf/anyone_here_work_on_the_cybersecurity_side_of/)  
+2.  [https://www.reddit.com/r/cybersecurity/comments/1alxv4d/healthcare\_security\_is\_a\_nightmare\_heres\_why/](https://www.reddit.com/r/cybersecurity/comments/1alxv4d/healthcare_security_is_a_nightmare_heres_why/)  
+3. [https://www.reddit.com/r/cybersecurity/comments/uf9n7l/want\_to\_get\_out\_of\_healthcare\_is\_cybersecurity/](https://www.reddit.com/r/cybersecurity/comments/uf9n7l/want_to_get_out_of_healthcare_is_cybersecurity/)
+
+However, I've noticed that cybersecurity emphasis seems to vary widely by industry and even by country. For instance, healthcare in certain European countries might take cybersecurity much more seriously. I’d love to get insights from the community:
+
+Which countries and SMB industries (especially beyond healthcare) are prioritizing cybersecurity?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+165,"Reddit down in major outage blocking access to web, mobile apps",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+166,novice tries picoctf,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+167,Trilogy Media [full video in description] #nomore #scammer #motivation full video in description,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+168,"Hacker Turned CISO. Fired Multiple Times. Quality Episode
+I've been into this podcast from the start. The host is Scottish. Greg Van Der Gaast is on the pod talking about some crazy shit, hacking a nuclear facility and getting a job offer after it lol. Also, Leadership moves. Burnout. Being fired and how cyber needs to change into the business outcomes logic, which makes sense. 
+
+[https://youtu.be/dFPzI8bSiM8?si=MXfR8F3k-hGMSyFJ](https://youtu.be/dFPzI8bSiM8?si=MXfR8F3k-hGMSyFJ)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+169,"ECB Cyber Stress Test
+Hello. Thank you for existing. Does anyone know any details about the 2024 cyber stress test being administered by the European Central Bank on its 107 supervised banks? Is the questionnaire being used publicly available?
+
+Thanks",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+170,CrowdStrike Windows Outage - What Happened and What to Do Next,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+172,"Cybersecurity and Public Health
+I’m currently working in public health and although I enjoy it, I don’t really enjoy the area I specialize in, which would be mental health promotion and suicide prevention. I’ve been interested in Cybersecurity for a bit and was wondering if there are any areas in the field that would let me utilize my public health background as well? Thanks in advance!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+173,"Psychological Minefields
+Is this something one should expect anywhere (but potentially more so in cyber)? First rodeo with narcissistic personalities, being disregarded, not included, and overtalked in meetings when asked a question, rampant credit stealing. 
+
+Had expected the workaholism, but the others are quite new. Not new to IT, despite being addressed behaviors seem to continue... Curious of any first hand experience and personal takes",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+175,XZ Utils Rundown: What We Learned and What To Do Next,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+176,"I’m beyond burnt out
+I’m not really sure what I hope to achieve by posting this, perhaps some confirmation it’s not just me, and I’m not alone. 
+
+I work as a senior information security manager for a large corporation and I’m so close to total burnout it’s unreal. I just don’t know how much more of this I can take.
+
+The role itself is really interesting and I enjoy what I do, but everyday, every conversation with engineering feels like a battle. I’ve tried everything, but nothing works. No matter how collaborative I try to be they just want to do their own thing and slow roll anything we need or ask for. This is pervasive across the whole department, from the management team down.
+
+I’ve had multiple instances where I’ve secured funding for projects based on their costs, only to have them jack up the costs once budgets are approved.
+
+They complain they have no resources to work on projects we’ve highlighted as priorities but then they have plenty of time for pet projects or other security items they want to do.
+
+They cut us out of every conversation, but I don’t understand what. We’re really collaborative, we never just say ‘no’..
+
+I’m constantly second guessing myself now and my approach. I soften everything for fear this is somehow my fault and I’m approaching things in the wrong way, but in my heart of hearts I know it’s not me.
+
+I honestly wanted to quit today.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+177,"SOC analysts, how stressful is your role?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+178,"Stress, Mindfulness, & Mental Health in Cybersecurity - Matt Jay, Head of Software Security @ Reddit",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+179,"Warning, thought leaders of tomorrow hard at work",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+181,"Cybersecurity: Exciting but eventually burned out?
+I've seen a lot of posts and comment say about the same thing, they get into the field excited about fighting cybercrime and looking over security systems. But then after a month or a year, Burnout hits.
+
+Cybersecurity is interesting, you get to make a real difference, and there is this cool factor to catch bad actors.
+
+My question here, is cybersecurity a recipe for burnout, or can you keep it like it first started?
+ 
+Tell me what might cause the burnout or overwhelming and how to build a cybersecurity career that's both fulfilling and sustainable.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+182,"Too stressed
+After working nearly two years in CyberSec, I think I've started to realise this isn't the industry for me. I always feel behind, and the amount of work is sometimes unbearable.
+
+Does anyone know of another industry that would be better suited for me? I work on the blue team side of things, but I don't feel like I've learned what I should have in the two years I've been here. There are so many security tools, vulnerabilities, and exploits; it's too overwhelming.""
+
+Any help would be greatly appreciated.
+
+Thanks.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+184,"Boredom and stuck
+Typically burnout is due to being overworked / stressed, but also this is a form of burnout I guess… but labelled as career just in case. 
+
+My current job is boring me to death. I work for a large financial services org, been here 4 years. My role is providing per change security advisory/architecture. The only challenges I face really is dealing with internal politics. Much of the cyber aspects of the role is cyber theatrics. 
+
+I still do a little often in terms of up-skilling, learning and trying out things. Thankfully I have a healthy work life balance as well, I exercise, good relationship, good friends, travel etc. I just have this sense of malaise at work and development.
+
+Trying to find a new job atm is proving a challenge. All the jobs I see look are equally or more dull, or I actually feel de-skilled in some ways so anything that’s more interesting scares me a bit. In the past I’ve been more ballsy and went for a challenge.
+
+In short I’m in a rut. Change would do me good but it’s hard to get out the treacle. So looking to anyone else in cyber that’s worked in a large depressingly dull job, what did you do to perk yourself up and make a move?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+185,"Are Cybersecurity Professionals Experiencing the ""Quiet Quitting"" Trend?
+Lately, I've been noticing something interesting in the cybersecurity world. It looks like a lot of us are kind of ""quiet quitting"" - a state where you are not outright leaving your job, but you are disengaging from your work and tasks, doing the bare minimum, or losing the passion you once had for the field. I'm guessing this could be a means to avoid burnout in our field.
+
+What do you guys think? Have you felt your work attitude changing too? I'm curious to know about what all could be causing or changing this shift.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+186,"What keeps you and your team up at night?
+I come from a technical background (as in I build software for fun) and passionate about cybersecurity (spent a good amount of time in the phishing sim + sat space), and I'm super curious to learn about what kind of problems you and your team face at your job that are critical. If anything sounds interesting to me / something I can build out a solution for quickly, I'll build it out for you.
+
+It can be truly anything, whatever is the top concern / priority for you and your team for which you wished a solution existed!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+187,"What’s your role and what’s the breakdown of boring / fun tasks?
+For example: 80% boring tasks and 20% fun tasks. 
+
+**Boring Tasks**:
+
+Documentation, meetings, logging, etc. 
+
+**Fun Tasks**:
+
+Anything that gets your juices going.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+188,"Rehabilitation clinic in Toronto, criminal behaviour (HM Medical  clinic Network LTD , 1122 Finch Ave West, North York, Ontario).
+For more details check the information below this video.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+189,"Burnout
+Anyone ever feel they would just want a “normal job”. 
+
+Zero disrespect to anyone that has a different job, no offence meant. 
+
+Iv been in cybersecurity 6.5 years now have had multiple roles and generally very very happy with the line of work. 
+
+BUT I am starting to feel I would just want a job where I can go do what I need to do and go home. The nature of the field of work is very fast paced meaning the constant upkeep in news , threats , vulnerabilities and general information sometimes gets a bit much ! 
+
+And the constant need to up skill is a killer sometimes when you just want to work away for a while if life is super busy outside work. 
+
+For context I got my degree in cybersecurity nearly 7 years ago. Since then I feel like it’s been nonstop and a bit of a pressure cooker since then. 
+
+Granted maybe I need a new role with a different company that has more of a balance. 
+
+But can’t help feel I’d love to just have a job and go home and not worry about anything in between. 
+
+
+If and when you have felt like this what steps did you take to shake it up and help ?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+190,What skill do you have that  makes you instantly employable?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+191,"Wasting Time?!
+How often do you waste on preparation before even beginning the task you set out to complete? To elaborate, I usually run into issues with configuring dependencies or even locating particular tools or resources before I can proceed with a task or learning exercise. Do you feel like this is a regular occurrence for yourself and if it is, for how long are you usually derailed. To clarify this isn't a request for advice just a general question geared toward the community.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+193,"How do you deal with Escapism
+Hey folks   
+I'm a mid senior security professional at a 2000 employee size company and with my current career trajectory - I'm seeing myself as a CISO within 2 years. 
+
+Given the already stress environment I'm in . How do CISOs manage it?
+
+I thought of running a personal project on ""CISO therapy"" but I want topics to talk about   
+  
+My way of escapism is binge watching science-fiction and travelling but I'm not sure whether this is case for most
+
+So im looking for commonalities before starting off 
+
+I dont want to add on to the already backlog list I have. Just a passion project",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+194,"What frustrates you the most about working in the field, and what keeps you going anyway?
+Hey everyone! I wanted to ask about your experience working in cybersecurity. What are the most difficult parts of your day-to-day work, and what motivates you to keep going?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+195,"What’s your day to day job as L2 .?
+How you start ur day.? Which tool you spend most of ur time.? What are the issues that keeps resurfacing. What are the incidents patterns these days and top 5 common alerts you handle.!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+197,"Feeling Stuck as a SOC Analyst – Advice for Growth and Project Ideas.
+Hey everyone,
+
+I'm currently the only junior SOC analyst on my team, and even though I can manage the workload, I feel like I'm constantly assigned low-level tasks—mainly dealing with alert fatigue and basic monitoring. It's becoming monotonous, and I don't feel like I'm being challenged or learning as much as I'd like, which  is causing me to lose interest.
+
+I've asked to take on more technical projects, but I'm often told they're ""too technical"" or ""above my level."" I want to level up my skills, not just to grow in my current role, but also to qualify for better opportunities elsewhere.
+
+I'm planning to use platforms like TryHackMe and Hack The Box, but I’d really appreciate any advice on projects or areas to focus on that can help me elevate my skills. How can I push myself to the next level, even if I'm not getting that experience at work?
+
+Thanks in advance for any advice.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+198,Absorbing information as a beginner,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+199,"Application Burnout
+Hello all. Thank you for your guidance thus far. At this time, I have consulted persons on linkedin and elsewhere about career advice and best resume formats. I have also started a splunk homelab and obtained my CEH cert, on top of a four degree and SEC+, as well as continuous learning through coursera and tryhackme. Even with all of that, I have only had two interviews (out of 162 job applications submitted) that went no where. I personally feel like I am running out of options, and beginning to think I have wasted my time trying to further my career. I even considered throwing money at the problem and getting paid career advice from Jon Good or Unixguy and even doing the CISSP. What should I do ?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+200,"Combatting impostor syndrome???
+I’ve been dealing with a lot of  imposter syndrome. I have a therapist which I see. I am in a role I am starting to grow unhappy with. This prompted me to get my masters in forensics and my sec+ certification. This is due to a toxic work culture, and a team member who constantly made me feel bad about myself. That team member recently got fired for unrelated reasons. 
+
+I’m looking to pivot into a SOC analyst or an incident response role. Job hunting as been very tough on me too. The economy isn’t making it much easier. 
+
+From a mixture of toxic work and no luck finding work, I’ve feel into a deep depression. I feel a sense of doom constantly. I cannot take a vacation right now  either. I feel like a disappointment to my family because I don’t have that fancy job. 
+
+I also have a blog where I post my projects. But it hasn’t helped me much. But I still do it with hopes someone will see me as smart. 
+
+What do I do?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+201,"WORKFORCE WIRE The more workers use AI, the more they worry about their job security, survey finds",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+202,"Might be a dumb question
+But I go to wgu and I’m working on my a+ why do I already feel like I have imposter syndrome, like I study everyday and I work hard but I just can’t get the information through my head it’s starting to get annoying and I’m not sure what I’m doing wrong.  
+
+P.s. I know it’s the absolute bottom of certification but it’s kicking my butt",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+203,"Fortinet Warns of Critical Vulnerability in FortiManager Under Active Exploitation
+I feel bad for the employees lol",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+204,"I have an interview for my dream job..but..
+Hi everyone! I got myself a job interview for the role of Cybersecurity Analyst and I'm so excited. As a 24 y/o who just got his BD in CS whilst working in another domain, I thought that job interviews cannot make me feel nervous, well.. this one got me shaking. Any advice on how should I calm down and how should I face it?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+205,"Passed ISC2 CC
+Last Friday, I passed the ISC2 CC exam, and while I'm pleased to have completed it, there was something that didn’t sit well with me. The challenging aspects of the exam seemed to be focused on testing a deep understanding of the material rather than just surface-level knowledge, which I can appreciate. However, some questions had intentionally tricky wording, which felt like it was more about tripping people up than genuinely testing their knowledge. Personally, I found this a bit frustrating.
+
+I’m curious if it’s just me, or did anyone else feel like the wording was designed to be deliberately confusing?
+
+For some context, I already hold the Security+ and Certified Ethical Hacker certifications, so I didn’t necessarily need the ISC2 CC for my career. Honestly, I took the exam mainly because I had some extra time on my hands and it was free. That said, I’m glad I did it, as it was a good way to reinforce my foundational knowledge.
+
+For anyone preparing, I’d recommend focusing not just on memorization but on truly understanding the concepts, as this will help you navigate the curveballs they throw at you.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+206,Join our community!,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+207,"SOC analyst in Bank vs MSSP
+Searched on the subreddit, although didn't find any post directly comparing the two.
+
+I work in MSSP as analyst some of the days and engineer on other. After a year I find it chaotic and very stressful. Milion technologies, use cases and platforms built on the knee of some engineer, everyone with some tech specialization works on their sand, there's not much documented - we find ourselves doing the same tasks and asking the same people on how with tribal knowledge, lacking communication within team, no standards of work or deliverables, lack of mentoring and knowledge sharing, lack of management interest to change anything apart from talking about it. You have to be genius or uber kissass to meaningfully jump up.
+
+That being said I have no satisfaction in resolving queue alerts or project tasks, colleague collaboration or having will to learn tech or do some cert..
+
+As I am having some offer to do analyst work in international bank. Wondering how it is there. Anyone can say anything about it or compare? How about workload, stress level, structure of everyday working?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+208,"Cybersec team leaders, what pisses you off the most in your work?
+Hey folks,
+
+Just wanted to vent a bit and hear from other cybersec team leaders out there. What's the one thing that drives you up the wall in your job?
+
+Is it dealing with upper management who don't get it? The struggle to prioritize countless security alerts? Endless compliance paperwork? People who ignore security protocols? The challenge of keeping your team motivated?
+
+Would love to hear your stories and maybe share some laughs (or cries) about the daily grind.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+209,"For those actively in the job market and having trouble, what specifically is the hardest part?
+hey gang, I've been hearing a lot of folks vent about their experience on the job market which got me curious. I feel like the current knee-jerk response to the title is roughly ""bad job market"" but its so indirect and abstracted from what you actually go through in your job search. 
+
+I'm talking thinking like creating a resume, never hearing back on your applications, going through too many interviews for nothing, etc. Yall get it- so whats the most painful part of your search?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+210,"Is anyone here that works in cybersecurity or tech openly autistic at work?
+Really don’t know if this is allowed, but I am curious and looking to feel less alone about this in this field. Thanks!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+211,"Tabletop Exercise - IT Head being let go at the end of the week.
+Short and sweet scenario presented by one of our consultants:
+
+Head of IT is being let go at the end of the week, what needs to be done to ensure smooth transition operationally and prevent insider threats?
+
+What are the key risks to consider? People to involve? Lessons learned? 
+
+Would love to lean on y'all's experience for similar scenarios you've dealt with in the real world.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+212,"Are hours more flexible or do they need a 9-5 type person?
+I’m coming from the tech sales world",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+213,"ADHD, passion and focus
+I’m curious to know which areas of cybersecurity people with ADHD find most engaging and are successful in.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+214,"Feasibility of a career change using past military intelligence experience
+Last year, after serving for 15 years, I left the military. Prior to leaving I’d decided to commit to a career in cybersecurity as I felt a real sense of excitement when envisioning myself in the industry, and I felt that my natural stengths, such as my analytical skills, would suit it well. After studying for a little while, I got jittery knees and changed my mind - instead opting for a career in exciting world of Health and Safety. I done this because I was on a short time line after getting medically discharged from the military after developing a viral brain infection, and I was also suffering with some cognitive impairment that made me question my suitability to move into an industry that required a great deal of cognitive function.
+
+In short, I took the easy, risk-free option.
+
+I’ve since recovered very well from the brain injury, and I’m currently in a health and safety management role on a salery of £50k. But it’s tedious and boring, and I feel a deep sense of not belonging here. I get very little enjoyment from my job. It feels very forced.
+
+This, naturally, has made me begin to question my choice, and I’ve began looking at the possibility of jumping ship into the cybersecurity world again. But I have my doubts on how realistic this is for me.
+
+The roadblocks now are mainly financial. I could take a pay cut down to ~£35k, but I’m a homeowner and married with 3 children, so i couldn’t realistically go lower than that. I also question employment opportunities that would be realistically available to me, and I’m almost 37, so I’m no spring chicken. 
+
+If I were to commit to this, I’d look to use my experience with military intelligence to jump straight into a mid-level cyber intelligence role - which is something that I’ve been advised is attainable by a friend in the industry that is head of cybersecurity for a bank. 
+
+Where do I sit with all of this? Are my aspirations unrealistic, and therefor I ought to just put up and continue in the H&S career that I’ve landed myself in, or is there a realistic opportunity for me to gain employment within the industry on that salary. Blunt and honest answers are very welcomed. 
+
+For context; I’m UK based.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+215,"When do you think it’s time to look for a new job
+I’m curious to get this groups thoughts on when they think it’s time to look for a new job. I know it’s different for everyone but I was curious to see how others process it.
+
+Is it when your boss makes you mad, when you get bored, are you one of those people that think every 2 years you should be up or out?
+
+Let me know",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+216,"Working for an MDR (Ponderance)
+Hey everyone! I got head hunted by a recruiter on LinkedIn the other day for an MDR company named Ponderance doing incident response work. I've been working as a consultant in Incident Response for the last several years, so the work itself sounds very similar to what I do. I typically ignore the recruitment messages on LinkedIn, but for whatever reason, this one caught my eye. My primary question is:
+
+1. Has anyone heard of this company before or had any experience working there? I could find almost nothing about it online, which seems like a red flag.
+
+2. Ponderance is a 24/7 MDR response center. What's the typical work-life balance for something like this? I already feel largely burned out with consulting, and I feel like I'm working every evening, weekend, and holiday. I feel guilty whenever I have any plans outside of work, and I get pinged by my colleagues day and night about case work. I know I need a new job, but I'm worried I'll be jumping from the frying pan into the fire for something like this. Do 24/7 shops typically have enough people to balance out the work between shifts, or is it a small number of people being worked to death to cover all 24 hours every day?
+
+3. I couldn't find any info about the company on Reddit, which again, feels unsettling. I'm very worried about changing jobs and getting duped into working significant overtime hours again. Is it necessarily a bad sign that a company doesn't have a big online presence? I'm not sure if they're new or just a very small company.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+217,Southwest Airlines Hit by Booking Outage and Slowdown Across the US,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+218,A global tech outage brought many computer systems and businesses to a screeching halt. Here’s what happened,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+219,"Feeling Burnt Out
+Hello,
+
+I dont know where to begin, Ive been working as a SOC L1 for the last 6 months and the experience has been great (to an extent) Ive met alot of great and knowledgeable people in this field and other fields, but idont know if I can tolerate the 24/7/365 shifts especially at my pay (i live in Lebanon and its suffering from a financial problem, and my pay is close to 700$)
+
+Ive learned alot in the past 6 months and when I say alot i mean ALOT. Ive become very familiar with Azure and Investigating on there, in addition to Investigating and navigating FortiEDR, also managing Ransomware Cases and understanding how to deal in such cases (start ripping out wires and going mental) (that was a joke) in addition to conducting VAs and many more skills ofc under supervision of our TeamLeader where I asked alot of questions.
+
+But idont know how to describe it, its like im getting overwhelmed, even when i take days off. okay i get my 2 days off to cool down but whenever i return its just hectic. there are few issues here and there but i feel like im getting drained, i cant simply quit and search for another job its so Hectic here and the pay is low. Ive tried applying abroad but every email is ""unfortunately"" and frankly nobody would visa sponsor a fresh grad with almost 1 year of experience abroad. I really love cybersecurity and I dont want to leave it but i just want a little break to relax work in an environment that is actually cyber not a mix of few things with a tad of cyber (i wish i could go into details regarding this but i cant and it hurts). is there something in cybersecurity where it isnt 24/7/365 and is also technical? or idk please give out your opinion id like to hear soemthing",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+220,Hello Everyone,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+221,"I was called into an IT interview to get trolled
+I applied for a job on indeed, got contacted for an interview and right of the bat something fell off. I knew it my stomach they were calling me to troll, but they failed miserably. I have a bachelors in cybersecurity, I don't have any certs because I'm not an IT person I just applied because I wanted to see it helped breaking into IT. Well, the moment they got on cam I could tell they were off, the pay was way too low and they made it seem like they wanted me to beg for the job. Then some other guy jumps on and gives me a technical quiz on the spot, he gave me some of the most random basic A+ questions like what is ""NTFS"". He said he had twenty questions for me, when I got 8 out of ten right he decided to end the questions when he saw that I wasn't gonna fail for them to talk to me about me and laugh about it.. toxic af this is why I always avoided these IT help desk jobs.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+222,"SOC = PAIN
+I've recently started as a Sec Analyst and as much as shift work is common in many 24/7 industries. There's something about triaging alerts at 3am that's breaking my mind, I love the field and am incredibly excited to be working in it but I'm hoping I can 'pay my dues' and move into a non shift role in the next couple years.
+
+Anyone experienced this and found the shift work fine? Am I just not adjusted yet?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+223,"Is it ok to be avearge on your job ?
+I want to reach a certain level as a pentester and then just stay in a routine. I read and watch the latest trends but I just don't want to get to hard into pentesting. I worked in SOC and it was really chill, just routine stuff all day long.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+224,NPM flooding case-study: “Down the Rabbit Hole looking for a Tea”,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+225,"Security clearance
+I have a question about security clearance. I am currrntly going through a very hard time mentally and am contemplating taking anti-depressant medication. What I don't want to happen is that I apply to jobs down the line and I flag on a security clearance check due to being on these medications and being diagnosed with anxiety. Would anyone fail clearance for this or is it all in my head?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+226,Is Your 2024 Awareness Program Ready to Transform Employee Behavior?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+228,CISOasis - the world's first cybersecurity meditation app (an early April Fool's joke by Wiz),1,1,Few-Shot-CoT_BERT,bert-base-uncased
+229,"Help Me by Sharing Your Career Break Experience
+Hi everyone, I landed a security consulting job last year and have been miserable since. No work life balance, rowdy clients, etc. As a result, my health has been deteriorating since I then. So I have been considering a career break for about 6-12 months (depending on when I will land another job).
+
+Can anyone share their career-break experience and how it impacts your life? I just want another perspective from people in security to push/deter me from pursuing this",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+230,"Lone ISSE at job
+I started a new job 4 months ago - I'm the only security engineer in the company and I'm being made to feel like a pariah. I expected being the lone security engineer would be a challenge but when I make statements explaining why we need MFA the pitchforks and torches come out and I'm warned to ""not bring down any systems.""
+
+I'm employed so I have to count my blessings at least.
+
+Any help or love from my peers is appreciated.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+233,ROP Emporium - ret2win Buffer Overflow Challenge,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+234,Smoked Out: Uncovering the Life & Personality of a SmokeLoader Actor Targeted by Operation Endgame,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+235,Why Meta(Facebook) was Down?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+236,Red Temers: What’s the question your boss always asks that makes you roll your eyes a bit?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+237,"If you work a “normal” 40 hour work week, how did you get there?
+I’m not even in the cybersecurity industry yet as I am currently completing a bachelors degree in it, however I’ve seen based on people here and irl that the average cybersecurity workload/schedule can be horrendous. I think this is an awesome field with fantastic opportunities, but working insane hours doesn’t sit well with me. 
+
+To those of you who work 40+, does the pay make it worth it to you? Why or why not?
+
+To those of you who work <40, does the pay suck? If not, how did you get there?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+238,"Expected/Average Completion Time for completing OverTheWire? or How much time it took you complete it.
+Hey all,  
+  
+Could someone please shed some light on How much time should i take to complete OverTheWire(Level 0 to 3,4) or How much time i should set as my goal? Should I even complete all levels of challanges? I have some background in Cyber Security/Network Security. Well versed with basic concepts of cyber security. Some examples include cryptography, Malware, phishing, DDos, Injections, some basic linux commands etc. , I can program in Java, Python, C++ but not shell. Any thoughts or even related info will be appreciated.  
+Thanks a lot.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+239,Cisco Now Profits Billions And Makes Thousands of Unexpected Layoffs,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+240,GetSyscallStubGo,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+241,"For the peeps in vulnerability management, what are yall’s day to day?
+Im supposed to be “managing” our vulnerability management program at my current company and I feel as if I’m not doing too much on a day to day basis and if I am it’s typically clean up type tasks. The vulnerabilities found from the scans are fed into our chosen repository for them in which all the various system owners meet every week to go and remediate. So it feels as if I’m not as involved in this program as much as i should be but idk. Any thoughts on ways for me to get more hands on or involved?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+242,What Are the Biggest Networking Pain Points for You As A Startup Founder?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+243,"what is the most difficult project you implemented in IAM space?
+what is the most difficult project you implemented in IAM space?
+
+This question is asked mulitiple times in interview but i dont have anything impressive to tell.Can anyone share their experience ?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+244,"Job market burnout
+Anyone else having bad luck with the job market? I recently went through an interview process through a referral and thought it went well through both stages. I asked for feedback at the end of each and the first one I received good tips and praise. For the second round I took the advice and felt I knocked it out of the park only to get a rejection email a month later. Asked for feedback to HR on why they decided to move forward with someone else, was promised a call about it the next day and got ignored when I went to follow up. I feel like I’ve been putting my heart and soul into preparing for these and lately I’ve just been striking out as opposed to how it was a couple years ago. 
+
+I have about 4.5 years experience and have been leading IR for about 2+ years at my company. The last job I interviewed for was a TI position requiring 2 years exp which is what I want to do. I just keep striking out and I’m not sure what else to do. Any advice from you folks? 
+
+Some part of me is leaning toward getting out altogether but I don’t want to quit this field just yet. I really want to pivot back into threat intelligence.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+245,"How can cybersecurity practices be redesigned or enhanced to better cater to the emotional well-being of cybersecurity professionals?
+Im doing market research on cybersecurity and want to know what thing could be changed to fit the emotional needs of people who do cybersecurity?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+246,Delta's CEO says the CrowdStrike outage cost the airline $500 million in 5 days,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+247,What makes people desire to work in cybersecurity?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+248,"So which one of you screwed up half the internet?
+I'm sure all of your inboxes are just as full. What a wonderful day we all have ahead of us.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+249,"I Passed the CCISO Exam! 🎉
+After months of hard work, learning from various resources, and completing online training, I finally passed the CCISO exam! The journey was tough but totally worth it. 💪🔥",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+250,How to continue learning without any rewards.,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+251,"Intro to Stack Game
+Intro to Stack Game：https://securaize.substack.com/p/intro-to-stack-game",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+252,"Moving Security into HR
+I’m not trolling. Any advice for this? It’s so left field. Our IT team is under HR as well. HR have zero knowledge on these subjects and carry a lot of weight in the company.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+253,"Should I continue Cyber or Psychiatrist due to how the job market is in the computer field right now?
+I am currently lost I like both fields yet one is on the computer side while the other is in the medical side. I have seen how the job market is in the computer field and it very competitive yet very hard for people that are in the IT with B.S. to land a job, and in the psychology I am unsure but I do feel like I will have a higher chance landing a job there then in cyber. The only problem is that I do not know what I should purse I have knowledge on both fields and I could be well on both. Any suggestions?  
+  
+I have experience in C++, Front-end development, some python, and currently have some projects done with C++. In psychology I am very good at understanding, communicating, listen, empathy, and giving advice.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+254,American Water warns of billing outages after finding hackers in its systems,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+255,"SANS work study program
+I just got accepted into the SANS work study program and wanted to know what it’s like for those that have done it before. For clarity I was selected to be a moderator. Mainly applied for a discounted SANS certification.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+256,"Poll: What I'm lacking ?
+I thought I'm good enough,  some working security professionals called me good enough, but the results don't match up. 
+
+R'es*ume pics in comments.
+
+[View Poll](https://www.reddit.com/poll/1d19akx)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+257,The one where you avoided a disaster,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+258,"What type of training tools does your organization use?
+[View Poll](https://www.reddit.com/poll/1he12yr)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+259,How Spoutible’s Leaky API Spurted out a Deluge of Personal Data,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+260,How the world’s tech crashed all at once,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+261,Would taking the EJPT enough to get a job or being a part time bug hunter?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+262,"I am a member of .;,;. AMA!
+our team: [ctf.gg](http://ctf.gg)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+263,Memory Dumps for Practice,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+264,Memory Dumps for Practice,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+265,"My boss completed some of my work for me and now I feel like I look really bad. How can I fix this?
+I posted this recently and got a lot of hate and brutal comments, so thought I'd make this more clear. My boss put me on this project to troubleshoot a bunch of machines. It's been ongoing but he sent me a new list for it 1-2 weeks ago. Some days, I was slow with it and some other days, I had other tasking so I'd focus on those first. I hadn't made a huge dent in the list but I made it through almost half in a week. When I say I was slow with it, I mean this is how I would do it: If a machine was giving me issues, I'd move on to the next, or I'd have to message somebody else about it. Sometimes, I'd be stupidly stuck on a machine and be like ""this isn't working"" and have my boss tell me much later that the OS version isn't compatible with an application I'd try to install on it. 
+
+Anyways, on Thursday, he sent an email to me and a couple others saying that the progress seemed to be better and thanked us three and gave us a couple notes to keep in mind. Yesterday (Monday), he sends an updated list of machines. He sends me a message letting me know and he was like ""You are probably tired of chasing this squirrel"". I told him it's no worries. I was stressed out about a couple things yesterday and was in my head about them and I also had a couple meetings, so I was being really slow working on the updated list of machines. My boss started working on the list and was sending me updates as he was going down the list, so I tracked a couple of the other machines down and I was focusing on one difficult machine that was having trouble installing an application on. 
+
+I left things up in the air when I left for the day, and figured I'd pick up where I left off when I came in today morning. I co go me in today morning, and I'm looking at emails and any chats I missed, and 30 minutes in, my boss tells me he's made more progress on the updated list he sent yesterday. He literally finished half of it at this point. I told him I'm currently looking at the few machines I took a look at yesterday (and specified the names of them), and he said he already finished those! He even finished the difficult one that was having trouble installing things and it's working fine now! I feel like I look incredibly incompetent. How can I make this up?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+267,"BCP for massive personnel loss
+Hi.  
+A short while ago i read an article about a company where around 200 people got sick after a christmas party, and the comments talked about having a plan for this in their Business continuity plan.  
+
+
+If your entire infrastructure team gets the runs after some cooling desk sushi or whatever, what is in your BCP for this?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+268,"Another day, another breach
+MediSecure Australia",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+269,"Crowdstrike suffers major outage affecting businesses around the world
+https://www.cnbc.com/2024/07/19/crowdstrike-suffers-major-outage-affecting-businesses-around-the-world.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+270,"What are some basic mental models in cybersecurity for those who are complete cybersecurity newbs?
+With all the data breaches, I'm trying to protect my family and I from cybersecurity threats against our household. I don't have any basic understanding of cybersecurity and it feels like I'm just doing things based on basic advice (enabling MFA on important accounts, using a password manager and not re-using passwords, not clicking on sketchy links). 
+
+Are there any basic mental models for me to understand to start to grasp basic cybersecurity concepts? Where do I learn more about cybersecurity as I am just getting into it?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+271,"Enjoy this tool list! My sophisticated, kernel, root hackers tools.
+Heya! I've been in a never ending battle to win back my machine. It has cost me around 5-7 windows machines. After combating them daily, and after discovering ways they got into my system using satellites, blue tooth, and even using the power cable, I decided to make the switch to Linux. Nitrux even.
+
+  
+Now all this is enough to make anyone paranoid, and being the skeptic I am, i had to run many tests to make sure I wasn't simply hacking myself. That was fun. The obvious appearance of some things such as another linux distribution, Ubuntu, as well as a whole bunch of new python scripts and libraries, along with a ""oh-my-zsh"" install, and a huge command list from Powerlevel 9k and I was pretty convinced that I was indeed, being targeted. 
+
+The battle continues, I still manage to humbly get on here to make this post after doing more mods to thier system built on my system which was automatically reinstalling no matter what I deleted and I spent the day going through running every command available. (Aside from the ones like panic, and ""yes"")
+
+I've discovered some more interesting things I thought you'd enjoy me sharing! 
+
+#1. 2 million plus pages of RAM. around 1 million pages of ram running on thier remote machine. Wowza! Whats that smell like?
+
+#2. They have stuff installed not only in my root, but right on top of the kernel. In the kernel.
+
+#3. the internet is (was) looped and looped again. At this point I'm pretty sure even if you remoted in and looked, it would just look like me battling against myself. \*eyeroll\* 
+
+#4. I think it was for intimidation purposes, but now residing in my root directory is a list of programs and stuff they are using. There is a start file, and an end file.  Having ruled out this being my own government, I think its probably safe to post said lists here for everyone to take a gander at. Just to give you an idea of what I'm dealing with, and well to let them know how sick and tired I am of playing host to thier stupid data collection that they've been running on my hardware for so many years.
+
+I don't expect any help, at this point its like picking at a wart, but feel free to throw in your two cents and interpretations. Oh and of Note here is my entire list of applications that I currently have installed: Notepadqq (firejailed not working), Reaper 617 (firejailed not working), Musescore (havent opened yet), vlc media player (no media to play but it works!), Infectionmonkey(firejailed), Libreoffice (yay i can spreadsheet), Inskape, Blender, Krita, Upscayle, Firefox, station.
+
+And now, here is my guests list of software. Enjoy!
+
+  
+Will try to leave in comments",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+272,so bitwarden or 1pass?,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+273,Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+275,"My TechJourney …
+Evening everyone, My name is Thomas and I’m 21  for those of you following my journey from failing my security+ exam 601 4 times or even 5 I lost count by only 5% or so coming up short I decided not to give up and proceed onto the 701 I’ve learnt alot I’m someone who is coming up to 2 years experience in IT and I’ve started showcasing my tech journey into cyber security and beyond, that’ll I share with you all follow me on my journey by following my TikTok : ThomasInTech_
+
+Here I’ll share my journey from failure of the 601 up until exam day where I pass my 701 exam end of next month and more as I enter into cybersecurity and crypto, they’ll also be IT gems that I’ll share!!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+276,"Favorite SOAR Workflows
+Figured this would be a fun discussion. What are your favorite SOAR workflows you have?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+277,"So I just got jumped in a meeting...
+Basically our App Support team is complaining because we (Security) are making too much work for them and submitting too many tickets for security findings and that we need to provide better guidance on what changes we want done.
+
+I'm like, uh, it's not my job to manage your workload or dictate your priorities. It's my job to identify security concerns and report them to the appropriate system owners. 
+
+We can and will support those teams in helping to identify their priorities and provide guidance on how to mitigate findings, but ultimately how that gets done, by whom, on what timeline and priority is completely up to the team responsible for managing and maintaining the system. Not me or my team.
+ 
+I'm not trying to just throw shit over the fence and make our findings someone else's problems but I've also gotten my knuckles rapped for being too firm in trying to push priorities and remediations onto system owners before. 
+
+Anyone else experience this sort of challenge in their orgs before? How did you address it? Any advice?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+278,"""‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips""
+[Wired article](https://www.wired.com/story/amd-chip-sinkclose-flaw/) from Andy Greenberg.
+
+Doesn't look nearly *Spectre/Meltdown* level bad, but expect a lot of hype/news coverage as this drops at Defcon tomorrow.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+279,"CISOs: What Keeps You Up at Night?
+Hi r/cybersecurity community,
+
+I’m curious to hear from CISOs and senior cybersecurity professionals: what are the biggest challenges or threats that keep you up at night? Whether it’s emerging threats, internal processes, compliance pressure, or resource constraints, I’d love to hear your insights on the most pressing issues in cybersecurity today.
+
+Looking forward to hearing your thoughts, thanks!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+280,My Journey on eWPTXv2,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+281,The Tragic Downfall Of Nulled.to,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+282,"Australian airport avoids Global IT outage
+In my opinion our media (at least in Australia) has some responsibility in the lack of organizational cyber maturity through the shear amount of inaccurate reporting around breaches that occur, choosing sensationalism to sell advertisements and in turn causing senior execs to believe the crap that get published. 
+
+Today one of our ""premier"" news outlets decided to interview a company Port Hedland Airport - middle of nowhere Australia as to how they survived the outage which caused so much trouble globally....
+
+TLDR:
+
+- Port Hedland Airport does not run the software in question
+
+- The CEO doesn't know what they do run
+
+- When looking out the window, there conveyor belts were still running so they were good
+
+- They had another ""cloud""
+
+I am not making this up, seriously the most pointless article I have ever read.
+
+I wrote about it below but would love to know what examples you have:
+
+[https://kicksec.io/avoiding-a-global-outage-by-not-running-the-software-that-caused-it/](https://kicksec.io/avoiding-a-global-outage-by-not-running-the-software-that-caused-it/)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+283,"Hard to study
+I really love red teaming and hacking but i find it hard to stay motivated and to keep myself studying.
+
+I feel like if i dont study every single day then i will never make it, so whenever i take a break I feel awful
+
+I find it hard to play any game because i feel like im wasting time when i should be studying
+
+
+Furthermore I feel like im getting too old to do hacking whenever i see younger people talk about it and show their stuff (im 20) 
+
+Is this normal? Any suggestions to make myself study?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+284,"Grid Down Power Up
+Have you seen this full documentary? The 7-minute trailer gives you an idea of the content.
+
+Viewer reviews? Thoughts? (full 56-minute documentary available on Vimeo)
+
+https://griddownpowerup.com/",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+285,The Times: Litigation boom to follow CrowdStrike IT outage,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+286,Passkeys: A Shattered Dream,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+287,"Pushback - rant
+A bit of a background, I'm a Security Engineer working in the banking industry. Prior to this I came from a company that was pretty lax. Meaning, no red tape - things get done, fast, proficiently and effectively. 
+
+If a project, such as a new security solution was approved and budgeted from the top down, all I needed to do was do my due diligence - questions, risk assessment, demos, POC, documentation, etc., and once I give my thumbs up, it was good to go. Things would get done in a matter of days if not week or two.
+
+Now, in my new gig, it takes so much time, effort, and energy just to roll something out. For example, the project I am working on is board approved from the top down. All relevant stake holders were aware from day one. All were invited and only some joined some of the meetings. We've been having discussions/demos with multiple vendors for the past few months. We had a meeting to finally kick off the POC, but all of the folks on the IT side suddenly decided to have questions from out of left field, questions that needed to be asked to the vendors, which they had plenty of opportunities to. This put me in a bind. I didn't have the answers. It was so frustrating. I wasn't unprepared. I was prepared to talk about the solution. What it is. What it can do to help the bank succeed. Relevant stakeholders roles and responsibilities as it pertains to integrations. How it fills a gap. How it meets an audit/compliance check box, etc...this whole process started back in Q4 2023 for perspective.
+
+I don't like to throw folks under the bus, but it needed to be done today. A C level and IT Manager were asking questions, which should have been asked to the vendor during one of the many calls we've had. We even had a scoping call to flesh out any questions or concerns that IT may have had. They were part of this call, and yet, the questions wasn't asked! I called them out on this.
+
+If it takes this much effort, energy, and time to roll something out, I don't think I want to be a part of it. Not worth my time. Thoughts?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+288,"Pentesters: How do you maintain access when you are “clocked out”
+Question for pentesters- when your shift is over and you are off work, how do you maintain access until you are back at work the next day? 
+
+I get that you can establish persistence through scheduled tasks, registry keys, ect. But what is your methodology to make sure you have access before you clock out for the day?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+289,"Threat Hunting while Incident Response
+I've recently been offered threat hunter role, have never done it but recently started going through lots of threat hunting reports that are available.
+
+I would say I'm pretty good with Incident Response but threat hunting is a completely different beast, it is easy to identify simple things through KQL but problem comes when you move up the Pyramid of Pain.
+
+Unable to understand the hypothesis work and seems like I won't be able to sleep properly if I took this role, how should I know if it is for me or not. Where can I dive deep, I do have understanding of theoretical concepts but no practical experience with hypothesis and reports.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+290,"Keeping motivation to grow and learn in busy mess SOC
+What advice do you have for someone in the following situation?  
+  
+I work for MSSP, I am 50/50 analyst/engineer when it comes to tasks, dealing with alert queue 1/3 of week and rest I can focus on engineering projects..some projects I inherited where there is need to revive cisco netsec platforms like ngips or stealthwatch cause its not working and we have licenses - this part is daunting for months now cause I am dependent on other infra teams so going very slowly. Automation part of projects is open to me as well, but I was never developer, just fw admin so kinda struggling to enter here too.  
+  
+Team is weirdly fractured as there's EU culture half with slow but quality approach and then US part where baking fast and shipping is priority (the fruit of that can be seen in every upgrade and deployment breaking our pipeline once a week).  
+  
+Both parties have in common non-documentative approach and non-existent patience to mentor and explain holistically how things are configured, non-standard nature differentiating across customers etc. , no proper sharing of how they build stuff, just referencing you to go and check. Tribal knowledge, kinda elitism where if you dont know their interpretation of basic knowledge in developing then they cannot be bothered to guide you. Management is not making any changes cause why endanger delicate working vehicle. Rather in the end of listening to such just cover the problem with joke and problem stays the same.  
+  
+This is something which drives me nuts and turns off any motivation to learn something properly - I have serious problem to grow and I am just type that values sharing, documentation and caring for each other when it comes to creating something..I find very little of that and not sure what mindset to adapt in order to progressively grow and be content with bits of knowledge I acquire and sleep well everyday.  
+  
+tldr; how to stay motivated and not burn out while working with team of people having multitudes of knowledge and no characteristics of being a mentor that holds the hand.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+291,"What is my real issue with Cyber?
+I've been in the Cyber space for 4-5 years now and I've worked at two branches within the same company that whole time. When I was in school for Cyber Security, I thought I was really going to enjoy the work. I'm the guy that my in-law's reach out to with tech problems or asking if an email is legit or not, I'm the one who advises my family about staying safe online, etc. This has spawned from my role as the Information Security Awareness, Training, and Phishing manager at my company - I love the role, mostly. I use to like it more. 
+
+I have worked for this company for going on 5 years now in the same position, more or less, and at two different branches in the company which were in two different countries. I've moved my family across the world for this company. A large reason for the move was to get away from a toxic CISO at my old branch. Now that I've moved to this other branch, my new CISO has begun to show their true colors and is arguably worse than my former CISO. 
+
+Both CISO's have \*said\* that they care about the employee - ""Burnout is real"", ""Take breaks"", ""Take Vacation"". But they proceed to get mad at their employees for the dumbest crap (had a coworker get berated in front of guests at a presentation where he couldn't remember the acronym he was using and our CISO proceeded to chew him out in front of everyone). I once ran a phishing simulation which had some false positives. It was later found out that this was caused due to bad data from HR which included employees that had been terminated for years (some of them were even passed away) when the previous month's lists were fine, meaning a backend change happened at some point and changed my reports without me being told. My CISO proceeded to announce how I was making them look bad, along with the team. By ""look bad"", I mean that the CISO said I was making us look like ""Shit"" - this was in an email with me to our COO. 
+
+That was all just my old CISO. My new CISO yells at me for things like using the moving service that my company paid for to assist me with moving to Germany. Evidently I'm only supposed to use them for urgent things - but getting my new born son registered with the German government isn't urgent? Or cost too much for a multi-billion dollar company? Most recently, I was yelled at because I informed my CISO during a one-on-one that my son might be a bit loud in the background since my wife was putting our daughter to sleep, meaning my son wasn't being attended to. My CISO understood this to mean that I was busy watching my son. She told me how I need to prioritize work and blah blah blah. I ended up becoming so frustrated with my CISO that I was basically yelling at them explaining why what they said was so offensive and wrong. My CISO also would treat a former colleague as if they were the dumbest person my CISO had ever met, even though the colleague has worked in Cyber / Technology since the late 90's. Basically forced the colleague to quit - which they did after handing in a doctor's note saying they needed a week off because of mental stress from our CISO. 
+
+So, I guess my question is: Is the Cyber industry just toxic or am I just unlucky? What are some good, non-technology fields to pivot to? Will the military take a 32 year old veteran still? Cause I'd honestly rather deal with the military again than deal with another CISO.",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+294,"Do hackers stay awake at night when they want to be within working hours of another continent to not be suspicious with login attempts?
+Or do they like automate login attempts, and go to sleep?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+295,"To all the folks who were working on the CS event.
+I feel for and want to recognize all the guys out here worked tirelessly over the weekend to restore services.   I also want to recognize the additional pressure from the constants texts, email and other correspondences from exces who want a ""status update"" and an eta.    For folks that are still recovering - god speed!
+
+Recognition for the sleepless nights is not easy to come by, just an appreciation that the end user thanks you (maybe), the customer impacted by it, certainly does. 
+
+a little humour to hopefully help.  The dialog is key, the scene just facilitates it well.    
+  
+[https://youtu.be/ASsJKc6HCf8?si=fD8LsNtIS8UdoVmY](https://youtu.be/ASsJKc6HCf8?si=fD8LsNtIS8UdoVmY)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+296,"Cybersecurity Job that doesn't involve customer facing interaction
+[27F] Been an IT support for 4yrs . And for the past 6 months in my cybersecurity career, I realized that I can easily pick up and understand the technical know how of the product easily rather than my colleagues. But I'm having a hardtime explaining to a customer and the everyday exhaustion talking to a customer guiding them, troubleshooting, investigating and stuff. Though, our day to day customer is talking to a lot of IT peeps as well. I think I'm good in technical but not explaining how stuff works. Yup,I suck at commskills. Though, I'm always included in the top agent/engineer since I started. I just don't like the fact that talking to different customer everyday. 
+It is really exhausting. The fact that I cannot sleep because I always think of my ticket and troubleshoot it on my mind 🥲
+
+I'm planning to get comptia sec+ so I will pursue a SOC analyst job in my next work. Does being SOC analyst is a customer facing too? Or should I pursue blue/red team or ethical hacking ?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+297,"Palo Alto zero-day fall out
+Anyone else just said hell with sleep due to the Palo Alto zero-day knowing the morning is going to be a shit storm or is it just me?",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+298,"Tales of a 30 Year-Old Cybernaut
+**Intro:**
+
+10 years.
+
+This month marks a decade since I've been in IT. I thought I'd share my experience between starting out as a student employee for my K-12 school to a cloud security architect for a global consulting and service provider.
+
+I'd also like to share my personal background and hobbies to keep it more casual and real than too formal (and how some of it comes full circle later on if you're interested enough to read). If you want to jump straight into the career part, skip to the header titled, **Help Desk (Age 18/19, No pay)**.
+
+**TLDR:** I wrote this post to elaborate on my own personal and professional experience and self-discovery; my decade-long and counting journey in IT / Security, what drew me into infosec, lessons learned, and how I'm bettering myself as a person and professional within the community.
+
+&#x200B;
+
+**Bio / What Got Me Into InfoSec:**
+
+'90s kid, born and raised by divorced parents in Middle America surrounded by farmland and ditches that stretch for 50 miles in every direction until the nearest city / town. When I was a kid, my passion was video games and music, more specifically, metal. Both of these were my escape from the angry, frustrating childhood I experienced rooted from my parents' divorce. They still are my passions, but as a kid, I lived, breathed, and bled video games.
+
+In my youth, it was Crash Bandicoot, Spyro, Tekken, Resident Evil, and Metal Gear Solid on the PS1, and Commandos on the PC. Youth to teenager, it was Max Payne, Hitman, Splinter Cell, Grand Theft Auto, Manhunt, The Warriors, Call of Duty, professional wrestling games, the list goes on, on the PS2.
+
+I was very indecisive on what I wanted to do when I grew up. In middle school, I thought survival teacher. In junior high, I thought American military history teacher. In high school, I thought psychology. In college, I thought military. During the first 1.5 years in college, I changed my major probably 5 times on paper and 8 times in my head.
+
+Over the years, I've learned two things:
+
+1.) Call me crazy, but I believe I enjoyed these video games because there are many *threat modeling* aspects to them all, especially on the offensive side like Hitman, Splinter Cell, and Metal Gear Solid. You have objectives, you assess the situation you're given, and you have to figure out how to bypass / eliminate these threats in your way.
+
+2.) Many, many, many people in infosec come from all backgrounds. Business, law, medicine, literature, music, zoology, etc. Just because a person didn't get a degree in business / tech / cyber doesn't mean they don't know anything about IT / cyber. Experience is what matters, and everyone needs to start somewhere. After all, the education system is broken and doesn't prep anyone for the real world.
+
+\--------------------------------------------
+
+**10-Year Career Path:**
+
+&#x200B;
+
+**Help Desk @ K-12 School (Age 18-19, No pay):**
+
+I was 18-19 when I started out in help desk. It was an elective in high school that was practically a study hall. Myself and another kid were in the Director of Technology's office. We would help him if he needed a hand with something or answer the phone, troubleshoot, etc. for staff when he was away, which was often. He did everything from helping Betty plug her VGA cable into her monitor so her ""computer was no longer black"" anymore to the entire IT budget for the K-12 school system. It was mainly assisting with answering the phone, troubleshooting a smart board, set up MacBooks and iPad racks for the elementary and middle school, and run wire for surveillance cameras.
+
+**Lessons Learned:**
+
+None. I was too stupid at this age. All I cared about in my late teenage years were girls, my car, and my drum set. I had an '88 Oldsmobile Cutlass Supreme. <puts sunglasses on>
+
+&#x200B;
+
+**Asset Protection @ Grocery Store (Age 20, $11/hr):**
+
+My primary job during my high school and early college days was working at a grocery store. My grocery store was looking for an asset protection / loss prevention associate. Semi-jokingly, I applied, got 2 interviews, and was accepted. I say ""semi-jokingly"" because I truly never understood what that job was. All I knew was I got to walk around dressed normally without having a supervisor on my ass, or so it seemed. I was 20 and way too stupid to realize what I was diving into.
+
+Asset protection / loss prevention is essentially physical security; monitor, detect, and prevent financial loss via fraud and theft from both employees (internal) and customers (external). For this role, there were mandatory classes that were held for a week or two about laws, store policies, self-defense, etc.; essentially a watered down criminal justice course.
+
+There was so much thrown at me within the 6 months I had that role. I experienced coworkers bend the rules and attempt to apprehend thieves aggressively, chasing them in the parking lot, ripping their handbag off their shoulders with stolen merchandise in it, calling 911 multiple times a day to report theft, burning CDs with surveillance footage for local police and evidence for ongoing investigations, getting yelled at by meth head customers, investigating an incident on Thanksgiving Night where a traveling construction contractor lost his wallet at the store's gas station, which ended up being stolen by one of the employees who later quit, accidentally setting the fire alarm in the store off, quickly running to a fire in the deli department (different day) ensuring everyone was safe (they were), etc.
+
+In my small, farm town, I caught one person - an old lady stealing cat food and other misc. items off the shelf who was caught doing it elsewhere in the region in the past. It was \~ $40 worth of items, and apparently enough for the cop that I called to arrest her right then and there in the security office, and I had to escort the cop with her in cuffs out to his patrol car.
+
+It was a role I never anticipated being in, especially at an age where I couldn't even legally drink alcohol yet, but I learned a lot from it. Part of me was proud that I caught my first and only person because the on-the-job (OTJ) training quota was apprehending like 10 people within the first 6 months, which is what ultimately led to me switching departments versus just being released. But in hindsight, I really felt bad for the lady. No one knows what her life circumstances were, what issues she was battling, etc. But it was my job. Due to my ""poor results"" per the OJT quota, I switched departments before applying and getting accepted for a student employee position in the IT department at the college I was attending. My friend was already an employee there, and he helped me with the employment opportunity.
+
+**Lessons Learned:**
+
+*Adaptation*. Mentally, this job was a learning curve and noticeable pivot for me in my work ethic, attitude, hunger for knowledge, general curiosity, and tenacity. There was so much thrown at me, my brain couldn't wrap around all of it. It was a mental shift where I gained fuel for tenacity and adapted to the mentality, '*I don't care what I have to do to get the job done, so long as I know what I'm doing*'. I'm glad I experienced it, but don't miss it whatsoever. I liked the idea of potentially having a career in safety, so much so that I ended up having a phone interview with a safety manager who worked at the state level just asking about his career, why he likes it, what his path was, etc. But for this role? $11/hr wasn't enough for me to potentially get my ass beat or shot by an unhinged person on a random Tuesday.
+
+&#x200B;
+
+**Help Desk / Desktop Support @ College / University: (Age 20-22, Min. wage):**
+
+Despite moving to another help desk role, I still didn't know what career I wanted. This was one of the best jobs I've ever had. I was part of a fantastic small team of network / sysadmins who really threw us into the frying pan with hands-on experience, which will always be the best way to learn. It builds self-discovery and soft skills.
+
+I didn't know what a T-568B or what an RJ-45 plug was. I patched my first cable, redid the entire cable management and desktop / workstation setups in classrooms and conference rooms, ran wire through the ceilings, set up IP cameras, troubleshot with users via controlling their screen through System Center Configuration Manager (SCCM), now known as Microsoft Endpoint Configuration Manager, printers, degaussing hard drives, physically destroying them, re-imaged devices, etc.
+
+When I got my Associate's, I transferred to a university to pursue for my bachelor's. But before I transferred, I learned that the college's Chief Technology Officer (CTO) was an information security guru. Didn't know anything about information security, but the terminology fascinated me.
+
+*Access control, risk management, firewall, vulnerability management, etc.*
+
+For some reason, I thought Security was all coding. I was absolutely 100% clueless, and was evidently unaware I had already done Security (the asset protection role).
+
+Before I continued my post-secondary journey at the university, I found the Desktop Support Manager of the university's email, sent him an email directly with my résumé, and asked if he offered / needed student employees to help. He replied a week or so later asking for an interview, which I got and was accepted immediately, essentially doing the same thing but on a much larger scale. Instead of 5 IT people, there were around 200, all scattered within different departments, i.e. Helpdesk, Desktop Support, Security, Enterprise Applications, Database, college / building support, etc.
+
+Told my new manager about my interest in Security, in which he put word out for me to the Chief Information Security Officer (CISO) of the university for a potential internship opportunity. I had an interview with him a few weeks later on Friday, October 21st, 2016 at 10am in his office. He was happy to move me into Security starting Monday.
+
+Right place, right time.
+
+**Lessons Learned:**
+
+*Google.* Oh my God, people, GOOGLE IT. This is one of, if not, THEE most universal example everyone should understand. One of the questions the director and sysadmins asked me in my job interview was, ""What do you do when you don't know the answer to something?"" My response was, ""Ask someone else."" ""What if no one else is available?"" ""...Google?"" ""Yep. Correct."" Even if someone was nearby and you knew they have the answer, still attempt to find out yourself. Resist relying on others. Obviously not all the time since it's not *always* possible, but prohibit yourself from always having someone fetch information for you when you can simply Google the answer or try accessing what you have access to, to find what you're looking for first **before** relying on others.
+
+*Under promise, over deliver*. Tell a customer you can fix their issue in 5 days and it takes you 5 hours, you're a hero. Tell a customer you can fix their issue in 5 hours and it takes you 5 days, you provided a bad service, even if the end result was exactly what they wanted. Bottom line is you promised 5 hours, and it took you 5 days. Word on bad experiences aka reputation gets around quicker than good experiences. Think before you say. Soft skill 101.
+
+*Orange-white, orange, green-white, blue, blue-white, green, brown-white, brown*. Networking 101.
+
+I truly believe if you want to work in IT, whether it's Security or not, Helpdesk is the absolute most best place to start. You learn the basics, you learn the people skills and soft skills, which can take your career to an incredible distance.
+
+&#x200B;
+
+**Security Intern @ University (Age 22-24, Min. wage):**
+
+During the interview with the CISO, he asked me what made me interested in security. I responded exactly what I said above. ""Honestly, I don't know anything about it, but the terminology fascinates me."" He took that as a positive in that I was simply *curious*.
+
+The CISO was also a lawyer, which was another shift in my curiosity. It made me wonder, ""Why is a lawyer working in cybersecurity? I thought you went to law school to work at a law firm or self-practice."" I thought it was a stupid question, so I kept it to myself, but answered it on my own the next \~ 2-3 months of being there - HIPAA, SOX, GDPR, etc. Where, how, and why the law intertwines with technology alone was / is still super fascinating enough for me to say, ""This is definitely what I want my career to be.""
+
+Helpdesk / Desktop Support and Security are apples and oranges in terms of permissions and rights. As a result, I didn't have anything to do at least 80% of the time I was employed there, but did the grunt work, i.e. Excel, setting up devices in the ""lab"", deploying hardware to a separate campus, etc. The crew was awesome in that they were no nonsense, sarcastic people, annoyed with end users, and were passionate about what they did. I fit right in with these guys.
+
+I would do a couple tasks and be done for the day unless they needed me to do some grunt work in Excel. Those tasks were to enter tickets for what we called the ""Top 10"". The Top 10 were the top ten devices that had the highest risk score passed a certain threshold that day. I would enter a ticket to order the asset owner(s) to remediate the vulnerabilities on the device.
+
+I would also handle copyright infringement. We would get an email from a production studio company like Paramount Pictures, telling us someone on our network with X IP address on Y date / time was illegally downloading / streaming content they didn't pay for. Via Splunk queries, I was able to map the identity of the details of that user given in the email, document what they watched, when they watched it, on what device they watched it on, etc., and submit the form to the Office of Student Conduct & Community Standards (OSC&CS). Essentially, it was a slap on the wrist to them more than anything, but damn, did that power feel good for Lil 22 year-old me.
+
+Through my colleagues outside of work and school, I was starting to attend the following local security conferences - Information Systems Security Association (ISSA), Information Systems & Audit Control Association (ISACA), and InfraGard. ISSA is generally everything security. ISACA is mainly geared towards auditing and security. InfraGard is an organization partnered with the FBI mainly focused on U.S. critical infrastructure.
+
+Then came 2017; one of the worst documented years in cyber history, mainly due to WannaCry. Quantitatively speaking, we didn't get hit hard. Qualitatively, we got hit so hard, it was only worse than the Equifax breach because human safety was at risk. All because of a ransomware attack. Luckily no one actually died, but holy shit, what madness this field can be. That was my one and only shit-hit-the-fan moment in this field where it was a true positive, and luckily I was only an intern, so I didn't have any accountability / stress of rem, but I got a taste of the real cyber world with the best seats in the house; front-row, center.
+
+One of the architects retired from the university to go work elsewhere as an analyst. That company was offering an IT internship. Through his word and my application, I got an interview and was accepted.
+
+**Lessons Learned:**
+
+*Networking.* If your colleagues have positive things to say about a specific person whether it's work ethic, great character, both, etc., get to know them. You could not only learn from them, but chatting with them can build yourself a connection.
+
+*This business changes every 2 minutes.* It really is cyber police. Most of the time, the work can be boring until the short-lived adrenaline rush from a potential incident kicks in. Even now, every week I see a company that was hacked or a global tech giant that was fined for violating laws.
+
+*Cover Your Ass (CYA).* Document. Everything. Seriously.
+
+*For the love of God, don't use Windows XP devices for crucial operations, i.e. providing gas to hospital patients who literally rely on those to live.*
+
+&#x200B;
+
+**IT Internship @ Agriculture Company (Age 24, $18/hr):**
+
+I had two roles with this job. I was originally put in with project management to handle metrics and status updates on SAP tickets and defects. This was the worst role I ever had. Not only did the 50, 60-year old PM want me understand her god awful paralysis-by-analysis Excel spreadsheet, but I never understood nor learned a thing, and she wanted me to contact everyone physically (not via Skype chat) who needed to provide updates so she can update her slide deck.
+
+I was already a disgruntled dude who doesn't want to be bothered and who knows what it's like when a random stranger, especially an intern, approaches you with a clipboard, nagging at you for input. She wanted me to do this every Monday, and I ignored the physical approach. I would message them on Skype, so I'm not bothering them and that they don't feel micromanaged. Plus, I didn't want to be known as ""that guy"".
+
+She disagreed with me and was upset that I didn't physically approach with them, and the task eventually was handled by the other intern who was hired; who, by the way, kept talking about how he missed his ex-girlfriend so much and that he wanted to show up at her house with roses wearing a tuxedo begging for her back. I'm sitting there in there in my head like, ""Dude. I have to test the configuration and utilization of this software. Can I go back to testing while listening to the OST of Hitman: Contracts?""
+
+So I asked for other work around the office and ended up assisting with the identity & access management (IAM) and governance, risk, & compliance (GRC) teams. It was a little bit of Security and a little bit of internal audit. They were in the midst of migrating to ServiceNow, to which I was selected to perform some security and software assessment and testing on. That was okay, but it definitely beat being the lame PM henchman.
+
+I was finishing the last course for my Bachelor's that season and was hunting for my first full-time job. I was accepted for a position as a Support Specialist at a small bank in my hometown, which so happened to be the first IT role in that town for probably several years.
+
+**Lessons Learned:**
+
+*More networking*. This was only a summer internship, so I wasn't here long. But in my short time of being here, I met A LOT of people; most of which I met just by scheduling 1:1 meetings with to learn about their background and how they got to where they were. That's a potential hack for interns: If you want to network, but just don't know where to start, try scheduling 1-on-1 meetings with individuals you're interested in learning about. You learn a lot about their personal and professional background, depending how open you are. It builds connections, potential friendships, and overall networking. Someday, that person you met through a simple 1:1 meeting could get you in at another job.
+
+&#x200B;
+
+**IT Support @ Small Bank (Age 24, $41k/yr):**
+
+Part of me wants to backtrack and say **this** was the worst job I had, but I actually learned from this job. Mainly what *not* to do. I was provided the opposite of my lessons learned from the help desk days. I was over-promised and under-delivered and unappreciated. I was promised free training during the interview, but it was never brought up again after that day. I was promised to learn more networking / communication aspects, but was never offered a task. I sat there for 2 months doing nothing.
+
+Everyone who worked there was nice personally, but their work ethic sucked. One guy had been there since the late 70s and was disgruntled and tired, and said, ""I hate this place"" every day. And he was my favorite of the bunch. The late 50s / early 60-year old I shared an office with kept falling asleep on the job and was on his phone constantly. This guy was also the father of my high school prom date (lol). The one and only helpdesk admin would walk to work from his house and immediately FaceTime with his wife and kids when he sat in his cubicle behind me. My direct supervisor lived an hour away and wouldn't come in until 10-10:30, be on the phone all day bullshitting with people (rarely anything work related) and would be on the toilet somewhere between 3:30 and 4, and be there past 5. This was also the guy who had hired me, promised me training, and didn't teach me anything because he wanted to be the ""hero"" to come in and save the day and not pass any knowledge to me. Without a shadow of a doubt, the worst boss I ever had.
+
+I did get permission from him to start building and developing security policies, guidelines, standards, baselines, etc. That was fun, but it was all for nothing when I found out that none of them were even reviewed and completely fell off the radar. I think he just had me literally do something to make myself seem useful. Yet, I'm his employee, so I should be his shadow, but guess not.
+
+I also provided new Dell workstations to users and developed an entire re-imaging / validation process from acquiring the old device and providing them with the new. I came in at 5am during the week for a couple weeks and sometimes on Sunday mornings to catch up where I left off. It was a big ask, and I wanted to prove myself. My direct supervisor didn't care at all, and all the Chief Information Officer (CIO) said was, ""Good"" and walked away. It was right there that I knew I was worth way more than this.
+
+The CIO, who was also the Chief Operations Officer (COO), once engaged me and said their helpdesk admin cannot be trusted. The CIO and helpdesk administrator have nearly come fisticuffs and on more than just one occasion during the 6 months I was there. And that wasn't even the worst part about this role.
+
+Christmas Eve was my very last day. My supervisor asked if I stay at the office until he was there. He didn't get there until 2-3pm. He cornered me and asked me for my password. He claimed that he needed my credentials so that he can use my account to have full control on other users' access from when I went about creating images for people's devices. I wasn't entirely understanding how that was possible and given that it was my last day, I caved in pretty easily and wrote it down for him.
+
+Immediately, hindsight kicked in, and I was pretty pissed at myself. To this day, I still look back on that and wonder why the hell I didn't bother laughing at his face and ignored him. But I had nothing against the people there personally, I just knew I'd never go back there even if they offered me $250k/yr.
+
+The last thing I did was deploy more Dell devices by driving a van full of equipment 2.5 hours away to their mortgage / loan branch and set up workstations there, which was a multi-day process. It was nice to stay at a random hotel and get out of that hellhole for a short period of time.
+
+I knew a guy who I used to work with who had an executive role for a business services company. He had passed my résumé onto HR, and I eventually was reached out to, got an interview, and accepted for a consulting role in Security.
+
+Funny enough, when I told the bank's CIO I was quitting to go work for a consulting company elsewhere that's paying me $17k more for work I actually want to do, he was unsupportive of my decision and said, ""It will chew me up and spit me out"" and that he could've ""easily"" seen me being the CISO of that bank.
+
+So *consulting* will chew me up and spit me out, yet I can *easily* be envisioned as a *CISO*. As someone who hadn't been a consultant yet nor a CISO, I was baffled by this statement, but essentially said it's my own decision, and I'll take my chances.
+
+**Lessons Learned:**
+
+What *not* to do. There was the bad, and there was the ugly. Notice I didn't mention good because, well...there wasn't any.
+
+&#x200B;
+
+**Security Analyst to Cloud Security Architect @ Global Consulting & Service Provider (Age 24 - Present; $58k/yr - $118k/yr 4.5 years later):**
+
+I wouldn't say this was a new life chapter, but a new whole book. This was the real deal. A full-time role in a city, 2+ hours away from home, finally living on my own for the first time in my life. These were the bachelor years. I feel I owed the guy who put word in for me for this new role and growth opportunity. If it weren't for him, I wouldn't have this. I got a mediocre apartment in a central spot located within city limits, with everything from the home office, to groceries, to downtown, to the airport, all within 20 minutes or less from me.
+
+Every new hire for this company is essentially trained from the get-go to be a consultant, despite that not being everyone's role. It was standard protocol. There were about 20 new hires with me. During onboarding, we took a consulting course that really challenged me as it wasn't anything I experienced before. Every time someone said, ""scope"", I would just think of a Leupold rifle scope.
+
+After onboarding, there was the 2-week mandatory training, which was essentially more consulting-oriented classes. This took place in a major city along the west coast where we were there for 2 weeks practically for free. Just the idea of being over 2,500 miles away from home was one of the biggest breaths of fresh air I've ever experienced. We took classes for 8 hours, we explored the city on the weekends, and even hiked up a mountain as a group activity.
+
+That mountain hike was actually an interesting demonstration of team work. Our team lead purposely put this together, so that he could also visually point at who was marching ahead, who stayed back to help others, who was checking in, etc. There was no right or wrong, any expectation, it was nothing more or less than an observation to him, and to ourselves.
+
+Training and fun is over, now we get into the heart of it. I'm immediately put on a project within my new home city with a bank. Then a manufacturing company. Then a hospital. All of these were short-term engagements where we were selling them Microsoft solutions. This was Intune and Defender - back when it was known as Advanced Threat Protection (ATP).
+
+I was then on the bench for about 4 months. ""The Bench"" is a consulting term, or so I think. I didn't know anything about being on the bench, what it meant, how it could impact me, etc. Being on the bench is generally not a good thing because it means you're not chargeable to another client aka you're not billing time towards a client. Being on the bench, at least to this company, means you're expected to keep applying to other roles so you can get staffed, but until then, take training and get a new certification every 2 weeks. As someone who is a terrible test taker, this made my heart sink. The training and certifications are free regardless of the outcome, but passing a whole new test every 2 weeks is insane. Luckily, I was able to get a fundamentals certification that I believe saved me from getting fired. In hindsight, it does make sense. Executives are going to eventually wonder why they're paying me $60k/yr if I haven't been staffed to a client.
+
+During bench time, I was finally staffed to a Managed Security Services (MSS) team of about 12-13 people (now we're at 40+). We were a small group of shared resources where all of us were staffed to multiple clients simultaneously. So we had the same managers and resources on multiple projects. This was nice for two reasons.
+
+1.) If you're staffed to 4 projects and released from 1, you're still staffed to 3, so you're not on the bench. In other words, you remain chargeable.
+
+2.) More clients means more tools and technologies to learn and play with, which means more experience, which means growth.
+
+In the last 5 years, I've worked with clients in aerospace & defense, government, banking, manufacturing, and medical industries. I've worked with cloud & infrastructure security, cyber defense, data protection, and elements within, i.e. security information & event management (SIEM), endpoint detection & response (EDR), data loss prevention (DLP), file integrity monitoring (FIM), threat & vulnerability management (TVM), identity & access management (IAM), and governance, risk, & compliance (GRC). On the business service side, I helped facilitate a 24x7 business model for our remote security operations center (SOC) team. I trained and still train analysts on all shifts with different tools for different clients helping them navigate and utilize specific tools and how to apply it to our incident response plan (IRP) for that client.
+
+Between then and now, I was promoted 3 more times. What helped was me positioning myself to being the backup for every subject matter expert (SME) I worked with. I didn't know the tool as much as the SMEs did, but I did know enough to know what it does, its purpose, and the alerting (if any), monitoring, and reporting (if any) aspects of that tool. I would say this is a key point if you want to be an architect. You don't need to know everything at a granular level, but you do need to know the basics of the what, where, when, and how. What is setup, where is it located, when does it do its purposeful actions, and how.
+
+This isn't something that can be learned in a short period of time. A lot of grunt work, a lot of tedious tasks, and a lot of red tape, especially when your clients are in the public sector. The worst thing I ever experienced in this role was working with another team for a government client that made me work on an Excel spreadsheet with 25-30 tabs, VLOOKUPs everywhere, 15-20 pivot tables, and the output of all this was their threat & vulnerability management (TVM) metrics. I wish I was exaggerating when I said this, but it took me from 6am - 10pm (16 hours, not a typo) to start and finish this sheet. 50% because it was confusing, 50% because my laptop couldn't handle the size of this file. Finally 10pm hits, only to be told the real thing was already submitted and that this was ""just a practice round"". Oh, and this was also during a July where my A/C wasn't working nor my apartment complex was taking an effort to fix.
+
+That was one of many inconvenient work tasks I've had, and there are countless I've had in the last 5 years, but that was easily the worst by far. What kept me with this team was the support group that came with it. These guys are nice personally and some of their work ethic has a coasting feel to it because they've been doing this longer than me. However, a work / life balance is perfected with this team, and that is really what matters to me. Some clients can be hell, but that's what a supportive team is for. Some clients can be hell, but in the end, you're going to come out with something you didn't have before.
+
+**Lessons Learned:**
+
+*Identify, plan, execute, evaluate, adjust, and repeat.* When this process becomes second nature, any goal becomes achievable. It's funny how this job works. If you break down infosec concepts, they apply to life like math where you do it almost every day but don't realize it.
+
+There's certainly way more, but I found the above lesson to be the most important truthfully.
+
+\--------------------------------------------
+
+**Present Day:**
+
+On the professional side, my current role is a Technical & Compliance Lead for a client with an Azure GCC High environment. It's stressful, but being a jack-of-all-trades, I'm learning many valuable skills I can carry with me elsewhere. I'm also studying for the Certified Information Systems Security Professional (CISSP).
+
+On the personal side, I have a girlfriend, I'm almost 30, and have really counted my blessings in the last year or two. I'm incredibly fortunate and lucky to have had the experience I've had in this field and the people I have in my life to this day. What's changed between then and now is an increased chance of burnout.
+
+Burnout is real as fuck. Mental health is enormous and why a work / life balance is crucial for me. I was burnt out for a while until I discovered a game called Deep Rock Galactic - easily one of the best co-op games I've ever experienced. It's enough for me to unplug and reset my mental capacity. And hey, there's threat modeling concepts within it. :) I'm also interested in audio and sound design. This is a hobby of mine that tremendously helps with burnout. Also, walking. Taking daily walks is one of my favorite activities because I get to go outside, stretch, get the body mechanics in motion, and just think clearly to myself. It's almost like my meditation.
+
+In my early to mid 20s, I was all about the work because it was all I really had. I was on the grind with commuting to college, doing homework, and finding roles to gain experience. Now that my 20s are closing up shop, I'm focused on my life now and what life is going to be like 30 years from now.
+
+*Who do I want in my life? Who do I want to exclude in my life? Where am I in life? Where do I want to end up in life? What life goals have I accomplished? What other life goals do I want to accomplish?*
+
+These are questions I now ask myself every day that can apply to a lot of general life concepts. Ultimately, it all boils down to what you value.
+
+**My Lessons to You:**
+
+*Google. Take an initiative. CYA. Network. Get a hobby.*
+
+Best of luck to up and comers, newbies, seniors, and veterans who reside in this field with me. Please feel free to ask any questions.
+
+Enjoy your Wednesday!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+300,"Passed the CCSP
+Took the exam today -> Passed it!
+
+150 questions. It was difficult but I didn't take the full 4 hours. I finished in about 2.5 hours.
+
+I struggled with the legal portion of the exam - never my strong suite, but the data protection, infrastructure security, and cloud concepts were easier. 
+
+If I had to offer a piece of advice:
+
+Read the entire question and all the answers at least 2 times -- read every word! I had some questions where I would think that the answer was A, but I re-read the question and saw one word that I didn't notice before and I changed my answer to B. Every word matters! The questions are purposely written to make you think it through - it's not as easy as question -> answer. There are multiple right answers, and you have to find the best one.
+
+My studying XP might be different than yours - I got the book/test bundle and read through the CSA guide. Some might need more, some might need less - but I recommend the official Sybex book bundle -- well written and it goes over most of the topics on the exam.  Took me about a month to finish it and understand the concepts.
+
+I'm not a video learner - I need to read, so I didn't do any video based courses.
+
+Oh, and remember to get a good night sleep before -- underrated IMO.
+
+Good luck!",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+303,"Is it a fairy tale to want to get into Tech, but also have a good work life balance?
+DevOps, Cyber Security, Software Engineering/Coding, Data Analyst are all careers Im debating going down. While I would have a lot of passion for critical thinking and applying that to the related skills, Is it fool hardy to think I can break into this sector without being an eat/sleep/coder?
+
+Don't read this as not being passionate about this area-one just gets a sense of a lot of extreme hustle culture at the expense of time with friends/family/good sleep/other hobbies.  
+
+Can I still find a successful career in this area while still having a life essentially? Is what I described pretty much expected across the sector categorically, or is that more a requirement if one wants to speed run to a FAANG position @ 24",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+304,"🤣 Ivanti is hiring an Offensive Security Engineer
+https://www.linkedin.com/jobs/view/3916435154
+
+Looks like triage and assessment of reported vulnerabilities. Makes me wonder if this is a new position or if the old team was just asleep at the wheel...",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+306,Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training,1,1,Few-Shot-CoT_BERT,bert-base-uncased
+307,"AI poisoning could turn open models into destructive “sleeper agents,” says Anthropic",1,1,Few-Shot-CoT_BERT,bert-base-uncased
+308,"Googles AI Breakthrough in Cybersecurity serves as a warning
+Google has unveiled a world-first innovation: AI discovering a zero-day vulnerability in widely-used software. Through a collaboration between Google’s Project Zero and DeepMind, the ""Big Sleep"" AI agent identified a memory safety flaw in SQLite, a popular database engine. This achievement is a milestone in cybersecurity, leveraging artificial intelligence for enhanced protection.
+
+The groundbreaking find underscores the power of AI when combined with skilled ethical hackers. Google’s Project Zero, known for hunting down critical vulnerabilities, and DeepMind's AI expertise are setting new standards with this large language model-driven agent. Big Sleep is pushing the boundaries of what’s possible in preemptive security measures.
+
+Traditionally, fuzzing (injecting random data to uncover bugs) has been a key tool, but it has limitations. Big Sleep aims to overcome these by detecting complex vulnerabilities before software even reaches users. This could pave the way for AI to become an integral part of software testing, catching issues traditional methods miss.
+
+Although still experimental, Google’s Big Sleep points to a promising future. As AI tools evolve, they could streamline vulnerability management, making it faster and more cost-effective. With innovations like these, defenders may finally stay one step ahead in the cybersecurity race.
+
+I've kept saying this is going to happen and now Google has actually done it, programmed Al to discover zero-day vulnerabilities. This should be a warning becaus malicious security hackers will be looking for 0-day vulnerabilities this way as well and a celebration because Al will help in finding those vulnerabilities.
+
+Read more in this article: [https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/](https://www.forbes.com/sites/daveywinder/2024/11/04/google-claims-world-first-as-ai-finds-0-day-security-vulnerability/)",1,1,Few-Shot-CoT_BERT,bert-base-uncased
