@@ -1,0 +1,4 @@
+Model,Strategy,Accuracy,F1_Macro,Precision,Recall
+BERT,Fine-tuned,0.7543,0.7543,0.758,0.7571
+RoBERTa,Fine-tuned,0.7301,0.7297,0.7373,0.7341
+DistilBERT,Fine-tuned,0.7197,0.7195,0.7251,0.7231
